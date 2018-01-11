@@ -1,6 +1,24 @@
 ---
 title: Introduction to Web Accessibility
 permalink: /fundamentals/accessibility-intro/
+redirect_from: /
+layout: default
+# date: 2016-05-08
+# people:
+#   editorslabel: "Editor"
+#   editors:
+#     - name: Kevin White
+#       url: https://www.w3.org/People/kevin/
+#     - name: Shadi Abou-Zahra
+#       url: https://www.w3.org/People/Shadi/
+#   contributors:
+#     - name: Judy Brewer
+#       url: https://www.w3.org/People/Brewer/
+#     - name: Shawn Lawton Henry
+#       url: https://www.w3.org/People/Shawn/
+# support:
+#   - name: WAI-ACT Project, a project of the European Commission IST Programme
+#     url: http://www.w3.org/WAI/ACT/
 ---
 
 {::nomarkdown}
