@@ -8,7 +8,7 @@ permalink: /fundamentals/accessibility-intro/
 {:/} 
 <h2>Summary</h2>
 <p>Properly designed and coded websites and tools can be used by people with disabilities. However, currently many sites and tools are developed with accessibility barriers that make it difficult or impossible for some people to use them. This page explains more about:</p>
-  <ul>
+<ul>
     <li><a href="#intro">Accessibility in Context</a></li>
     <li><a href="#i-what">What is Web Accessibility</a></li>
     <li><a href="#important">Accessibility is Important for Individuals, Organizations, Society</a></li>
@@ -16,11 +16,7 @@ permalink: /fundamentals/accessibility-intro/
     <li><a href="#evaluate">Evaluating Accessibility</a></li>
     <li><a href="#more-info"> More Information</a></li>
   </ul>
-<p>You might also be interested in:</p>
-<ul>
-  <li>A 4-minute video introduction at: <a href="https://www.w3.org/WAI/videos/standards-and-benefits.html">Video Introduction to Web Accessibility and W3C Standards</a></li>
-  <li>Pointing others to a shorter version of this information at: <a href="http://www.w3.org/standards/webdesign/accessibility">Accessibility - W3C</a></li>
-</ul>
+<p>You might also be interested in a 4-minute <a href="https://www.w3.org/WAI/videos/standards-and-benefits.html">Video Introduction to Web Accessibility and W3C Standards</a>.</p>
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
@@ -34,8 +30,7 @@ permalink: /fundamentals/accessibility-intro/
 <p>Thus <strong>the impact of disability is radically changed on the Web because the Web removes barriers</strong> to communication and interaction that many people face in the physical world. However, when websites,  applications, technologies, or  tools are badly designed, they can create barriers that exclude people from using the Web.</p>
 <p style="background-color: #f1f7fb"><strong>Accessibility is essential for developers and organizations that want to create high quality websites and web tools, and not exclude people from using their products and services.</strong></p>
 <h2 id="i-what">What is Web Accessibility</h2>
-<p>@@ Web accessibility means websites and web tools are designed so that people with disabilities can use the Web.@@<br>
-  Web accessibility means that people with disabilities can use the Web.
+<p>  Web accessibility means that people with disabilities can use the Web.
 More specifically, it means  people with disabilities can:</p>
 <ul>
   <li>perceive, understand, navigate, and interact with the Web</li>
@@ -53,7 +48,7 @@ More specifically, it means  people with disabilities can:</p>
 <div style="width: 25%; padding: 3px; float: right; position: relative; font-size: 85%; color: #707070;"><strong><em>More info:</em></strong> When you want to learn more about how different
   disabilities affect Web use, and read about scenarios of people with
   disabilities using the Web, see <a href="http://www.w3.org/WAI/intro/people-use-web/Overview.html">How People with Disabilities Use the Web</a>.</div>
-<p>Web accessibility  also <strong>benefits</strong> people <em>without</em> disabilities, including:</p>
+<p>Web accessibility  also <strong>benefits</strong> people <em>without</em> disabilities, for example:</p>
 <ul>
   <li>people using mobile phones, smart watches, digital TVs, etc.</li>
   <li>older people with changing abilities due to ageing</li>
@@ -62,7 +57,7 @@ More specifically, it means  people with disabilities can:</p>
   <li>people using a slow Internet connection, or how have limited or expensive bandwidth</li>
 </ul>
 <div style="width: 25%; padding: 3px; float: right; position: relative; font-size: 85%; color: #707070;"><strong><em>More info:</em></strong> If you want  specific examples of benefits for others with  WCAG to back it up, see <a href="https://www.w3.org/WAI/bcase/soc#groups">Web Accessibility Benefits People With and Without Disabilities</a>.</div>
-<p>To see a 7-minute video with examples of how accessibility is essential for people with disabilities and useful for everyone in a variety of situations, check out this  <a href="https://www.youtube.com/watch?v=3f31oufqFSM">Web Accessibility Perspectives Video</a>.</p>
+<p>To see a 7-minute video with examples of how accessibility is essential for people with disabilities and useful for everyone in a variety of situations, check out:  <a href="https://www.youtube.com/watch?v=3f31oufqFSM">Web Accessibility Perspectives Video</a>.</p>
 {% include excol.html type="start" id="examples" %}
 <h3>3 Examples of Web Accessibility</h3>
 {% include excol.html type="middle" %}
