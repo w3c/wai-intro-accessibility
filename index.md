@@ -166,7 +166,6 @@ disabilities using the Web, see <a href="http://www.w3.org/WAI/intro/people-use-
 <p><a href="http://www.w3.org/WAI/highlights/200606wcag2interview.html"><img src="http://www.w3.org/WAI/intro/transcript.png" class="right" width="251" height="254" alt="example transcript" /></a></p>
 <p>Just as images aren't available to people who can't see, audio files aren't available to people who can't hear. Providing a text transcript makes the audio information accessible to people who are deaf or hard of hearing, as well as to search engines and other technologies that can't hear.</p>
 <p>It's easy and relatively inexpensive for websites to provide transcripts. There are also <a href="http://www.uiaccess.com/transcripts/transcript_services.html">transcription services</a> that create text transcripts in HTML format.</p>
-<h3>More Examples</h3>
 {::nomarkdown}
 {% include box.html type="start" title="More Examples" class="simple aside" %}
 {:/} 
