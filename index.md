@@ -24,11 +24,17 @@ layout: default
 {:/}
 
 <h2 id="intro">Accessibility in Context</h2>
-<blockquote class="special">
+{::nomarkdown}
+{% include box.html type="start" class="simple aside" %}
+{:/} 
+<blockquote>
   <p>The power of the Web is in its universality.<br />
     Access by everyone regardless of disability is an essential aspect.</p>
   <cite><strong>Tim Berners-Lee</strong>, W3C Director and inventor of the World Wide Web</cite>
 </blockquote>
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 <p>The Web is fundamentally designed to work for all people, whatever their hardware, software, language,  location, or  ability. When the Web meets this goal, it is accessible to people with a diverse range of hearing, movement, sight, and cognitive ability.</p>
 <p>Thus <strong>the impact of disability is radically changed on the Web because the Web removes barriers</strong> to communication and interaction that many people face in the physical world. However, when websites,  applications, technologies, or  tools are badly designed, they can create barriers that exclude people from using the Web.</p>
 <p><strong>Accessibility is essential for developers and organizations that want to create high quality websites and web tools, and not exclude people from using their products and services.</strong></p>
@@ -39,6 +45,15 @@ More specifically, it means  people with disabilities can:</p>
   <li>perceive, understand, navigate, and interact with the Web</li>
   <li>contribute to the Web</li>
 </ul>
+{::nomarkdown}
+{% include box.html type="start" title="More Info" class="simple right aside" %}
+{:/} 
+<p>When you want to learn more about how different
+disabilities affect Web use, and read about scenarios of people with
+disabilities using the Web, see <a href="http://www.w3.org/WAI/intro/people-use-web/Overview.html">How People with Disabilities Use the Web</a>.</p>
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 <p>Web accessibility encompasses all disabilities that  affect access to the Web, including:</p>
 <ul>
   <li>auditory</li>
@@ -51,9 +66,7 @@ More specifically, it means  people with disabilities can:</p>
 {::nomarkdown}
 {% include box.html type="start" title="More Info" class="simple right aside" %}
 {:/} 
-<p>When you want to learn more about how different
-disabilities affect Web use, and read about scenarios of people with
-disabilities using the Web, see <a href="http://www.w3.org/WAI/intro/people-use-web/Overview.html">How People with Disabilities Use the Web</a>.</p>
+<p>If you want  specific examples of benefits for others with  WCAG to back it up, see <a href="https://www.w3.org/WAI/bcase/soc#groups">Web Accessibility Benefits People With and Without Disabilities</a>.</p>
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
@@ -65,13 +78,6 @@ disabilities using the Web, see <a href="http://www.w3.org/WAI/intro/people-use-
   <li>people is an environment where they cannot listen to audio</li>
   <li>people using a slow Internet connection, or how have limited or expensive bandwidth</li>
 </ul>
-{::nomarkdown}
-{% include box.html type="start" title="More Info" class="simple right aside" %}
-{:/} 
-<p>If you want  specific examples of benefits for others with  WCAG to back it up, see <a href="https://www.w3.org/WAI/bcase/soc#groups">Web Accessibility Benefits People With and Without Disabilities</a>.</p>
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
 <p>To see a 7-minute video with examples of how accessibility is essential for people with disabilities and useful for everyone in a variety of situations, check out:  <a href="https://www.youtube.com/watch?v=3f31oufqFSM">Web Accessibility Perspectives Video</a>.</p>
 {% include excol.html type="start" id="examples" %}
 <h3>3 Examples of Web Accessibility</h3>
@@ -90,37 +96,31 @@ disabilities using the Web, see <a href="http://www.w3.org/WAI/intro/people-use-
 <p>It's easy and relatively inexpensive for websites to provide transcripts. There are also <a href="http://www.uiaccess.com/transcripts/transcript_services.html">transcription services</a> that create text transcripts in HTML format.</p>
 {% include excol.html type="end" %}
 <h2 id="important"> Accessibility is Important for Individuals, Organizations, Society</h2>
-<p>The Web is an increasingly important resource in many aspects of life: education, employment, government, commerce, health care, recreation, and more. It is essential that the Web be accessible in order to provide <strong>equal access</strong> and <strong>equal opportunity</strong> to people with diverse abilities. An accessible Web can also help people with disabilities more actively participate  in society. Access to information and communications technologies, including the Web, is defined as <strong>a basic human right</strong> in the United Nations Convention on the Rights of Persons with Disabilities.</p>
-{::nomarkdown}
-{% include box.html type="start" title="Link" class="simple right aside" %}
-{:/} 
-<p><a href="http://www.un.org/disabilities/convention/conventionfull.shtml">UN Convention on the Rights of Persons with Disabilities</a></p>
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
+<p>The Web is an increasingly important resource in many aspects of life: education, employment, government, commerce, health care, recreation, and more. It is essential that the Web be accessible in order to provide <strong>equal access</strong> and <strong>equal opportunity</strong> to people with diverse abilities. An accessible Web can also help people with disabilities more actively participate  in society. Access to information and communications technologies, including the Web, is defined as <strong>a basic human right</strong> in the United Nations Convention on the Rights of Persons with Disabilities (UN <a href="http://www.un.org/disabilities/convention/conventionfull.shtml">CRPD</a>).</p>
 <p>The Web offers the possibility of <strong>unprecedented access to information and interaction</strong> for many people with disabilities. That is, the  accessibility barriers to print, audio, and visual media can be much more easily overcome through web technologies.</p>
 <p><strong>Accessibility supports social inclusion</strong> for people with disabilities as well as others, such as older people, people in rural areas, and people in developing countries.</p>
+<p><strong>There is also a strong business case for accessibility.</strong> Accessibility overlaps with other best practices such as mobile web design, device independence, multi-modal interaction, usability, design for older users, and search engine optimization (SEO). Accessible websites can have better search results, reduced maintenance costs,  increased audience reach, and demonstrate  corporate social responsibility (CSR).</p>
 {::nomarkdown}
-{% include box.html type="start" title="More Info" class="simple right aside" %}
+{% include box.html type="start" title="More Info" class="simple  aside" %}
 {:/}
-<p>Details on business benefits are in <a href="/WAI/bcase/Overview">Developing a Web Accessibility Business Case for Your Organization</a>.</p>
-<p>Guidance on figuring out legal requirements is in <a href="https://www.w3.org/WAI/bcase/pol">Legal and Policy Factors</a>.</p>
+<p>Details on business benefits are in <a href="/WAI/bcase/Overview">Developing a Web Accessibility Business Case for Your Organization</a>.<br/>Guidance on figuring out legal requirements is in <a href="https://www.w3.org/WAI/bcase/pol">Legal and Policy Factors</a>.</p>
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
-<p><strong>There is also a strong business case for accessibility.</strong> Accessibility overlaps with other best practices such as mobile web design, device independence, multi-modal interaction, usability, design for older users, and search engine optimization (SEO). Accessible websites can have better search results, reduced maintenance costs,  increased audience reach, and demonstrate  corporate social responsibility (CSR).</p>
 <p>Web accessibility is <strong>required by law </strong>in some cases.</p>
 <h2 id="making">Making the Web Accessible</h2>
 <p>Web accessibility depends on several components working together, including web technologies,  browsers,  tools, and websites.</p>
 {::nomarkdown}
 {% include box.html type="start" title="More Info" class="simple right aside" %}
 {:/} 
-<p>To learn more about the different roles and accessibility standards, see <a href="components.php">Essential Components of
-  Web Accessibility</a>.</p>
+<p>To learn more about the different roles, see <a href="components.php">Essential Components of
+  Web Accessibility</a>.<br/>
+  The Web Content Accessibility Guidelines (WCAG) and other standards are introduced in <a href="@@">W3C Accessibility Standards Overview</a>.
+</p>
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
-<p>The W3C Web Accessibility Initiative (<a href="../about-links">WAI</a>) develops guidelines, techniques,  technical specifications, and supporting resources that describe accessibility solutions. These    are considered the international standard for web accessibility; for example, the Web Content Accessibility Guidelines (WCAG) 2.0 is also an <abbr title="International Organization for Standardization">ISO</abbr> standard: ISO/<abbr title="International Electrotechnical Commission">IEC</abbr> 40500.</p>
+<p>The W3C Web Accessibility Initiative (<a href="../about-links">WAI</a>) develops guidelines, techniques,  technical specifications, and supporting resources that describe accessibility solutions. These    are considered the international standard for web accessibility; for example, WCAG 2.0 is also an <abbr title="International Organization for Standardization">ISO</abbr> standard: ISO/<abbr title="International Electrotechnical Commission">IEC</abbr> 40500.</p>
 <h3 id="specific">Making Your Website Accessible</h3>
 <p>Most of the basics of accessibility are fairly easy to implement.  However, if you are new to accessibility, it takes some time and effort to learn the common issues and solutions.</p>
 {::nomarkdown}
@@ -135,7 +135,7 @@ disabilities using the Web, see <a href="http://www.w3.org/WAI/intro/people-use-
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
-<p>Some accessibility barriers are more complicated to avoid and the solutions take more development time and effort.</p>
+<p>Some accessibility barriers are more complicated to avoid. Some accessibility solutions take more  time and effort.</p>
 {::nomarkdown}
 {% include box.html type="start" title="More Info" class="simple aside" %}
 {:/} 
@@ -151,17 +151,16 @@ disabilities using the Web, see <a href="http://www.w3.org/WAI/intro/people-use-
 {::nomarkdown}
 {% include box.html type="start" title="More Info" class="simple aside" %}
 {:/} 
-<p>For guidance, see <a href="https://www.w3.org/WAI/impl/">Planning and Managing Web Accessibility</a>.</p>
-{::nomarkdown}
+<p>For guidance, see <a href="https://www.w3.org/WAI/impl/">Planning and Managing Web Accessibility</a>. If you need to make quick fixes now, see <a href="https://www.w3.org/WAI/impl/improving">Approaches for Interim Repairs</a> {::nomarkdown}
 {% include box.html type="end" %}
-{:/}
+{:/}</p>
 <h2 id="evaluate">Evaluating  Accessibility</h2>
 <p>When developing or redesigning a website, evaluate accessibility early and throughout the development process to identify accessibility problems early, when it is easier to address them. Simple techniques such as changing settings in a  browser can  determine if a web page meets some accessibility guidelines. A comprehensive evaluation to determine if a site  meets all accessibility guidelines  is much more complex.</p>
-<p>There are evaluation  tools that  help with evaluation. However, no tool alone can determine if a site meets accessibility guidelines. Knowledgeable <strong>human evaluation is required</strong> to determine if a site is accessible.</p>
+<p>There are evaluation  tools that  help with evaluation. However, no tool alone can determine if a site meets accessibility guidelines. Knowledgeable human evaluation is required to determine if a site is accessible.</p>
 {::nomarkdown}
 {% include box.html type="start" title="More Info" class="simple aside" %}
 {:/} 
-<p>Resources to help with accessibility evaluation are described in <a href="/WAI/eval/Overview.html">Evaluating Web Sites for
+<p>Resources to help with accessibility evaluation are described in <a href="/WAI/eval/Overview.html">Evaluating Websites for
 	Accessibility</a>.</p>
 {::nomarkdown}
 {% include box.html type="end" %}
