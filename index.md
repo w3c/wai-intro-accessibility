@@ -39,14 +39,27 @@ layout: default
 {% include box.html type="end" %}
 {:/}
 <h2 id="intro">Accessibility in Context</h2>
-<blockquote style="text-align: center">
+<blockquote>
   <p><q style="font-style: italic">The power of the Web is in its universality.<br />
     Access by everyone regardless of disability is an essential aspect.</q><br />
     <span class="quotee">&mdash; Tim Berners-Lee, W3C Director and inventor of the World Wide Web</span></p>
 </blockquote>
 <p>The Web is fundamentally designed to work for all people, whatever their hardware, software, language,  location, or  ability. When the Web meets this goal, it is accessible to people with a diverse range of hearing, movement, sight, and cognitive ability.</p>
 <p>Thus <strong>the impact of disability is radically changed on the Web because the Web removes barriers</strong> to communication and interaction that many people face in the physical world. However, when websites,  applications, technologies, or  tools are badly designed, they can create barriers that exclude people from using the Web.</p>
+{::nomarkdown}
+{% include box.html type="start" title="More Info" class="simple right" %}
+{:/}<strong><em>Link:</em></strong> testing box right... {::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
 <p style="background-color: #f1f7fb"><strong>Accessibility is essential for developers and organizations that want to create high quality websites and web tools, and not exclude people from using their products and services.</strong></p>
+
+{::nomarkdown}
+{% include box.html type="start" title="More Info" class="simple " %}
+	{:/}<p><strong><em>Link:</em></strong> testing box inline...</p>{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
 <h2 id="i-what">What is Web Accessibility</h2>
 <p>  Web accessibility means that people with disabilities can use the Web.
 More specifically, it means  people with disabilities can:</p>
@@ -54,6 +67,9 @@ More specifically, it means  people with disabilities can:</p>
   <li>perceive, understand, navigate, and interact with the Web</li>
   <li>contribute to the Web</li>
 </ul>
+<div style="width: 25%; padding: 3px; margin-left: 25px; border-left: thick #464646; float: right; position: relative; font-size: 95%; color: #585858;"><strong><em>More info:</em></strong> When you want to learn more about how different
+  disabilities affect Web use, and read about scenarios of people with
+  disabilities using the Web, see <a href="http://www.w3.org/WAI/intro/people-use-web/Overview.html">How People with Disabilities Use the Web</a>.</div>
 <p>Web accessibility encompasses all disabilities that  affect access to the Web, including:</p>
 <ul>
   <li>auditory</li>
@@ -63,9 +79,7 @@ More specifically, it means  people with disabilities can:</p>
   <li>speech</li>
   <li>visual </li>
 </ul>
-<div style="width: 25%; padding: 3px; float: right; position: relative; font-size: 85%; color: #707070;"><strong><em>More info:</em></strong> When you want to learn more about how different
-  disabilities affect Web use, and read about scenarios of people with
-  disabilities using the Web, see <a href="http://www.w3.org/WAI/intro/people-use-web/Overview.html">How People with Disabilities Use the Web</a>.</div>
+<div style="width: 25%; padding: 3px; margin-left: 25px; float: right; position: relative; font-size: 95%; color: #585858;"><strong><em>More info:</em></strong> If you want  specific examples of benefits for others with  WCAG to back it up, see <a href="https://www.w3.org/WAI/bcase/soc#groups">Web Accessibility Benefits People With and Without Disabilities</a>.</div>
 <p>Web accessibility  also <strong>benefits</strong> people <em>without</em> disabilities, for example:</p>
 <ul>
   <li>people using mobile phones, smart watches, digital TVs, etc.</li>
@@ -74,7 +88,6 @@ More specifically, it means  people with disabilities can:</p>
   <li>people is an environment where they cannot listen to audio</li>
   <li>people using a slow Internet connection, or how have limited or expensive bandwidth</li>
 </ul>
-<div style="width: 25%; padding: 3px; float: right; position: relative; font-size: 85%; color: #707070;"><strong><em>More info:</em></strong> If you want  specific examples of benefits for others with  WCAG to back it up, see <a href="https://www.w3.org/WAI/bcase/soc#groups">Web Accessibility Benefits People With and Without Disabilities</a>.</div>
 <p>To see a 7-minute video with examples of how accessibility is essential for people with disabilities and useful for everyone in a variety of situations, check out:  <a href="https://www.youtube.com/watch?v=3f31oufqFSM">Web Accessibility Perspectives Video</a>.</p>
 {% include excol.html type="start" id="examples" %}
 <h3>3 Examples of Web Accessibility</h3>
@@ -94,23 +107,23 @@ More specifically, it means  people with disabilities can:</p>
 {% include excol.html type="end" %}
 <h2 id="important"> Accessibility is Important for Individuals, Organizations, Society</h2>
 <p>The Web is an increasingly important resource in many aspects of life: education, employment, government, commerce, health care, recreation, and more. It is essential that the Web be accessible in order to provide <strong>equal access</strong> and <strong>equal opportunity</strong> to people with diverse abilities. An accessible Web can also help people with disabilities more actively participate  in society. Access to information and communications technologies, including the Web, is defined as <strong>a basic human right</strong> in the United Nations Convention on the Rights of Persons with Disabilities.</p>
-<div style="width: 25%; padding: 3px; float: right; position: relative; font-size: 85%; color: #707070;"><strong><em>Link:</em></strong> <a href="http://www.un.org/disabilities/convention/conventionfull.shtml">UN Convention on the Rights of Persons with Disabilities</a></div>
+<div style="width: 25%; padding: 3px; margin-left: 25px; float: right; position: relative; font-size: 95%; color: #585858;"><strong><em>Link:</em></strong> <a href="http://www.un.org/disabilities/convention/conventionfull.shtml">UN Convention on the Rights of Persons with Disabilities</a></div>
 
 <p>The Web offers the possibility of <strong>unprecedented access to information and interaction</strong> for many people with disabilities. That is, the  accessibility barriers to print, audio, and visual media can be much more easily overcome through web technologies.</p>
 <p><strong>Accessibility supports social inclusion</strong> for people with disabilities as well as others, such as older people, people in rural areas, and people in developing countries.</p>
-<div style="width: 25%; padding: 3px; float: right; position: relative; font-size: 85%; color: #707070;"><strong><em>More info:</em></strong> Details on business benefits are in <a href="/WAI/bcase/Overview">Developing a Web Accessibility Business Case for Your Organization</a>.<br/>
+<div style="width: 25%; padding: 3px; margin-left: 25px; float: right; position: relative; font-size: 95%; color: #585858;"><strong><em>More info:</em></strong> Details on business benefits are in <a href="/WAI/bcase/Overview">Developing a Web Accessibility Business Case for Your Organization</a>.<br/>
   <br/>
   Guidance on figuring out legal requirements is in <a href="https://www.w3.org/WAI/bcase/pol">Legal and Policy Factors</a>.</div>
 <p><strong>There is also a strong business case for accessibility.</strong> Accessibility overlaps with other best practices such as mobile web design, device independence, multi-modal interaction, usability, design for older users, and search engine optimization (SEO). Accessible websites can have better search results, reduced maintenance costs,  increased audience reach, and demonstrate  corporate social responsibility (CSR).</p>
 <p>Web accessibility is <strong>required by law </strong>in some cases.</p>
 <h2 id="making">Making the Web Accessible</h2>
 <p>Web accessibility depends on several components working together, including web technologies,  browsers,  tools, and websites.</p>
-<div style="width: 25%; padding: 3px; float: right; position: relative; font-size: 85%; color: #707070;"><strong><em>More info:</em></strong> To learn more about the different roles and accessibility standards, see <a href="components.php">Essential Components of
+<div style="width: 25%; padding: 3px; margin-left: 25px; float: right; position: relative; font-size: 95%; color: #585858;"><strong><em>More info:</em></strong> To learn more about the different roles and accessibility standards, see <a href="components.php">Essential Components of
   Web Accessibility</a>.</div>
 <p>The W3C Web Accessibility Initiative (<a href="../about-links">WAI</a>) develops guidelines, techniques,  technical specifications, and supporting resources that describe accessibility solutions. These    are considered the international standard for web accessibility; for example, the Web Content Accessibility Guidelines (WCAG) 2.0 is also an <abbr title="International Organization for Standardization">ISO</abbr> standard: ISO/<abbr title="International Electrotechnical Commission">IEC</abbr> 40500.</p>
 <h3 id="specific">Making Your Website Accessible</h3>
 <p>Most of the basics of accessibility are fairly easy to implement.  However, if you are new to accessibility, it takes some time and effort to learn the common issues and solutions.</p>
-<div class="more" style="font-size: 85%; color: #707070;">
+<div class="more" style="font-size: 95%; color: #585858;">
   <p><strong><em>More info</em></strong>: Here are places to start understanding website accessibility issues:</p>
   <ul>
     <li><a href="https://www.w3.org/WAI/intro/people-use-web/principles">Accessibility Principles</a> &mdash; introduces accessibility requirements and international standards.</li>
@@ -119,7 +132,7 @@ More specifically, it means  people with disabilities can:</p>
   </ul>
 </div>
 <p>Some accessibility barriers are more complicated to avoid and the solutions take more development time and effort.</p>
-<div class="more" style="font-size: 85%; color: #707070;">
+<div class="more" style="font-size: 95%; color: #585858;">
   <p><strong><em>More info</em></strong>: When you're ready to go deeper, you'll probably use resources such as:</p>
   <ul>
     <li><a href="http://www.w3.org/WAI/WCAG20/quickref/">How to Meet WCAG 2.0 (Quick Reference)</a></li>
@@ -127,12 +140,12 @@ More specifically, it means  people with disabilities can:</p>
   </ul>
 </div>
 <p>It is most efficient and effective to incorporate accessibility from the beginning of projects and throughout organizations.</p>
-<div class="more" style="font-size: 85%; color: #707070;">
+<div class="more" style="font-size: 95%; color: #585858;">
 	<p><strong><em>More info</em></strong>: For guidance, see <a href="https://www.w3.org/WAI/impl/">Planning and Managing Web Accessibility</a>.</p></div>
 <h2 id="evaluate">Evaluating  Accessibility</h2>
 <p>When developing or redesigning a website, evaluate accessibility early and throughout the development process to identify accessibility problems early, when it is easier to address them. Simple techniques such as changing settings in a  browser can  determine if a web page meets some accessibility guidelines. A comprehensive evaluation to determine if a site  meets all accessibility guidelines  is much more complex.</p>
 <p>There are evaluation  tools that  help with evaluation. However, no tool alone can determine if a site meets accessibility guidelines. Knowledgeable <strong>human evaluation is required</strong> to determine if a site is accessible.</p>
-<div class="more" style="font-size: 85%; color: #707070;"><em><strong>More info:</strong></em> Resources to help with accessibility evaluation are described in <a href="/WAI/eval/Overview.html">Evaluating Web Sites for
+<div class="more" style="font-size: 95%; color: #585858;"><em><strong>More info:</strong></em> Resources to help with accessibility evaluation are described in <a href="/WAI/eval/Overview.html">Evaluating Web Sites for
 	Accessibility</a>.</div>
 <h2 id="more-info">For More Information</h2>
 <p>W3C WAI provides a wide range of resources on different aspects of web accessibility <a href="https://www.w3.org/WAI/guid-tech">standards</a>, <a href="https://www.w3.org/WAI/train">education</a>, <a href="https://www.w3.org/WAI/eval">testing/evaluation</a>, <a href="https://www.w3.org/WAI/managing">project management, and policy</a>. We encourage you to explore thsis website, or look through the <a href="http://www.w3.org/WAI/Resources/">WAI Resources</a> list.</p>
