@@ -29,8 +29,8 @@ layout: default
 {:/} 
 <blockquote>
   <p>The power of the Web is in its universality.<br />
-    Access by everyone regardless of disability is an essential aspect.</p>
-  <cite><strong>Tim Berners-Lee</strong>, W3C Director and inventor of the World Wide Web</cite>
+    Access by everyone regardless of disability is an essential aspect.<br />
+  <cite><strong>Tim Berners-Lee</strong>, W3C Director and inventor of the World Wide Web</cite></p>
 </blockquote>
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -103,23 +103,22 @@ disabilities using the Web, see <a href="http://www.w3.org/WAI/intro/people-use-
 {::nomarkdown}
 {% include box.html type="start" title="More Info" class="simple  aside" %}
 {:/}
-<p>Details on business benefits are in <a href="/WAI/bcase/Overview">Developing a Web Accessibility Business Case for Your Organization</a>.<br/>Guidance on figuring out legal requirements is in <a href="https://www.w3.org/WAI/bcase/pol">Legal and Policy Factors</a>.</p>
+<p>Details on business benefits are in <a href="/WAI/bcase/Overview">Developing a Web Accessibility Business Case for Your Organization</a>.<br />Guidance on figuring out legal requirements is in <a href="https://www.w3.org/WAI/bcase/pol">Legal and Policy Factors</a>.</p>
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 <p>Web accessibility is <strong>required by law </strong>in some cases.</p>
 <h2 id="making">Making the Web Accessible</h2>
-<p>Web accessibility depends on several components working together, including web technologies,  browsers,  tools, and websites.</p>
 {::nomarkdown}
 {% include box.html type="start" title="More Info" class="simple right aside" %}
-{:/} 
-<p>To learn more about the different roles, see <a href="components.php">Essential Components of
-  Web Accessibility</a>.<br/>
-  The Web Content Accessibility Guidelines (WCAG) and other standards are introduced in <a href="@@">W3C Accessibility Standards Overview</a>.
+{:/}
+<p>More about these cspects of accessibility working together is in <a href="components.php">Essential Components of Web Accessibility</a>.</p>
+<p>The Web Content Accessibility Guidelines (WCAG) and other standards are introduced in <a href="@@">W3C Accessibility Standards Overview</a>.
 </p>
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
+<p>Web accessibility depends on several components working together, including web technologies,  browsers,  tools, and websites.</p>
 <p>The W3C Web Accessibility Initiative (<a href="../about-links">WAI</a>) develops guidelines, techniques,  technical specifications, and supporting resources that describe accessibility solutions. These    are considered the international standard for web accessibility; for example, WCAG 2.0 is also an <abbr title="International Organization for Standardization">ISO</abbr> standard: ISO/<abbr title="International Electrotechnical Commission">IEC</abbr> 40500.</p>
 <h3 id="specific">Making Your Website Accessible</h3>
 <p>Most of the basics of accessibility are fairly easy to implement.  However, if you are new to accessibility, it takes some time and effort to learn the common issues and solutions.</p>
@@ -151,9 +150,10 @@ disabilities using the Web, see <a href="http://www.w3.org/WAI/intro/people-use-
 {::nomarkdown}
 {% include box.html type="start" title="More Info" class="simple aside" %}
 {:/} 
-<p>For guidance, see <a href="https://www.w3.org/WAI/impl/">Planning and Managing Web Accessibility</a>. If you need to make quick fixes now, see <a href="https://www.w3.org/WAI/impl/improving">Approaches for Interim Repairs</a> {::nomarkdown}
+<p>For guidance, see <a href="https://www.w3.org/WAI/impl/">Planning and Managing Web Accessibility</a>. If you need to make quick fixes now, see <a href="https://www.w3.org/WAI/impl/improving">Approaches for Interim Repairs</a></p>
+{::nomarkdown}
 {% include box.html type="end" %}
-{:/}</p>
+{:/}
 <h2 id="evaluate">Evaluating  Accessibility</h2>
 <p>When developing or redesigning a website, evaluate accessibility early and throughout the development process to identify accessibility problems early, when it is easier to address them. Simple techniques such as changing settings in a  browser can  determine if a web page meets some accessibility guidelines. A comprehensive evaluation to determine if a site  meets all accessibility guidelines  is much more complex.</p>
 <p>There are evaluation  tools that  help with evaluation. However, no tool alone can determine if a site meets accessibility guidelines. Knowledgeable human evaluation is required to determine if a site is accessible.</p>
