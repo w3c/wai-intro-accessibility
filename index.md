@@ -97,7 +97,7 @@ disabilities using the Web, see <a href="http://www.w3.org/WAI/intro/people-use-
 {::nomarkdown}
 {% include box.html type="start" title="More Info" class="simple right aside" %}
 {:/}
-<p>More about these cspects of accessibility working together is in <a href="components.php">Essential Components of Web Accessibility</a>.</p>
+<p>More about these aspects of accessibility working together is in <a href="components.php">Essential Components of Web Accessibility</a>.</p>
 <p>The Web Content Accessibility Guidelines (WCAG) and other standards are introduced in <a href="@@">W3C Accessibility Standards Overview</a>.
 </p>
 {::nomarkdown}
@@ -181,4 +181,4 @@ disabilities using the Web, see <a href="http://www.w3.org/WAI/intro/people-use-
 {% include excol.html type="end" %}
 
 <h2 id="more-info">For More Information</h2>
-<p>W3C WAI provides a wide range of resources on different aspects of web accessibility <a href="https://www.w3.org/WAI/guid-tech">standards</a>, <a href="https://www.w3.org/WAI/train">education</a>, <a href="https://www.w3.org/WAI/eval">testing/evaluation</a>, <a href="https://www.w3.org/WAI/managing">project management, and policy</a>. We encourage you to explore thsis website, or look through the <a href="http://www.w3.org/WAI/Resources/">WAI Resources</a> list.</p>
+<p>W3C WAI provides a wide range of resources on different aspects of web accessibility <a href="https://www.w3.org/WAI/guid-tech">standards</a>, <a href="https://www.w3.org/WAI/train">education</a>, <a href="https://www.w3.org/WAI/eval">testing/evaluation</a>, <a href="https://www.w3.org/WAI/managing">project management, and policy</a>. We encourage you to explore this website, or look through the <a href="http://www.w3.org/WAI/Resources/">WAI Resources</a> list.</p>
