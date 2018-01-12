@@ -168,9 +168,8 @@ disabilities using the Web, see <a href="http://www.w3.org/WAI/intro/people-use-
 <p>It's easy and relatively inexpensive for websites to provide transcripts. There are also <a href="http://www.uiaccess.com/transcripts/transcript_services.html">transcription services</a> that create text transcripts in HTML format.</p>
 <h3>More Examples</h3>
 {::nomarkdown}
-{% include box.html type="start" title="More Info" class="simple aside" %}
+{% include box.html type="start" title="More Examples" class="simple aside" %}
 {:/} 
-<p>More examples of web accessibility are available in:</p>
 <ul>
   <li><a href="https://www.w3.org/WAI/perspectives/"> Web Accessibility Perspectives  </a></li>
   <li><a href="https://www.w3.org/WAI/gettingstarted/tips/">Tips for Getting Started</a></li>
