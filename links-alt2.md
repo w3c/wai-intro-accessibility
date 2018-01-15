@@ -9,7 +9,7 @@ layout: default
 {% include box.html type="start" title="Summary" h="2" class="simple" %}
 {:/} 
 
-<p>A-Properly designed and coded websites and tools can be used by people with disabilities. However, currently many sites and tools are developed with accessibility barriers that make it difficult or impossible for some people to use them. This page explains more about:</p>
+<p>Properly designed and coded websites and tools can be used by people with disabilities. However, currently many sites and tools are developed with accessibility barriers that make it difficult or impossible for some people to use them. This page explains more about:</p>
 <ul>
     <li><a href="#intro">Accessibility in Context</a></li>
     <li><a href="#i-what">What is Web Accessibility</a></li>
@@ -64,13 +64,12 @@ More specifically, it means  people with disabilities can:</p>
   <li>people using a slow Internet connection, or how have limited or expensive bandwidth</li>
 </ul>
 
-<div style="margin-left: 55px";>
-
+<div style="margin-left: 55px;">
 {::nomarkdown}
 {% include box.html type="start" title="More Info" class="simple aside" %}
 {:/} 
 <ul>
-  <li>To see a 7-minute video with examples of how accessibility is essential for people with disabilities and useful for everyone in a variety of situations, check out:  <a href="https://www.youtube.com/watch?v=3f31oufqFSM">Web Accessibility Perspectives Video</a>.</li>
+  <li>@HERE--To see a 7-minute video with examples of how accessibility is essential for people with disabilities and useful for everyone in a variety of situations, check out:  <a href="https://www.youtube.com/watch?v=3f31oufqFSM">Web Accessibility Perspectives Video</a>.</li>
   <li>When you want to learn more about how different
     disabilities affect Web use, and read about scenarios of people with
     disabilities using the Web, see <a href="http://www.w3.org/WAI/intro/people-use-web/Overview.html">How People with Disabilities Use the Web</a>.</li>
@@ -88,7 +87,8 @@ More specifically, it means  people with disabilities can:</p>
 <p><strong>There is also a strong business case for accessibility.</strong> Accessibility overlaps with other best practices such as mobile web design, device independence, multi-modal interaction, usability, design for older users, and search engine optimization (SEO). Accessible websites can have better search results, reduced maintenance costs,  increased audience reach, and demonstrate  corporate social responsibility (CSR).</p>
 <p>Web accessibility is <strong>required by law </strong>in some cases.</p>
 
-<div style="margin-left: 55px";>
+<div style="margin-left: 55px;">
+
 {::nomarkdown}
 {% include box.html type="start" title="More Info" class="simple  aside" %}
 {:/}
@@ -105,6 +105,7 @@ More specifically, it means  people with disabilities can:</p>
 <p>The W3C Web Accessibility Initiative (<a href="../about-links">WAI</a>) develops guidelines, techniques,  technical specifications, and supporting resources that describe accessibility solutions. These    are considered the international standard for web accessibility; for example, WCAG 2.0 is also an <abbr title="International Organization for Standardization">ISO</abbr> standard: ISO/<abbr title="International Electrotechnical Commission">IEC</abbr> 40500.</p>
 
 <div style="margin-left: 55px;">
+
 {::nomarkdown}
 {% include box.html type="start" title="More Info" class="simple aside" %}
 {:/}
@@ -124,7 +125,8 @@ More specifically, it means  people with disabilities can:</p>
 <p>Some accessibility barriers are more complicated to avoid. Some accessibility solutions take more  time and effort.</p>
 <p>It is most efficient and effective to incorporate accessibility from the beginning of projects and throughout organizations.</p>
 
-<div style="margin-left: 55px";>
+<div style="margin-left: 55px;">
+
 {::nomarkdown}
 {% include box.html type="start" title="More Info" class="simple aside" %}
 {:/} 
