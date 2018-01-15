@@ -40,7 +40,7 @@ layout: default
 <p>Thus <strong>the impact of disability is radically changed on the Web because the Web removes barriers</strong> to communication and interaction that many people face in the physical world. However, when websites,  applications, technologies, or  tools are badly designed, they can create barriers that exclude people from using the Web.</p>
 <p><strong>Accessibility is essential for developers and organizations that want to create high quality websites and web tools, and not exclude people from using their products and services.</strong></p>
 <h2 id="i-what">What is Web Accessibility</h2>
-<p>  Web accessibility means that people with disabilities can use the Web.
+<p>Web accessibility means that people with disabilities can use the Web.
 More specifically, it means  people with disabilities can:</p>
 <ul>
   <li>perceive, understand, navigate, and interact with the Web</li>
@@ -142,6 +142,9 @@ More specifically, it means  people with disabilities can:</p>
 <h2 id="evaluate">Evaluating Accessibility</h2>
 <p>When developing or redesigning a website, evaluate accessibility early and throughout the development process to identify accessibility problems early, when it is easier to address them. Simple techniques such as changing settings in a  browser can  determine if a web page meets some accessibility guidelines. A comprehensive evaluation to determine if a site  meets all accessibility guidelines  is much more complex.</p>
 <p>There are evaluation  tools that  help with evaluation. However, no tool alone can determine if a site meets accessibility guidelines. Knowledgeable human evaluation is required to determine if a site is accessible.</p>
+
+<div style="margin-left: 555px;">
+
 {::nomarkdown}
 {% include box.html type="start" title="More Info" class="simple aside" %}
 {:/} 
@@ -150,6 +153,8 @@ More specifically, it means  people with disabilities can:</p>
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
+	</div>
+
 {% include excol.html type="start" id="examples" %}
 <h2 id="examples">Examples of Web Accessibility</h2>
 <p><em>(Select the @@alt text @@[image] to see examples.)</em></p>
@@ -182,4 +187,3 @@ More specifically, it means  people with disabilities can:</p>
 
 <h2 id="more-info">For More Information</h2>
 <p>W3C WAI provides a wide range of resources on different aspects of web accessibility <a href="https://www.w3.org/WAI/guid-tech">standards</a>, <a href="https://www.w3.org/WAI/train">education</a>, <a href="https://www.w3.org/WAI/eval">testing/evaluation</a>, <a href="https://www.w3.org/WAI/managing">project management, and policy</a>. We encourage you to explore this website, or look through the <a href="http://www.w3.org/WAI/Resources/">WAI Resources</a> list. @@</p>
-
