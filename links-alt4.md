@@ -18,7 +18,7 @@ layout: default
     <li><a href="#evaluate">Evaluating Accessibility</a></li>
     <li><a href="#examples">Examples of Web Accessibility</a></li>
     <li><a href="#more-info">More Information</a></li>
-  </ul>
+</ul>
 <p>You might also be interested in a 4-minute <a href="https://www.w3.org/WAI/videos/standards-and-benefits.html">Video Introduction to Web Accessibility and W3C Standards</a>.</p>
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -63,12 +63,12 @@ More specifically, it means  people with disabilities can:</p>
   <li>people is an environment where they cannot listen to audio</li>
   <li>people using a slow Internet connection, or how have limited or expensive bandwidth</li>
 </ul>
+	<p>To see a 7-minute video with examples of how accessibility is essential for people with disabilities and useful for everyone in a variety of situations, check out:  <a href="https://www.youtube.com/watch?v=3f31oufqFSM">Web Accessibility Perspectives Video</a>.</p>
 
 {::nomarkdown}
 {% include box.html type="start" title="More Info" class="simple aside" %}
 {:/} 
 <ul>
-  <li>@HERE--To see a 7-minute video with examples of how accessibility is essential for people with disabilities and useful for everyone in a variety of situations, check out:  <a href="https://www.youtube.com/watch?v=3f31oufqFSM">Web Accessibility Perspectives Video</a>.</li>
   <li>When you want to learn more about how different
     disabilities affect Web use, and read about scenarios of people with
     disabilities using the Web, see <a href="http://www.w3.org/WAI/intro/people-use-web/Overview.html">How People with Disabilities Use the Web</a>.</li>
@@ -105,9 +105,8 @@ More specifically, it means  people with disabilities can:</p>
 {:/}
 <ul>
   <li>More about these aspects of accessibility working together is in <a href="components.php">Essential Components of Web Accessibility</a>.</li>
+  <li>The Web Content Accessibility Guidelines (WCAG) and other standards are introduced in <a href="@@">W3C Accessibility Standards Overview</a>.</li>
 </ul>
-<p>The Web Content Accessibility Guidelines (WCAG) and other standards are introduced in <a href="@@">W3C Accessibility Standards Overview</a>.
-</p>
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
