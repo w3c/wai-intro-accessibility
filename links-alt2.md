@@ -65,6 +65,7 @@ More specifically, it means  people with disabilities can:</p>
 </ul>
 
 <div style="margin-left: 55px";>
+
 {::nomarkdown}
 {% include box.html type="start" title="More Info" class="simple aside" %}
 {:/} 
@@ -78,6 +79,7 @@ More specifically, it means  people with disabilities can:</p>
  {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
+
 	</div>
 <h2 id="important"> Accessibility is Important for Individuals, Businesses, Society</h2>
 <p>The Web is an increasingly important resource in many aspects of life: education, employment, government, commerce, health care, recreation, and more. It is essential that the Web be accessible in order to provide <strong>equal access</strong> and <strong>equal opportunity</strong> to people with diverse abilities. An accessible Web can also help people with disabilities more actively participate  in society. Access to information and communications technologies, including the Web, is defined as <strong>a basic human right</strong> in the United Nations Convention on the Rights of Persons with Disabilities (UN <a href="http://www.un.org/disabilities/convention/conventionfull.shtml">CRPD</a>).</p>
