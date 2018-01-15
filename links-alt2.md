@@ -9,7 +9,7 @@ layout: default
 {% include box.html type="start" title="Summary" h="2" class="simple" %}
 {:/} 
 
-<p>Properly designed and coded websites and tools can be used by people with disabilities. However, currently many sites and tools are developed with accessibility barriers that make it difficult or impossible for some people to use them. This page explains more about:</p>
+<p>A-Properly designed and coded websites and tools can be used by people with disabilities. However, currently many sites and tools are developed with accessibility barriers that make it difficult or impossible for some people to use them. This page explains more about:</p>
 <ul>
     <li><a href="#intro">Accessibility in Context</a></li>
     <li><a href="#i-what">What is Web Accessibility</a></li>
