@@ -1,9 +1,15 @@
 ---
 title: Introduction to Web Accessibility - Links Alt 3 - ex-col
-permalink: /fundamentals/accessibility-intro/links-alt3
+permalink: /fundamentals/accessibility-intro/links-alt2
 redirect_from: /
 layout: default
 ---
+
+{% include excol.html type="start" id="test" %}
+<h2 id="test">Examples of Web Accessibility</h2>
+{% include excol.html type="middle" %}
+	<p>test</p>
+{% include excol.html type="end" %}
 
 {::nomarkdown}
 {% include box.html type="start" title="Summary" h="2" class="simple" %}
@@ -40,7 +46,7 @@ layout: default
 <p>Thus <strong>the impact of disability is radically changed on the Web because the Web removes barriers</strong> to communication and interaction that many people face in the physical world. However, when websites,  applications, technologies, or  tools are badly designed, they can create barriers that exclude people from using the Web.</p>
 <p><strong>Accessibility is essential for developers and organizations that want to create high quality websites and web tools, and not exclude people from using their products and services.</strong></p>
 <h2 id="i-what">What is Web Accessibility</h2>
-<p>  Web accessibility means that people with disabilities can use the Web.
+<p>Web accessibility means that people with disabilities can use the Web.
 More specifically, it means  people with disabilities can:</p>
 <ul>
   <li>perceive, understand, navigate, and interact with the Web</li>
@@ -63,10 +69,9 @@ More specifically, it means  people with disabilities can:</p>
   <li>people is an environment where they cannot listen to audio</li>
   <li>people using a slow Internet connection, or how have limited or expensive bandwidth</li>
 </ul>
-	<p>To see a 7-minute video with examples of how accessibility is essential for people with disabilities and useful for everyone in a variety of situations, check out:  <a href="https://www.youtube.com/watch?v=3f31oufqFSM">Web Accessibility Perspectives Video</a>.</p>
+<p>To see a 7-minute video with examples of how accessibility is essential for people with disabilities and useful for everyone in a variety of situations, check out: <a href="https://www.youtube.com/watch?v=3f31oufqFSM">Web Accessibility Perspectives Video</a>.</p>
 
-
-{% include excol.html type="start" id="@@" %}
+{% include excol.html type="start" id="@@a" %}
 	<h3>More Info</h3>
 {% include excol.html type="middle" %}
 <ul>
@@ -84,7 +89,7 @@ More specifically, it means  people with disabilities can:</p>
 <p><strong>There is also a strong business case for accessibility.</strong> Accessibility overlaps with other best practices such as mobile web design, device independence, multi-modal interaction, usability, design for older users, and search engine optimization (SEO). Accessible websites can have better search results, reduced maintenance costs,  increased audience reach, and demonstrate  corporate social responsibility (CSR).</p>
 <p>Web accessibility is <strong>required by law </strong>in some cases.</p>
 
-{% include excol.html type="start" id="@@" %}
+{% include excol.html type="start" id="@@b" %}
 	<h3>More Info</h3>
 {% include excol.html type="middle" %}
 <ul>
@@ -97,7 +102,7 @@ More specifically, it means  people with disabilities can:</p>
 <p>Web accessibility depends on several components working together, including web technologies,  browsers,  tools, and websites.</p>
 <p>The W3C Web Accessibility Initiative (<a href="../about-links">WAI</a>) develops guidelines, techniques,  technical specifications, and supporting resources that describe accessibility solutions. These    are considered the international standard for web accessibility; for example, WCAG 2.0 is also an <abbr title="International Organization for Standardization">ISO</abbr> standard: ISO/<abbr title="International Electrotechnical Commission">IEC</abbr> 40500.</p>
 
-{% include excol.html type="start" id="@@" %}
+{% include excol.html type="start" id="@@c" %}
 	<h3>More Info</h3>
 {% include excol.html type="middle" %}
 <ul>
@@ -112,7 +117,7 @@ More specifically, it means  people with disabilities can:</p>
 <p>Some accessibility barriers are more complicated to avoid. Some accessibility solutions take more  time and effort.</p>
 <p>It is most efficient and effective to incorporate accessibility from the beginning of projects and throughout organizations.</p>
 
-{% include excol.html type="start" id="@@" %}
+{% include excol.html type="start" id="@@d" %}
 	<h3>More Info</h3>
 {% include excol.html type="middle" %}
 <p>Here are places to start understanding website accessibility issues:</p>
