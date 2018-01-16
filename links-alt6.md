@@ -81,7 +81,7 @@ More specifically, it means  people with disabilities can:</p>
 <p>Some accessibility barriers are more complicated to avoid. Some accessibility solutions take more  time and effort.</p>
 <p>It is most efficient and effective to incorporate accessibility from the beginning of projects and throughout organizations.</p>
 
-	<h2 id="evaluate">Evaluating Accessibility</h2>
+<h2 id="evaluate">Evaluating Accessibility</h2>
 <p>When developing or redesigning a website, evaluate accessibility early and throughout the development process to identify accessibility problems early, when it is easier to address them. Simple techniques such as changing settings in a  browser can  determine if a web page meets some accessibility guidelines. A comprehensive evaluation to determine if a site  meets all accessibility guidelines  is much more complex.</p>
 <p>There are evaluation  tools that  help with evaluation. However, no tool alone can determine if a site meets accessibility guidelines. Knowledgeable human evaluation is required to determine if a site is accessible.</p>
 
@@ -116,9 +116,6 @@ More specifically, it means  people with disabilities can:</p>
 
 <h2 id="more-info">For More Information</h2>
 <p>W3C WAI provides a wide range of resources on different aspects of web accessibility <a href="https://www.w3.org/WAI/guid-tech">standards</a>, <a href="https://www.w3.org/WAI/train">education</a>, <a href="https://www.w3.org/WAI/eval">testing/evaluation</a>, <a href="https://www.w3.org/WAI/managing">project management, and policy</a>. We encourage you to explore this website, or look through the <a href="http://www.w3.org/WAI/Resources/">WAI Resources</a> list.</p>
-
-
-@@@@@@@@@@@@@@@@@@@@@@@@@@@ duplicate content @@@@@@@@@@@@@@@@@@
 
 <h3>More on What is Web Accessibility</h3>
 <ul>
