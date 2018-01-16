@@ -141,15 +141,8 @@ More specifically, it means  people with disabilities can:</p>
 {% include excol.html type="start" id="@@e" %}
 <h3>More Info</h3>
 {% include excol.html type="middle" %}
-
-{::nomarkdown}
-{% include box.html type="start" title="More Info" class="simple aside" %}
-{:/} 
 <p>Resources to help with accessibility evaluation are described in <a href="/WAI/eval/Overview.html">Evaluating Websites for
 	Accessibility</a>.</p>
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
 {% include excol.html type="end" %}
 
 {% include excol.html type="start" id="examples" %}
