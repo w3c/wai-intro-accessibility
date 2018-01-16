@@ -6,7 +6,7 @@ layout: default
 ---
 
 {% include excol.html type="start" id="test" %}
-<h2 id="test">Examples of Web Accessibility</h2>
+<h3 id="test">Test h3 -- Examples of Web Accessibility</h3>
 {% include excol.html type="middle" %}
 	<p>test</p>
 {% include excol.html type="end" %}
