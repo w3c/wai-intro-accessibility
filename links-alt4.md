@@ -143,8 +143,6 @@ More specifically, it means  people with disabilities can:</p>
 <p>When developing or redesigning a website, evaluate accessibility early and throughout the development process to identify accessibility problems early, when it is easier to address them. Simple techniques such as changing settings in a  browser can  determine if a web page meets some accessibility guidelines. A comprehensive evaluation to determine if a site  meets all accessibility guidelines  is much more complex.</p>
 <p>There are evaluation  tools that  help with evaluation. However, no tool alone can determine if a site meets accessibility guidelines. Knowledgeable human evaluation is required to determine if a site is accessible.</p>
 
-<div style="margin-left: 555px;">
-
 {::nomarkdown}
 {% include box.html type="start" title="More Info" class="simple aside" %}
 {:/} 
@@ -153,7 +151,6 @@ More specifically, it means  people with disabilities can:</p>
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
-	</div>
 
 {% include excol.html type="start" id="examples" %}
 <h2 id="examples">Examples of Web Accessibility</h2>
