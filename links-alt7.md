@@ -1,7 +1,6 @@
 ---
 title: Introduction to Web Accessibility - Links Alt 7 - at end, collapsed
 permalink: /fundamentals/accessibility-intro/links-alt7
-redirect_from: /
 layout: default
 ---
 

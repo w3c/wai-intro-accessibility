@@ -1,7 +1,6 @@
 ---
 title: Introduction to Web Accessibility - Links Alt 5 - ex-col p
 permalink: /fundamentals/accessibility-intro/links-alt5
-redirect_from: /
 layout: default
 ---
 

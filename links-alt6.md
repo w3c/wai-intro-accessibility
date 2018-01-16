@@ -1,7 +1,6 @@
 ---
 title: Introduction to Web Accessibility - Links Alt 6 - at end
 permalink: /fundamentals/accessibility-intro/links-alt6
-redirect_from: /
 layout: default
 ---
 

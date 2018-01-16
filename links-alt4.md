@@ -1,7 +1,6 @@
 ---
 title: Introduction to Web Accessibility - Links Alt 4 - noindent
 permalink: /fundamentals/accessibility-intro/links-alt4
-redirect_from: /
 layout: default
 ---
 

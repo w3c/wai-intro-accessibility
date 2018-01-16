@@ -1,7 +1,6 @@
 ---
 title: Introduction to Web Accessibility - Links Alt 3 - ex-col
 permalink: /fundamentals/accessibility-intro/links-alt3
-redirect_from: /
 layout: default
 ---
 
