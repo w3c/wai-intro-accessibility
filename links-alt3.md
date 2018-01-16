@@ -5,12 +5,6 @@ redirect_from: /
 layout: default
 ---
 
-{% include excol.html type="start" id="test" %}
-<h3 id="test">Test DOWN -- Examples of Web Accessibility</h3>
-{% include excol.html type="middle" %}
-	<p>test</p>
-{% include excol.html type="end" %}
-
 {::nomarkdown}
 {% include box.html type="start" title="Summary" h="2" class="simple" %}
 {:/} 
@@ -82,14 +76,6 @@ More specifically, it means  people with disabilities can:</p>
 </ul>
 {% include excol.html type="end" %}
 
-	<p>@@HERE</p>
-{% include excol.html type="start" id="test" %}
-<h3 id="test">Test h3 -- Examples of Web Accessibility</h3>
-{% include excol.html type="middle" %}
-	<p>test</p>
-{% include excol.html type="end" %}
-
-
 <h2 id="important">Accessibility is Important for Individuals, Businesses, Society</h2>
 <p>The Web is an increasingly important resource in many aspects of life: education, employment, government, commerce, health care, recreation, and more. It is essential that the Web be accessible in order to provide <strong>equal access</strong> and <strong>equal opportunity</strong> to people with diverse abilities. An accessible Web can also help people with disabilities more actively participate  in society. Access to information and communications technologies, including the Web, is defined as <strong>a basic human right</strong> in the United Nations Convention on the Rights of Persons with Disabilities (UN <a href="http://www.un.org/disabilities/convention/conventionfull.shtml">CRPD</a>).</p>
 <p>The Web offers the possibility of <strong>unprecedented access to information and interaction</strong> for many people with disabilities. That is, the  accessibility barriers to print, audio, and visual media can be much more easily overcome through web technologies.</p>
@@ -98,7 +84,7 @@ More specifically, it means  people with disabilities can:</p>
 <p>Web accessibility is <strong>required by law </strong>in some cases.</p>
 
 {% include excol.html type="start" id="@@b" %}
-	<h3>More Info</h3>
+<h3>More Info</h3>
 {% include excol.html type="middle" %}
 <ul>
   <li>Details on business benefits are in <a href="/WAI/bcase/Overview">Developing a Web Accessibility Business Case for Your Organization</a>.</li>
@@ -111,7 +97,7 @@ More specifically, it means  people with disabilities can:</p>
 <p>The W3C Web Accessibility Initiative (<a href="../about-links">WAI</a>) develops guidelines, techniques,  technical specifications, and supporting resources that describe accessibility solutions. These    are considered the international standard for web accessibility; for example, WCAG 2.0 is also an <abbr title="International Organization for Standardization">ISO</abbr> standard: ISO/<abbr title="International Electrotechnical Commission">IEC</abbr> 40500.</p>
 
 {% include excol.html type="start" id="@@c" %}
-	<h3>More Info</h3>
+<h3>More Info</h3>
 {% include excol.html type="middle" %}
 <ul>
   <li>More about these aspects of accessibility working together is in <a href="components.php">Essential Components of Web Accessibility</a>.</li>
@@ -126,7 +112,7 @@ More specifically, it means  people with disabilities can:</p>
 <p>It is most efficient and effective to incorporate accessibility from the beginning of projects and throughout organizations.</p>
 
 {% include excol.html type="start" id="@@d" %}
-	<h3>More Info</h3>
+<h3>More Info</h3>
 {% include excol.html type="middle" %}
 <p>Here are places to start understanding website accessibility issues:</p>
 <ul>
