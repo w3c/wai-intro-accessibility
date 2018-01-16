@@ -65,9 +65,11 @@ More specifically, it means  people with disabilities can:</p>
 </ul>
 
 <div style="margin-left: 55px;">
+
 {::nomarkdown}
 {% include box.html type="start" title="More Info" class="simple aside" %}
 {:/} 
+
 <ul>
   <li>@HERE--To see a 7-minute video with examples of how accessibility is essential for people with disabilities and useful for everyone in a variety of situations, check out:  <a href="https://www.youtube.com/watch?v=3f31oufqFSM">Web Accessibility Perspectives Video</a>.</li>
   <li>When you want to learn more about how different
@@ -75,11 +77,12 @@ More specifically, it means  people with disabilities can:</p>
     disabilities using the Web, see <a href="http://www.w3.org/WAI/intro/people-use-web/Overview.html">How People with Disabilities Use the Web</a>.</li>
   <li>If you want  specific examples of benefits for others with  WCAG to back it up, see <a href="https://www.w3.org/WAI/bcase/soc#groups">Web Accessibility Benefits People With and Without Disabilities</a>.</li>
 </ul>
- {::nomarkdown}
+
+{::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
-	</div>
+</div>
 <h2 id="important"> Accessibility is Important for Individuals, Businesses, Society</h2>
 <p>The Web is an increasingly important resource in many aspects of life: education, employment, government, commerce, health care, recreation, and more. It is essential that the Web be accessible in order to provide <strong>equal access</strong> and <strong>equal opportunity</strong> to people with diverse abilities. An accessible Web can also help people with disabilities more actively participate  in society. Access to information and communications technologies, including the Web, is defined as <strong>a basic human right</strong> in the United Nations Convention on the Rights of Persons with Disabilities (UN <a href="http://www.un.org/disabilities/convention/conventionfull.shtml">CRPD</a>).</p>
 <p>The Web offers the possibility of <strong>unprecedented access to information and interaction</strong> for many people with disabilities. That is, the  accessibility barriers to print, audio, and visual media can be much more easily overcome through web technologies.</p>
