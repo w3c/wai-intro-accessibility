@@ -6,7 +6,7 @@ layout: default
 ---
 
 {% include excol.html type="start" id="test" %}
-<h3 id="test">Test h3 -- Examples of Web Accessibility</h3>
+<h3 id="test">Test DOWN -- Examples of Web Accessibility</h3>
 {% include excol.html type="middle" %}
 	<p>test</p>
 {% include excol.html type="end" %}
@@ -72,7 +72,7 @@ More specifically, it means  people with disabilities can:</p>
 <p>To see a 7-minute video with examples of how accessibility is essential for people with disabilities and useful for everyone in a variety of situations, check out: <a href="https://www.youtube.com/watch?v=3f31oufqFSM">Web Accessibility Perspectives Video</a>.</p>
 
 {% include excol.html type="start" id="@@a" %}
-	<h3>More Info</h3>
+<h3>More Info</h3>
 {% include excol.html type="middle" %}
 <ul>
   <li>When you want to learn more about how different
@@ -81,6 +81,14 @@ More specifically, it means  people with disabilities can:</p>
   <li>If you want  specific examples of benefits for others with  WCAG to back it up, see <a href="https://www.w3.org/WAI/bcase/soc#groups">Web Accessibility Benefits People With and Without Disabilities</a>.</li>
 </ul>
 {% include excol.html type="end" %}
+
+	<p>@@HERE</p>
+{% include excol.html type="start" id="test" %}
+<h3 id="test">Test h3 -- Examples of Web Accessibility</h3>
+{% include excol.html type="middle" %}
+	<p>test</p>
+{% include excol.html type="end" %}
+
 
 <h2 id="important">Accessibility is Important for Individuals, Businesses, Society</h2>
 <p>The Web is an increasingly important resource in many aspects of life: education, employment, government, commerce, health care, recreation, and more. It is essential that the Web be accessible in order to provide <strong>equal access</strong> and <strong>equal opportunity</strong> to people with diverse abilities. An accessible Web can also help people with disabilities more actively participate  in society. Access to information and communications technologies, including the Web, is defined as <strong>a basic human right</strong> in the United Nations Convention on the Rights of Persons with Disabilities (UN <a href="http://www.un.org/disabilities/convention/conventionfull.shtml">CRPD</a>).</p>
