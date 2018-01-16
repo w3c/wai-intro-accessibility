@@ -136,6 +136,12 @@ More specifically, it means  people with disabilities can:</p>
 <h2 id="evaluate">Evaluating Accessibility</h2>
 <p>When developing or redesigning a website, evaluate accessibility early and throughout the development process to identify accessibility problems early, when it is easier to address them. Simple techniques such as changing settings in a  browser can  determine if a web page meets some accessibility guidelines. A comprehensive evaluation to determine if a site  meets all accessibility guidelines  is much more complex.</p>
 <p>There are evaluation  tools that  help with evaluation. However, no tool alone can determine if a site meets accessibility guidelines. Knowledgeable human evaluation is required to determine if a site is accessible.</p>
+
+
+{% include excol.html type="start" id="@@e" %}
+<h3>More Info</h3>
+{% include excol.html type="middle" %}
+
 {::nomarkdown}
 {% include box.html type="start" title="More Info" class="simple aside" %}
 {:/} 
@@ -144,9 +150,10 @@ More specifically, it means  people with disabilities can:</p>
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
+{% include excol.html type="end" %}
+
 {% include excol.html type="start" id="examples" %}
 <h2 id="examples">Examples of Web Accessibility</h2>
-<p><em>(Select the @@alt text @@[image] to see examples.)</em></p>
 {% include excol.html type="middle" %}
 <h4>Alternative Text for Images</h4>
 <img class="right" src="http://www.w3.org/WAI/intro/alt-logo.png" alt="image of logo; HTML markup img alt='Web Accessibility Initiative logo'">
