@@ -112,7 +112,7 @@ More specifically, it means  people with disabilities can:</p>
 <p>It is most efficient and effective to incorporate accessibility from the beginning of projects and throughout organizations.</p>
 
 {% include excol.html type="start" id="@@d" %}
-<h3>More Info</h3>
+<h4>More Info</h4>
 {% include excol.html type="middle" %}
 <p>Here are places to start understanding website accessibility issues:</p>
 <ul>
