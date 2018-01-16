@@ -5,19 +5,6 @@ redirect_from: /
 layout: default
 ---
 
-<div style="margin-left: 55px;">
-{::nomarkdown}
-{% include box.html type="start" class="simple aside" %}
-{:/} 
-<p>Testing</p>
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-</div>
-
-
-	<p>@@end test</p>
-
 {::nomarkdown}
 {% include box.html type="start" title="Summary" h="2" class="simple" %}
 {:/} 
