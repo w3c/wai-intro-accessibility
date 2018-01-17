@@ -30,8 +30,8 @@ layout: default
 {:/} 
 <blockquote>
   <p>The power of the Web is in its universality.<br />
-    Access by everyone regardless of disability is an essential aspect.<br />
-  <cite><strong>Tim Berners-Lee</strong>, W3C Director and inventor of the World Wide Web</cite></p>
+    Access by everyone regardless of disability is an essential aspect.</p>
+  <cite><strong>Tim Berners-Lee</strong>, W3C Director and inventor of the World Wide Web</cite>
 </blockquote>
 {::nomarkdown}
 {% include box.html type="end" %}
