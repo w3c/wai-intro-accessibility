@@ -18,7 +18,7 @@ layout: default
 <p>Related resource: 4-minute <a href="https://www.w3.org/WAI/videos/standards-and-benefits.html">Video Introduction to Web Accessibility and W3C Standards</a>.</p>
 
 <h2 id="intro">Introduction</h2>
-<p>When websites and tools are properly designed and coded, people with disabilities can use them. However, currently many sites and tools are developed with accessibility barriers that make it difficult or impossible for some people to use them.</p>
+<p>When websites and tools are properly designed and coded, people with disabilities can use them. However, currently many sites and tools are developed with accessibility barriers that make them difficult or impossible for some people to use.</p>
 
 <h2 id="context">Accessibility in Context</h2>
 <blockquote>
@@ -166,3 +166,6 @@ More specifically, people can:</p>
 
 <h2 id="more-info">For More Information</h2>
 <p>W3C WAI provides a wide range of resources on different aspects of web accessibility <a href="https://www.w3.org/WAI/guid-tech">standards</a>, <a href="https://www.w3.org/WAI/train">education</a>, <a href="https://www.w3.org/WAI/eval">testing/evaluation</a>, <a href="https://www.w3.org/WAI/managing">project management, and policy</a>. We encourage you to explore this website, or look through the <a href="http://www.w3.org/WAI/Resources/">WAI Resources</a> list.</p>
+
+
+@@ Comment Box @@
