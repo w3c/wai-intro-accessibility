@@ -30,8 +30,7 @@ layout: default
 <p>Thus the impact of disability is radically changed on the Web because the Web removes barriers to communication and interaction that many people face in the physical world. However, when websites,  applications, technologies, or  tools are badly designed, they can create barriers that exclude people from using the Web.</p>
 <p><strong>Accessibility is essential for developers and organizations that want to create high-quality websites and web tools, and not exclude people from using their products and services.</strong></p>
 <h2 id="what">What is Web Accessibility</h2>
-<p>Web accessibility means that people with disabilities can use the Web.
-More specifically, people can:</p>
+<p>Web accessibility means that websites, tools, and technologies are designed and developed so that people with disabilities can use them. More specifically, people can:</p>
 <ul>
   <li>perceive, understand, navigate, and interact with the Web</li>
   <li>contribute to the Web</li>
