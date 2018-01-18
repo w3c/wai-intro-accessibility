@@ -15,7 +15,7 @@ layout: default
 {% include_cached toc.html type="end" %}
 {:/}
 
-<p>Related resource: 4-minute <a href="https://www.w3.org/WAI/videos/standards-and-benefits.html">Video Introduction to Web Accessibility and W3C Standards</a>.</p>
+<p><a href="https://www.w3.org/WAI/videos/standards-and-benefits.html"><img src="https://www.w3.org/WAI/videos/sab-files/sab-still.jpg" alt="" style="margin-right: 10px; position: relative; width: 160px; display: inline-block; flex-shrink: 0;" /></a>Related resource: 4-minute <a href="https://www.w3.org/WAI/videos/standards-and-benefits.html">Video Introduction to Web Accessibility and W3C Standards</a>.</p>
 
 <h2 id="intro">Introduction</h2>
 <p>When websites and tools are properly designed and coded, people with disabilities can use them. However, currently many sites and tools are developed with accessibility barriers that make them difficult or impossible for some people to use.</p>
@@ -53,7 +53,7 @@ More specifically, people can:</p>
   <li>people is an environment where they cannot listen to audio</li>
   <li>people using a slow Internet connection, or who have limited or expensive bandwidth</li>
 </ul>
-<p>To see a 7-minute video with examples of how accessibility is essential for people with disabilities and useful for everyone in a variety of situations, check out: <a href="https://www.youtube.com/watch?v=3f31oufqFSM">Web Accessibility Perspectives Video</a>.</p>
+	<p><a href="https://www.youtube.com/watch?v=3f31oufqFSM"><img src="https://www.w3.org/WAI/images/perspectives_thumb.jpg" alt="" style="margin-right: 10px; position: relative; width: 160px; display: inline-block; flex-shrink: 0;"/></a>To see a 7-minute video with examples of how accessibility is essential for people with disabilities and useful for everyone in a variety of situations, check out: <a href="https://www.youtube.com/watch?v=3f31oufqFSM">Web Accessibility Perspectives Video</a>.</p>
 
 {% include excol.html type="start" id="@@a" %}
 <p>More info links:</p>
@@ -154,9 +154,11 @@ More specifically, people can:</p>
 {% include box.html type="start" title="More Examples" class="simple aside" %}
 {:/} 
 <ul>
-  <li><a href="https://www.w3.org/WAI/perspectives/"> Web Accessibility Perspectives  </a></li>
+ 
   <li><a href="https://www.w3.org/WAI/gettingstarted/tips/">Tips for Getting Started</a></li>
   <li><a href="https://www.w3.org/WAI/eval/preliminary">Easy Checks - A First Review</a></li>
+  <li><a href="https://www.w3.org/WAI/perspectives/">Web Accessibility Perspectives</a> &mdash; videos and descriptions<br>
+<a href="https://www.youtube.com/watch?v=3f31oufqFSM"><img src="https://www.w3.org/WAI/images/perspectives_thumb.jpg" alt="" style="position: relative; width: 160px; display: inline-block; flex-shrink: 0;"/></a></li>
 </ul>
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -167,5 +169,5 @@ More specifically, people can:</p>
 <h2 id="more-info">For More Information</h2>
 <p>W3C WAI provides a wide range of resources on different aspects of web accessibility <a href="https://www.w3.org/WAI/guid-tech">standards</a>, <a href="https://www.w3.org/WAI/train">education</a>, <a href="https://www.w3.org/WAI/eval">testing/evaluation</a>, <a href="https://www.w3.org/WAI/managing">project management, and policy</a>. We encourage you to explore this website, or look through the <a href="http://www.w3.org/WAI/Resources/">WAI Resources</a> list.</p>
 
-
 @@ Comment Box @@
+
