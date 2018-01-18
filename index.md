@@ -53,7 +53,7 @@ More specifically, people can:</p>
   <li>people is an environment where they cannot listen to audio</li>
   <li>people using a slow Internet connection, or who have limited or expensive bandwidth</li>
 </ul>
-	<p><a href="https://www.youtube.com/watch?v=3f31oufqFSM"><img src="https://www.w3.org/WAI/images/perspectives_thumb.jpg" alt="" style="margin-right: 10px; position: relative; width: 160px; display: inline-block; flex-shrink: 0;"/></a>To see a 7-minute video with examples of how accessibility is essential for people with disabilities and useful for everyone in a variety of situations, check out: <a href="https://www.youtube.com/watch?v=3f31oufqFSM">Web Accessibility Perspectives Video</a>.</p>
+<p><a href="https://www.youtube.com/watch?v=3f31oufqFSM"><img src="https://www.w3.org/WAI/images/perspectives_thumb.jpg" alt="" style="margin-right: 10px; position: relative; width: 160px; display: inline-block; flex-shrink: 0;"/></a>To see a 7-minute video with examples of how accessibility is essential for people with disabilities and useful for everyone in a variety of situations, check out: <a href="https://www.youtube.com/watch?v=3f31oufqFSM">Web Accessibility Perspectives Video</a>.</p>
 
 {% include excol.html type="start" id="@@a" %}
 <p>More info links:</p>
