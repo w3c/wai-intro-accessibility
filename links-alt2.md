@@ -5,37 +5,27 @@ layout: default
 ---
 
 {::nomarkdown}
-{% include box.html type="start" title="Summary" h="2" class="simple" %}
-{:/} 
-
-<p>Properly designed and coded websites and tools can be used by people with disabilities. However, currently many sites and tools are developed with accessibility barriers that make it difficult or impossible for some people to use them. This page explains more about:</p>
-<ul>
-    <li><a href="#intro">Accessibility in Context</a></li>
-    <li><a href="#i-what">What is Web Accessibility</a></li>
-    <li><a href="#important">Accessibility is Important for Individuals, Businesses, Society</a></li>
-    <li><a href="#making">Making the Web Accessible</a></li>
-    <li><a href="#evaluate">Evaluating Accessibility</a></li>
-    <li><a href="#examples">Examples of Web Accessibility</a></li>
-    <li><a href="#more-info">More Information</a></li>
-  </ul>
-<p>You might also be interested in a 4-minute <a href="https://www.w3.org/WAI/videos/standards-and-benefits.html">Video Introduction to Web Accessibility and W3C Standards</a>.</p>
-
-{::nomarkdown}
-{% include box.html type="end" %}
+{% include_cached toc.html type="start" title="Page Contents" class="full" %}
 {:/}
 
-<h2 id="intro">Accessibility in Context</h2>
+-   TOC is created automatically.
+{:toc}
+
 {::nomarkdown}
-{% include box.html type="start" class="simple aside" %}
-{:/} 
+{% include_cached toc.html type="end" %}
+{:/}
+
+<p>Related resource: 4-minute <a href="https://www.w3.org/WAI/videos/standards-and-benefits.html">Video Introduction to Web Accessibility and W3C Standards</a>.</p>
+
+<h2 id="intro">Introduction</h2>
+<p>When websites and tools are properly designed and coded, people with disabilities can use them. However, currently many sites and tools are developed with accessibility barriers that make them difficult or impossible for some people to use.</p>
+
+<h2 id="context">Accessibility in Context</h2>
 <blockquote>
   <p>The power of the Web is in its universality.<br />
     Access by everyone regardless of disability is an essential aspect.</p>
-  <cite><strong>Tim Berners-Lee</strong>, W3C Director and inventor of the World Wide Web</cite>
+  <cite>Tim Berners-Lee, W3C Director and inventor of the World Wide Web</cite>
 </blockquote>
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
 <p>The Web is fundamentally designed to work for all people, whatever their hardware, software, language,  location, or  ability. When the Web meets this goal, it is accessible to people with a diverse range of hearing, movement, sight, and cognitive ability.</p>
 <p>Thus <strong>the impact of disability is radically changed on the Web because the Web removes barriers</strong> to communication and interaction that many people face in the physical world. However, when websites,  applications, technologies, or  tools are badly designed, they can create barriers that exclude people from using the Web.</p>
 <p><strong>Accessibility is essential for developers and organizations that want to create high quality websites and web tools, and not exclude people from using their products and services.</strong></p>
