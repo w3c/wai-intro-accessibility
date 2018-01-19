@@ -23,7 +23,7 @@ layout: default
 
 <h2 id="context">Accessibility in Context</h2>
 <blockquote>
-  <p>The power of the Web is in its universality.<br />
+  <p style="padding-bottom: 0; margin-bottom: 0.25em">The power of the Web is in its universality.<br />
     Access by everyone regardless of disability is an essential aspect.</p>
   <cite>Tim Berners-Lee, W3C Director and inventor of the World Wide Web</cite>
 </blockquote>
