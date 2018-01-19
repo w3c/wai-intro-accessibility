@@ -62,7 +62,7 @@ layout: default
   <li>When you want to learn more about how different
     disabilities affect Web use, and read about scenarios of people with
     disabilities using the Web, see <a href="http://www.w3.org/WAI/intro/people-use-web/Overview.html">How People with Disabilities Use the Web</a>.</li>
-  <li>If you want  specific examples of benefits for others with  WCAG to back it up, see <a href="https://www.w3.org/WAI/bcase/soc#groups">Web Accessibility Benefits People With and Without Disabilities</a> and @@mobile.</li>
+  <li>If you want  specific examples of benefits for others with  WCAG to back it up, see <a href="https://www.w3.org/WAI/bcase/soc#groups">Web Accessibility Benefits People With and Without Disabilities</a> and    <a href="https://www.w3.org/WAI/mobile/experiences">Shared Web Experiences: Barriers Common to Mobile Device Users and People with Disabilities</a>.</li>
 </ul>
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -110,21 +110,18 @@ layout: default
 {::nomarkdown}
 {% include box.html type="start" title="More Info on Making Your Website Accessible" class="simple aside" %}
 {:/}
-<p>Here are places to start understanding website accessibility issues:</p>
 <ul>
-  <li><a href="https://www.w3.org/WAI/intro/people-use-web/principles">Accessibility Principles</a> &mdash; introduces accessibility requirements and international standards.</li>
-  <li><a href="https://www.w3.org/WAI/eval/preliminary">Easy Checks - A First Review</a> &mdash; helps you start testing the accessibility of a web page and understand some common accessibility barriers.</li>
-  <li><a href="https://www.w3.org/WAI/gettingstarted/tips/">Tips for Getting Started</a> &mdash; provides some basic considerations for designing, writing, and developing.</li>
-</ul>
-<p>When you're ready to know more about developing and designing, you'll probably use resources such as:</p>
-<ul>
-  <li><a href="http://www.w3.org/WAI/WCAG20/quickref/">How to Meet WCAG 2.0 (Quick Reference)</a></li>
-  <li><a href="https://www.w3.org/WAI/tutorials/">Web Accessibility Tutorials</a></li>
-</ul>
-<p>Project management resources include:</p>
-<ul>
-  <li>For guidance for projects and organizations, see <a href="https://www.w3.org/WAI/impl/">Planning and Managing Web Accessibility</a>.</li>
-  <li>If you need to make quick fixes now, see <a href="https://www.w3.org/WAI/impl/improving">Approaches for Interim Repairs</a>.</li>
+  <li><a href="https://www.w3.org/WAI/intro/people-use-web/principles"></a> For an  introduction to accessibility requirements and international standards, see <a href="https://www.w3.org/WAI/intro/people-use-web/principles">Accessibility Principles</a>.</li>
+  <li><a href="https://www.w3.org/WAI/eval/preliminary"></a>To understand some common accessibility barriers from the perspective of testing, see <a href="https://www.w3.org/WAI/eval/preliminary">Easy Checks - A First Review</a>.</li>
+  <li><a href="https://www.w3.org/WAI/gettingstarted/tips/"></a> For some basic considerations for designing, writing, and developing for accessibility, see <a href="https://www.w3.org/WAI/gettingstarted/tips/">Tips for Getting Started</a>.</li>
+  <li>When you're ready to know more about developing and designing, you'll probably use resources such as:
+    <ul>
+      <li><a href="http://www.w3.org/WAI/WCAG20/quickref/">How to Meet WCAG 2.0: A customizeable quick reference...</a></li>
+      <li><a href="https://www.w3.org/WAI/tutorials/">Web Accessibility Tutorials</a></li>
+    </ul>
+  </li>
+  <li>For project management and organizational considerations, see <a href="https://www.w3.org/WAI/impl/">Planning and Managing Web Accessibility</a>.<br>
+If you need to make quick fixes now, see     <a href="https://www.w3.org/WAI/impl/improving">Approaches for Interim Repairs</a>.</li>
 </ul>
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -145,7 +142,7 @@ layout: default
 
 {% include excol.html type="start" id="examples" %}
 <h2 id="examples">Examples</h2>
-	<p><em>(Select the @@alt text @@[image] to see examples.)</em></p>
+<p><em>(Select the @@alt text @@[image] to see examples.)</em></p>
 {% include excol.html type="middle" %}
 
 <h3>Alternative Text for Images</h3>
@@ -182,3 +179,4 @@ layout: default
 <p>W3C WAI provides a wide range of resources on different aspects of web accessibility <a href="https://www.w3.org/WAI/guid-tech">standards</a>, <a href="https://www.w3.org/WAI/train">education</a>, <a href="https://www.w3.org/WAI/eval">testing/evaluation</a>, <a href="https://www.w3.org/WAI/managing">project management, and policy</a>. We encourage you to explore this website, or look through the <a href="http://www.w3.org/WAI/Resources/">WAI Resources</a> list.</p>
 
 @@ Comment Box @@
+
