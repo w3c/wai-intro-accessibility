@@ -15,7 +15,8 @@ layout: default
 {% include_cached toc.html type="end" %}
 {:/}
 
-<p><a href="https://www.w3.org/WAI/videos/standards-and-benefits.html"><img src="https://www.w3.org/WAI/videos/sab-files/sab-still.jpg" alt="" style="margin-right: 10px; position: relative; width: 160px; display: inline-block; flex-shrink: 0;" /></a>Related resource: 4-minute <a href="https://www.w3.org/WAI/videos/standards-and-benefits.html">Video Introduction to Web Accessibility and W3C Standards</a>.</p>
+<p>Related resource:<br/>
+<a href="https://www.w3.org/WAI/videos/standards-and-benefits.html"><img src="https://www.w3.org/WAI/videos/sab-files/sab-still.jpg" alt="" style="margin-right: 5px; position: relative; width: 222px; display: inline-block; flex-shrink: 0;" /></a>4-minute <a href="https://www.w3.org/WAI/videos/standards-and-benefits.html">Video Introduction to Web Accessibility and W3C Standards</a></p>
 
 <h2 id="intro">Introduction</h2>
 <p>When websites and tools are properly designed and coded, people with disabilities can use them. However, currently many sites and tools are developed with accessibility barriers that make them difficult or impossible for some people to use.</p>
@@ -47,13 +48,14 @@ layout: default
 </ul>
 <p>Web accessibility also benefits people <em>without</em> disabilities, for example:</p>
 <ul>
-  <li>people using mobile phones, smart watches, digital TVs, etc.</li>
+  <li>people using mobile phones, smart watches, smart TVs, and other devices with small screens, different input modes, etc.</li>
   <li>older people with changing abilities due to ageing</li>
-  <li>people with "temporary disabilities" such as a broken arm</li>
-  <li>people is an environment where they cannot listen to audio</li>
+  <li>people with "temporary disabilities" such as a broken arm or lost glasses</li>
+  <li>people with &quot;situational limitations&quot; such as in bright sunlight or  in an environment where they cannot listen to audio</li>
   <li>people using a slow Internet connection, or who have limited or expensive bandwidth</li>
 </ul>
-<p><a href="https://www.youtube.com/watch?v=3f31oufqFSM"><img src="https://www.w3.org/WAI/images/perspectives_thumb.jpg" alt="" style="margin-right: 10px; position: relative; width: 160px; display: inline-block; flex-shrink: 0;"/></a>To see a 7-minute video with examples of how accessibility is essential for people with disabilities and useful for everyone in a variety of situations, check out: <a href="https://www.youtube.com/watch?v=3f31oufqFSM">Web Accessibility Perspectives Video</a>.</p>
+<p>To see a 7-minute video with examples of how accessibility is essential for people with disabilities and useful for everyone in a variety of situations, check out:<br><a href="https://www.youtube.com/watch?v=3f31oufqFSM">Web Accessibility Perspectives Video</a>.<br>
+<a href="https://www.youtube.com/watch?v=3f31oufqFSM"><img src="https://www.w3.org/WAI/images/perspectives_thumb.jpg" alt="" style="position: relative; width: 222px; display: inline-block; flex-shrink: 0;"/></a></p>
 
 {::nomarkdown}
 {% include box.html type="start" title="More Info on What is Accessibility" class="simple aside" %}
@@ -62,7 +64,7 @@ layout: default
   <li>When you want to learn more about how different
     disabilities affect Web use, and read about scenarios of people with
     disabilities using the Web, see <a href="http://www.w3.org/WAI/intro/people-use-web/Overview.html">How People with Disabilities Use the Web</a>.</li>
-  <li>If you want  specific examples of benefits for others with  WCAG to back it up, see <a href="https://www.w3.org/WAI/bcase/soc#groups">Web Accessibility Benefits People With and Without Disabilities</a> and    <a href="https://www.w3.org/WAI/mobile/experiences">Shared Web Experiences: Barriers Common to Mobile Device Users and People with Disabilities</a>.</li>
+  <li>If you want more examples of benefits for others, with <acronym title="Web Content Accessibility Guidelines">WCAG</acronym> to back it up, see <a href="https://www.w3.org/WAI/bcase/soc#groups">Web Accessibility Benefits People With and Without Disabilities</a> and <a href="https://www.w3.org/WAI/mobile/experiences">Shared Web Experiences: Barriers Common to Mobile Device Users and People with Disabilities</a>.</li>
 </ul>
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -167,7 +169,7 @@ If you need to make quick fixes now, see     <a href="https://www.w3.org/WAI/imp
   <li><a href="https://www.w3.org/WAI/gettingstarted/tips/">Tips for Getting Started</a></li>
   <li><a href="https://www.w3.org/WAI/eval/preliminary">Easy Checks - A First Review</a></li>
   <li><a href="https://www.w3.org/WAI/perspectives/">Web Accessibility Perspectives</a> &mdash; videos and descriptions<br>
-<a href="https://www.youtube.com/watch?v=3f31oufqFSM"><img src="https://www.w3.org/WAI/images/perspectives_thumb.jpg" alt="" style="position: relative; width: 160px; display: inline-block; flex-shrink: 0;"/></a></li>
+<a href="https://www.youtube.com/watch?v=3f31oufqFSM"><img src="https://www.w3.org/WAI/images/perspectives_thumb.jpg" alt="" style="position: relative; width: 222px; display: inline-block; flex-shrink: 0;"/></a></li>
 </ul>
 {::nomarkdown}
 {% include box.html type="end" %}
