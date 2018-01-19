@@ -145,7 +145,6 @@ If you need to make quick fixes now, see     <a href="https://www.w3.org/WAI/imp
 
 {% include excol.html type="start" id="examples" %}
 <h2 id="examples">Examples</h2>
-<p><em>(Select the @@alt text @@[image] to see examples.)</em></p>
 {% include excol.html type="middle" %}
 
 <h3>Alternative Text for Images</h3>
