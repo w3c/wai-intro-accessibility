@@ -16,7 +16,7 @@ layout: default
 {:/}
 
 <p>Related resource:<br/>
-<a href="https://www.w3.org/WAI/videos/standards-and-benefits.html"><img src="https://www.w3.org/WAI/videos/sab-files/sab-still.jpg" alt="" style="margin-right: 5px; position: relative; width: 222px; display: inline-block; flex-shrink: 0;" /></a>4-minute <a href="https://www.w3.org/WAI/videos/standards-and-benefits.html">Video Introduction to Web Accessibility and W3C Standards</a></p>
+<a href="https://www.w3.org/WAI/videos/standards-and-benefits.html"><img src="https://www.w3.org/WAI/videos/sab-files/sab-still.jpg" alt="" style="margin-right: 5px; position: relative; width: 222px; display: inline-block; flex-shrink: 0;" /> Video Introduction to Web Accessibility and W3C Standards <em>(4 minutes)</em></a></p>
 
 <h2 id="intro">Introduction</h2>
 <p>When websites and tools are properly designed and coded, people with disabilities can use them. However, currently many sites and tools are developed with accessibility barriers that make them difficult or impossible for some people to use.</p>
@@ -54,7 +54,8 @@ layout: default
   <li>people with &quot;situational limitations&quot; such as in bright sunlight or  in an environment where they cannot listen to audio</li>
   <li>people using a slow Internet connection, or who have limited or expensive bandwidth</li>
 </ul>
-<p>To see a 7-minute video with examples of how accessibility is essential for people with disabilities and useful for everyone in a variety of situations, check out:<br><a href="https://www.youtube.com/watch?v=3f31oufqFSM">Web Accessibility Perspectives Video</a>.<br>
+<p>For a 7-minute video with examples of how accessibility is essential for people with disabilities and useful for everyone in a variety of situations, see:<br>
+  <a href="https://www.youtube.com/watch?v=3f31oufqFSM">Web Accessibility Perspectives Video</a>.<br>
 <a href="https://www.youtube.com/watch?v=3f31oufqFSM"><img src="https://www.w3.org/WAI/images/perspectives_thumb.jpg" alt="" style="position: relative; width: 222px; display: inline-block; flex-shrink: 0;"/></a></p>
 
 {::nomarkdown}
@@ -89,7 +90,7 @@ layout: default
 {:/}
 
 <h2 id="making">Making the Web Accessible</h2>
-<p>Web accessibility depends on several components working together, including web technologies,  browsers,  tools, and websites.</p>
+<p>Web accessibility depends on several components working together, including web technologies, web browsers and other "user agents", authoring tools, and websites.</p>
 <p>The W3C Web Accessibility Initiative (<a href="../about-links">WAI</a>) develops guidelines, techniques,  technical specifications, and supporting resources that describe accessibility solutions. These    are considered the international standard for web accessibility; for example, WCAG 2.0 is also an <abbr title="International Organization for Standardization">ISO</abbr> standard: ISO/<abbr title="International Electrotechnical Commission">IEC</abbr> 40500.</p>
 
 {::nomarkdown}
@@ -105,9 +106,9 @@ layout: default
 {:/}
 
 <h3 id="website">Making Your Website Accessible</h3>
-<p>Most of the basics of accessibility are fairly easy to implement.  However, if you are new to accessibility, it takes some time and effort to learn the common issues and solutions.</p>
+<p>Most of the basics of accessibility are fairly easy to implement.  If you are new to accessibility, it takes some time and effort to learn the common issues and solutions.</p>
 <p>Some accessibility barriers are more complicated to avoid. Some accessibility solutions take more  time and effort to implement.</p>
-<p>It is most efficient and effective to incorporate accessibility from the beginning of projects and throughout organizations.</p>
+<p>It is most efficient and effective to incorporate accessibility from the very beginning of projects and throughout organizations.</p>
 
 {::nomarkdown}
 {% include box.html type="start" title="More Info on Making Your Website Accessible" class="simple aside" %}
@@ -181,4 +182,3 @@ If you need to make quick fixes now, see     <a href="https://www.w3.org/WAI/imp
 <p>W3C WAI provides a wide range of resources on different aspects of web accessibility <a href="https://www.w3.org/WAI/guid-tech">standards</a>, <a href="https://www.w3.org/WAI/train">education</a>, <a href="https://www.w3.org/WAI/eval">testing/evaluation</a>, <a href="https://www.w3.org/WAI/managing">project management, and policy</a>. We encourage you to explore this website, or look through the <a href="http://www.w3.org/WAI/Resources/">WAI Resources</a> list.</p>
 
 @@ Comment Box @@
-
