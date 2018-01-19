@@ -116,7 +116,7 @@ layout: default
 <ul>
   <li><a href="https://www.w3.org/WAI/intro/people-use-web/principles"></a> For an  introduction to accessibility requirements and international standards, see <a href="https://www.w3.org/WAI/intro/people-use-web/principles">Accessibility Principles</a>.</li>
   <li><a href="https://www.w3.org/WAI/eval/preliminary"></a>To understand some common accessibility barriers from the perspective of testing, see <a href="https://www.w3.org/WAI/eval/preliminary">Easy Checks - A First Review</a>.</li>
-  <li><a href="https://www.w3.org/WAI/gettingstarted/tips/"></a> For some basic considerations for designing, writing, and developing for accessibility, see <a href="https://www.w3.org/WAI/gettingstarted/tips/">Tips for Getting Started</a>.</li>
+  <li><a href="https://www.w3.org/WAI/gettingstarted/tips/"></a> For some basic considerations on designing, writing, and developing for accessibility, see <a href="https://www.w3.org/WAI/gettingstarted/tips/">Tips for Getting Started</a>.</li>
   <li>When you're ready to know more about developing and designing, you'll probably use resources such as:
     <ul>
       <li><a href="http://www.w3.org/WAI/WCAG20/quickref/">How to Meet WCAG 2.0: A customizeable quick reference...</a></li>
@@ -182,3 +182,5 @@ If you need to make quick fixes now, see     <a href="https://www.w3.org/WAI/imp
 <p>W3C WAI provides a wide range of resources on different aspects of web accessibility <a href="https://www.w3.org/WAI/guid-tech">standards</a>, <a href="https://www.w3.org/WAI/train">education</a>, <a href="https://www.w3.org/WAI/eval">testing/evaluation</a>, <a href="https://www.w3.org/WAI/managing">project management, and policy</a>. We encourage you to explore this website, or look through the <a href="http://www.w3.org/WAI/Resources/">WAI Resources</a> list.</p>
 
 @@ Comment Box @@
+
+
