@@ -16,7 +16,7 @@ layout: default
 {:/}
 
 <p>Related resource:<br/>
-<a href="https://www.w3.org/WAI/videos/standards-and-benefits.html"><img src="https://www.w3.org/WAI/videos/sab-files/sab-still.jpg" alt="" style="margin-right: 5px; position: relative; width: 222px; display: inline-block; flex-shrink: 0;" /> Video Introduction to Web Accessibility and W3C Standards <em>(4 minutes)</em></a></p>
+<a href="https://www.w3.org/WAI/videos/standards-and-benefits.html">Video Introduction to Web Accessibility and W3C Standards <em>(4 minutes)</em><br/><img src="https://www.w3.org/WAI/videos/sab-files/sab-still.jpg" alt="" style="margin-right: 5px; position: relative; width: 222px; display: inline-block; flex-shrink: 0;" /></a></p>
 
 <h2 id="intro">Introduction</h2>
 <p>When websites and tools are properly designed and coded, people with disabilities can use them. However, currently many sites and tools are developed with accessibility barriers that make them difficult or impossible for some people to use.</p>
