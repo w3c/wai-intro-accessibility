@@ -10,7 +10,16 @@ layout: default
 
 -   TOC is created automatically.
 {:toc}
-
+<ul>
+<li><a href="#intro">Introduction</a></li>
+<li><a href="#context">Accessibility in Context</a></li>
+<li><a href="#what">What is Web Accessibility</a></li>
+<li><a href="#important">Accessibility is Important for Individuals, Businesses, Society</a></li>
+<li><a href="#making">Making the Web Accessible</a></li>
+<li><a href="#evaluate">Evaluating Accessibility</a></li>
+<li><a href="#examples">Examples</a></li>
+<li><a href="#more-info">For More Information</a></li>
+</ul>
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
 {:/}
