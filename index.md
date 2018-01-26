@@ -128,7 +128,7 @@ layout: default
   <li><a href="https://www.w3.org/WAI/gettingstarted/tips/"></a> For some basic considerations on designing, writing, and developing for accessibility, see <a href="https://www.w3.org/WAI/gettingstarted/tips/">Tips for Getting Started</a>.</li>
   <li>When you're ready to know more about developing and designing, you'll probably use resources such as:
     <ul>
-      <li><a href="http://www.w3.org/WAI/WCAG20/quickref/">How to Meet WCAG 2.0: A customizeable quick reference...</a></li>
+      <li><a href="http://www.w3.org/WAI/WCAG20/quickref/">How to Meet WCAG 2.0: A customizable quick reference...</a></li>
       <li><a href="https://www.w3.org/WAI/tutorials/">Web Accessibility Tutorials</a></li>
     </ul>
   </li>
