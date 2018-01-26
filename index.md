@@ -100,7 +100,7 @@ layout: default
 
 <h2 id="making">Making the Web Accessible</h2>
 <p>Web accessibility depends on several components working together, including web technologies, web browsers and other "user agents", authoring tools, and websites.</p>
-<p>The W3C Web Accessibility Initiative (<a href="../about-links">WAI</a>) develops guidelines, techniques,  technical specifications, and supporting resources that describe accessibility solutions. These    are considered the international standard for web accessibility; for example, WCAG 2.0 is also an <abbr title="International Organization for Standardization">ISO</abbr> standard: ISO/<abbr title="International Electrotechnical Commission">IEC</abbr> 40500.</p>
+<p>The W3C Web Accessibility Initiative (<a href="../about-links">WAI</a>) develops guidelines, techniques, technical specifications, and supporting resources that describe accessibility solutions. These are considered international standards for web accessibility; for example, <abbr title="Web Content Accessibility Guidelines (WCAG)">WCAG</abbr> 2.0 is also an <abbr title="International Organization for Standardization">ISO</abbr> standard: ISO/<abbr title="International Electrotechnical Commission">IEC</abbr> 40500.</p>
 
 {::nomarkdown}
 {% include box.html type="start" title="More Info on Making the Web Accessible" class="simple aside" %}
@@ -108,7 +108,7 @@ layout: default
 
 <ul>
   <li>More about these aspects of accessibility working together is in <a href="components.php">Essential Components of Web Accessibility</a>.</li>
-  <li>The Web Content Accessibility Guidelines (WCAG) and other standards are introduced in <a href="@@">W3C Accessibility Standards Overview</a>.</li>
+  <li>Web Content Accessibility Guidelines (WCAG) and other standards are introduced in <a href="@@">W3C Accessibility Standards Overview</a>.</li>
 </ul>
 {::nomarkdown}
 {% include box.html type="end" %}
