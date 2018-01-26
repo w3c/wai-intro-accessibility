@@ -134,7 +134,7 @@ layout: default
     </ul>
   </li>
   <li>For project management and organizational considerations, see <a href="https://www.w3.org/WAI/impl/">Planning and Managing Web Accessibility</a>.<br>
-If you need to make quick fixes now, see     <a href="https://www.w3.org/WAI/impl/improving">Approaches for Interim Repairs</a>.</li>
+If you need to make quick fixes now, see <a href="https://www.w3.org/WAI/impl/improving">Approaches for Interim Repairs</a>.</li>
 </ul>
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -147,8 +147,9 @@ If you need to make quick fixes now, see     <a href="https://www.w3.org/WAI/imp
 {::nomarkdown}
 {% include box.html type="start" title="More Info on Evaluating" class="simple aside" %}
 {:/}
-<p>Resources to help with accessibility evaluation are described in <a href="/WAI/eval/Overview.html">Evaluating Websites for
-	Accessibility</a>.</p>
+<ul>
+  <li>Resources to help with accessibility evaluation are described in <a href="/WAI/eval/Overview.html">Evaluating Websites for Accessibility</a>.</li>
+</ul>
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
