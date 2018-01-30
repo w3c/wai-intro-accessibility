@@ -68,7 +68,7 @@ layout: default
 <a href="https://www.youtube.com/watch?v=3f31oufqFSM"><img src="https://www.w3.org/WAI/images/perspectives_thumb.jpg" alt="" style="position: relative; width: 222px; display: inline-block; flex-shrink: 0;"/></a></p>
 
 {::nomarkdown}
-{% include box.html type="start" title="More Info on What is Accessibility" class="simple aside" %}
+{% include box.html type="start" h="3" title="More Info on What is Accessibility" class="simple aside" %}
 {:/}
 <ul>
   <li>When you want to learn more about how different
@@ -88,7 +88,7 @@ layout: default
 <p>Web accessibility is <strong>required by law </strong>in some cases.</p>
 
 {::nomarkdown}
-{% include box.html type="start" title="More Info on Accessibility is Important" class="simple aside" %}
+{% include box.html type="start" h="3" title="More Info on Accessibility is Important" class="simple aside" %}
 {:/}
 <ul>
   <li>Details on business benefits are in <a href="/WAI/bcase/Overview">Developing a Web Accessibility Business Case for Your Organization</a>.</li>
@@ -103,7 +103,7 @@ layout: default
 <p>The W3C Web Accessibility Initiative (<a href="../about-links">WAI</a>) develops technical specifications, guidelines, techniques, and supporting resources that describe accessibility solutions. These are considered international standards for web accessibility; for example, <abbr title="Web Content Accessibility Guidelines (WCAG)">WCAG</abbr> 2.0 is also an <abbr title="International Organization for Standardization">ISO</abbr> standard: ISO/<abbr title="International Electrotechnical Commission">IEC</abbr> 40500.</p>
 
 {::nomarkdown}
-{% include box.html type="start" title="More Info on Making the Web Accessible" class="simple aside" %}
+{% include box.html type="start" h="3" title="More Info on Making the Web Accessible" class="simple aside" %}
 {:/}
 
 <ul>
@@ -121,7 +121,7 @@ layout: default
 <p>It is most efficient and effective to incorporate accessibility from the very beginning of projects and throughout organizations.</p>
 
 {::nomarkdown}
-{% include box.html type="start" title="More Info on Making Your Website Accessible" class="simple aside" %}
+{% include box.html type="start" h="3" title="More Info on Making Your Website Accessible" class="simple aside" %}
 {:/}
 <ul>
   <li><a href="https://www.w3.org/WAI/intro/people-use-web/principles"></a> For an  introduction to accessibility requirements and international standards, see <a href="https://www.w3.org/WAI/intro/people-use-web/principles">Accessibility Principles</a>.</li>
@@ -145,7 +145,7 @@ If you need to make quick fixes now, see <a href="https://www.w3.org/WAI/impl/im
 <p>There are evaluation  tools that  help with evaluation. However, no tool alone can determine if a site meets accessibility guidelines. Knowledgeable human evaluation is required to determine if a site is accessible.</p>
 
 {::nomarkdown}
-{% include box.html type="start" title="More Info on Evaluating" class="simple aside" %}
+{% include box.html type="start" h="3" title="More Info on Evaluating Accessibility" class="simple aside" %}
 {:/}
 <ul>
   <li>Resources to help with accessibility evaluation are described in <a href="/WAI/eval/Overview.html">Evaluating Websites for Accessibility</a>.</li>
@@ -174,7 +174,7 @@ If you need to make quick fixes now, see <a href="https://www.w3.org/WAI/impl/im
 <p>It's easy and relatively inexpensive for websites to provide transcripts. There are also <a href="http://www.uiaccess.com/transcripts/transcript_services.html">transcription services</a> that create text transcripts in HTML format.</p>
 
 {::nomarkdown}
-{% include box.html type="start" title="More Examples" class="simple aside" %}
+{% include box.html type="start" h="3" title="More Examples" class="simple aside" %}
 {:/} 
 <ul>
   <li><a href="https://www.w3.org/WAI/gettingstarted/tips/">Tips for Getting Started</a></li>
