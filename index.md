@@ -8,8 +8,6 @@ layout: default
 {% include_cached toc.html type="start" title="Page Contents" class="full" %}
 {:/}
 
--   TOC is created automatically.
-{:toc}
 <ul>
 <li><a href="#intro">Introduction</a></li>
 <li><a href="#context">Accessibility in Context</a></li>
@@ -20,6 +18,7 @@ layout: default
 <li><a href="#examples">Examples</a></li>
 <li><a href="#more-info">For More Information</a></li>
 </ul>
+
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
 {:/}
@@ -64,8 +63,7 @@ layout: default
   <li>people using a slow Internet connection, or who have limited or expensive bandwidth</li>
 </ul>
 <p>For a 7-minute video with examples of how accessibility is essential for people with disabilities and useful for everyone in a variety of situations, see:<br>
-  <a href="https://www.youtube.com/watch?v=3f31oufqFSM">Web Accessibility Perspectives Video</a>.<br>
-<a href="https://www.youtube.com/watch?v=3f31oufqFSM"><img src="https://www.w3.org/WAI/images/perspectives_thumb.jpg" alt="" style="position: relative; width: 222px; display: inline-block; flex-shrink: 0;"/></a></p>
+  <a href="https://www.youtube.com/watch?v=3f31oufqFSM">Web Accessibility Perspectives Video<br><img src="https://www.w3.org/WAI/images/perspectives_thumb.jpg" alt="" style="position: relative; width: 222px; display: inline-block; flex-shrink: 0;"/></a></p>
 
 {::nomarkdown}
 {% include box.html type="start" h="3" title="More Info on What is Accessibility" class="simple aside" %}
