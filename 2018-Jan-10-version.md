@@ -1,7 +1,6 @@
 ---
 title: Introduction to Web Accessibility
 permalink: /fundamentals/accessibility-intro/2018-Jan-10-version
-redirect_from: /
 layout: default
 ---
 
