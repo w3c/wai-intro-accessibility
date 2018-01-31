@@ -31,9 +31,9 @@ layout: default
 
 <h2 id="context">Accessibility in Context</h2>
 <blockquote>
-  <p style="padding-bottom: 0; margin-bottom: 0em">The power of the Web is in its universality.<br />
+  <p>The power of the Web is in its universality.<br />
     Access by everyone regardless of disability is an essential aspect.</p>
-  <cite style="font-style: italic">Tim Berners-Lee, W3C Director and inventor of the World Wide Web</cite>
+  <footer><cite>Tim Berners-Lee, W3C Director and inventor of the World Wide Web</cite></footer>
 </blockquote>
 <p>The Web is fundamentally designed to work for all people, whatever their hardware, software, language,  location, or  ability. When the Web meets this goal, it is accessible to people with a diverse range of hearing, movement, sight, and cognitive ability.</p>
 <p>Thus the impact of disability is radically changed on the Web because the Web removes barriers to communication and interaction that many people face in the physical world. However, when websites,  applications, technologies, or  tools are badly designed, they can create barriers that exclude people from using the Web.</p>
