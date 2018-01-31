@@ -58,8 +58,8 @@ layout: default
 <ul>
   <li>people using mobile phones, smart watches, smart TVs, and other devices with small screens, different input modes, etc.</li>
   <li>older people with changing abilities due to ageing</li>
-  <li>people with "temporary disabilities" such as a broken arm or lost glasses</li>
-  <li>people with &quot;situational limitations&quot; such as in bright sunlight or  in an environment where they cannot listen to audio</li>
+  <li>people with “temporary disabilities” such as a broken arm or lost glasses</li>
+  <li>people with “situational limitations” such as in bright sunlight or  in an environment where they cannot listen to audio</li>
   <li>people using a slow Internet connection, or who have limited or expensive bandwidth</li>
 </ul>
 <p>For a 7-minute video with examples of how accessibility is essential for people with disabilities and useful for everyone in a variety of situations, see:<br>
