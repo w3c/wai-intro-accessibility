@@ -73,9 +73,7 @@ github:
 {% include box.html type="start" h="3" title="More Info on What is Accessibility" class="simple aside" %}
 {:/}
 <ul>
-  <li>When you want to learn more about how different
-    disabilities affect Web use, and read about scenarios of people with
-    disabilities using the Web, see <a href="http://www.w3.org/WAI/intro/people-use-web/Overview.html">How People with Disabilities Use the Web</a>.</li>
+  <li>When you want to learn more about how different disabilities affect Web use, and read about scenarios of people with disabilities using the Web, see <a href="http://www.w3.org/WAI/intro/people-use-web/Overview.html">How People with Disabilities Use the Web</a>.</li>
   <li>If you want more examples of benefits for others, with <acronym title="Web Content Accessibility Guidelines">WCAG</acronym> to back it up, see <a href="https://www.w3.org/WAI/bcase/soc#groups">Web Accessibility Benefits People With and Without Disabilities</a> and <a href="https://www.w3.org/WAI/mobile/experiences">Shared Web Experiences: Barriers Common to Mobile Device Users and People with Disabilities</a>.</li>
 </ul>
 {::nomarkdown}
@@ -83,9 +81,14 @@ github:
 {:/}
 
 <h2 id="important">Accessibility is Important for Individuals, Businesses, Society</h2>
-<p>The Web is an increasingly important resource in many aspects of life: education, employment, government, commerce, health care, recreation, and more. It is essential that the Web be accessible in order to provide equal access and equal opportunity to people with diverse abilities. An accessible Web can also help people with disabilities more actively participate  in society. Access to information and communications technologies, including the Web, is defined as a basic human right in the United Nations Convention on the Rights of Persons with Disabilities (UN <a href="http://www.un.org/disabilities/convention/conventionfull.shtml">CRPD</a>).</p>
+<p>The Web is an increasingly important resource in many aspects of life: education, employment, government, commerce, health care, recreation, and more. It is essential that the Web be accessible in order to provide equal access and equal opportunity to people with diverse abilities. Access to information and communications technologies, including the Web, is defined as a basic human right in the United Nations Convention on the Rights of Persons with Disabilities (UN <a href="http://www.un.org/disabilities/convention/conventionfull.shtml">CRPD</a>).</p>
 <p>The Web offers the possibility of unprecedented access to information and interaction for many people with disabilities. That is, the  accessibility barriers to print, audio, and visual media can be much more easily overcome through web technologies.</p>
-<p>Accessibility supports social inclusion for people with disabilities as well as others, such as older people, people in rural areas, and people in developing countries.</p>
+<p>Accessibility supports social inclusion for people with disabilities as well as others, such as:</p>
+<ul>
+  <li>older people</li>
+  <li>people in rural areas</li>
+  <li>people in developing countries</li>
+</ul>
 <p><strong>There is also a strong business case for accessibility.</strong> Accessibility overlaps with other best practices such as mobile web design, device independence, multi-modal interaction, usability, design for older users, and search engine optimization (SEO). Accessible websites can have better search results, reduced maintenance costs,  increased audience reach, and demonstrate  corporate social responsibility (CSR).</p>
 <p>Web accessibility is <strong>required by law </strong>in some cases.</p>
 
