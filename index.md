@@ -64,8 +64,7 @@ layout: default
   <li>people using a slow Internet connection, or who have limited or expensive bandwidth</li>
 </ul>
 <p>For a 7-minute video with examples of how accessibility is essential for people with disabilities and useful for everyone in a variety of situations, see:<br>
-{% include video-link.html title="Web Accessibility Perspectives Video" href="https://www.youtube.com/watch?v=3f31oufqFSM" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %}
-</p>
+{% include video-link.html title="Web Accessibility Perspectives Video" href="https://www.youtube.com/watch?v=3f31oufqFSM" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %}</p>
 
 {::nomarkdown}
 {% include box.html type="start" h="3" title="More Info on What is Accessibility" class="simple aside" %}
