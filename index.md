@@ -23,8 +23,9 @@ layout: default
 {% include_cached toc.html type="end" %}
 {:/}
 
-<p>Related resource:<br/>
-<a href="https://www.w3.org/WAI/videos/standards-and-benefits.html">Video Introduction to Web Accessibility and W3C Standards <em>(4 minutes)</em><br/><img src="https://www.w3.org/WAI/videos/sab-files/sab-still.jpg" alt="" style="margin-right: 5px; position: relative; width: 222px; display: inline-block; flex-shrink: 0;" /></a></p>
+<p>Related Resource:<br>
+{% include video-link.html title="Video Introduction to Web Accessibility and W3C Standards <em>(4 minutes)</em>" href="https://www.w3.org/WAI/videos/standards-and-benefits.html" src="/content-images/wai-intro-accessibility/video-still-accessibility-intro-16-9.jpg" %}
+</p>
 
 <h2 id="intro">Introduction</h2>
 <p>When websites and tools are properly designed and coded, people with disabilities can use them. However, currently many sites and tools are developed with accessibility barriers that make them difficult or impossible for some people to use.</p>
@@ -63,7 +64,8 @@ layout: default
   <li>people using a slow Internet connection, or who have limited or expensive bandwidth</li>
 </ul>
 <p>For a 7-minute video with examples of how accessibility is essential for people with disabilities and useful for everyone in a variety of situations, see:<br>
-  <a href="https://www.youtube.com/watch?v=3f31oufqFSM">Web Accessibility Perspectives Video<br><img src="https://www.w3.org/WAI/images/perspectives_thumb.jpg" alt="" style="position: relative; width: 222px; display: inline-block; flex-shrink: 0;"/></a></p>
+{% include video-link.html title="Web Accessibility Perspectives Video" href="https://www.youtube.com/watch?v=3f31oufqFSM" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %}
+</p>
 
 {::nomarkdown}
 {% include box.html type="start" h="3" title="More Info on What is Accessibility" class="simple aside" %}
