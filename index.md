@@ -22,13 +22,13 @@ github:
 <li><a href="#more-info">For More Information</a></li>
 </ul>
 
+<p><span class="box-h box-h-simple box-h-full">Related Resource</span><br>
+{% include video-link.html title="Video Introduction to Web Accessibility and W3C Standards <em>(4 minutes)</em>" href="https://www.w3.org/WAI/videos/standards-and-benefits.html" src="/content-images/wai-intro-accessibility/video-still-accessibility-intro-16-9.jpg" %}
+</p>
+
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
 {:/}
-
-<p>Related Resource:<br>
-{% include video-link.html title="Video Introduction to Web Accessibility and W3C Standards <em>(4 minutes)</em>" href="https://www.w3.org/WAI/videos/standards-and-benefits.html" src="/content-images/wai-intro-accessibility/video-still-accessibility-intro-16-9.jpg" %}
-</p>
 
 <h2 id="intro">Introduction</h2>
 <p>When websites and tools are properly designed and coded, people with disabilities can use them. However, currently many sites and tools are developed with accessibility barriers that make them difficult or impossible for some people to use.</p>
