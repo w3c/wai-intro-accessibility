@@ -20,7 +20,7 @@ github:
 <li><a href="#examples">Examples</a></li>
 <li><a href="#more-info">For More Information</a></li>
 </ul>
-<p><span style="color: #005A6A;">Related Resource:</span><br>
+<p><span class="box-h box-h-simple box-h-full">Related Resource</span><br>
 {% include video-link.html title="Video Introduction to Web Accessibility and W3C Standards <em>(4 minutes)</em>" href="https://www.w3.org/WAI/videos/standards-and-benefits.html" src="/content-images/wai-intro-accessibility/video-still-accessibility-intro-16-9.jpg" %}
 </p>
 
