@@ -1,11 +1,13 @@
 ---
-title: Introduction to Web Accessibility - alt summary
+title: Introduction to Web Accessibility
 permalink: /fundamentals/accessibility-intro/alt-summary
 layout: default
 ---
 
+{::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
+
 <p>When websites and tools are properly designed and coded, people with disabilities can use them. However, currently many sites and tools are developed with accessibility barriers that make them difficult or impossible for some people to use.</p>
 <p>International standards define what is needed for web accessibility. Making the web accessible benefits individuals, businesses, governments, and society.</p>
 {::nomarkdown}
@@ -17,7 +19,6 @@ layout: default
 {:/}
 
 <ul>
-<li><a href="#intro">Introduction</a></li>
 <li><a href="#context">Accessibility in Context</a></li>
 <li><a href="#what">What is Web Accessibility</a></li>
 <li><a href="#important">Accessibility is Important for Individuals, Businesses, Society</a></li>
@@ -34,9 +35,6 @@ layout: default
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
 {:/}
-
-<h2 id="intro">Introduction</h2>
-<p>When websites and tools are properly designed and coded, people with disabilities can use them. However, currently many sites and tools are developed with accessibility barriers that make them difficult or impossible for some people to use.</p>
 
 <h2 id="context">Accessibility in Context</h2>
 <blockquote>
