@@ -90,7 +90,7 @@ github:
   <li>people in developing countries</li>
 </ul>
 <p><strong>There is also a strong business case for accessibility.</strong> Accessibility overlaps with other best practices such as mobile web design, device independence, multi-modal interaction, usability, design for older users, and search engine optimization (SEO). Accessible websites can have better search results, reduced maintenance costs,  increased audience reach, and demonstrate  corporate social responsibility (CSR).</p>
-<p>Web accessibility is <strong>required by law </strong>in some cases.</p>
+<p>Web accessibility is <strong>required by law </strong>in many situations.</p>
 
 {::nomarkdown}
 {% include box.html type="start" h="3" title="More Info on Accessibility is Important" class="simple aside" %}
