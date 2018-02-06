@@ -1,12 +1,8 @@
 ---
-title: Introduction to Web Accessibility [alt summary]
+title: Introduction to Web Accessibility - alt summary
 permalink: /fundamentals/accessibility-intro/alt-summary
 layout: default
-github:
-  repository: w3c/wai-intro-accessibility
-  branch: gh-pages
 ---
-
 
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
