@@ -188,10 +188,9 @@ If you need to make quick fixes now, see <a href="https://www.w3.org/WAI/impl/im
   <li><a href="https://www.w3.org/WAI/gettingstarted/tips/">Tips for Getting Started</a></li>
   <li><a href="https://www.w3.org/WAI/eval/preliminary">Easy Checks - A First Review</a></li>
   <li><a href="https://www.w3.org/WAI/perspectives/">Web Accessibility Perspectives</a> &mdash; videos and descriptions<br>
-  <li><a href="https://www.w3.org/WAI/perspectives/">Web Accessibility Perspectives</a> &mdash; videos and descriptions<br>
 
+{::nomarkdown}
 {% include video-link.html title="Web Accessibility Perspectives" href="https://www.w3.org/WAI/perspectives/" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %} 
-
 {::nomarkdown} {% include_cached toc.html type="end" %} {:/}
   
 </li>
