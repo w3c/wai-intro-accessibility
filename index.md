@@ -8,11 +8,20 @@ github:
 ---
 
 {::nomarkdown}
+{% include box.html type="start" h="2" title="Summary" class="full" %}
+{:/}
+
+<p>When websites and web tools are properly designed and coded, people with disabilities can use them. However, currently many sites and tools are developed with accessibility barriers that make them difficult or impossible for some people to use.</p>
+<p>Making the web accessible benefits individuals, businesses, and society. International web standards define what is needed for accessibility.</p>
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+{::nomarkdown}
 {% include_cached toc.html type="start" title="Page Contents" class="full" %}
 {:/}
 
 <ul>
-<li><a href="#intro">Introduction</a></li>
 <li><a href="#context">Accessibility in Context</a></li>
 <li><a href="#what">What is Web Accessibility</a></li>
 <li><a href="#important">Accessibility is Important for Individuals, Businesses, Society</a></li>
@@ -29,9 +38,6 @@ github:
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
 {:/}
-
-<h2 id="intro">Introduction</h2>
-<p>When websites and tools are properly designed and coded, people with disabilities can use them. However, currently many sites and tools are developed with accessibility barriers that make them difficult or impossible for some people to use.</p>
 
 <h2 id="context">Accessibility in Context</h2>
 <blockquote>
@@ -195,5 +201,3 @@ If you need to make quick fixes now, see <a href="https://www.w3.org/WAI/impl/im
 
 <h2 id="more-info">For More Information</h2>
 <p>W3C WAI provides a wide range of resources on different aspects of web accessibility <a href="https://www.w3.org/WAI/guid-tech">standards</a>, <a href="https://www.w3.org/WAI/train">education</a>, <a href="https://www.w3.org/WAI/eval">testing/evaluation</a>, <a href="https://www.w3.org/WAI/managing">project management, and policy</a>. We encourage you to explore this website, or look through the <a href="http://www.w3.org/WAI/Resources/">WAI Resources</a> list.</p>
-
-
