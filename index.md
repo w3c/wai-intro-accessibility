@@ -87,7 +87,7 @@ github:
 {:/}
 
 <h2 id="important">Accessibility is Important for Individuals, Businesses, Society</h2>
-<p>The Web is an increasingly important resource in many aspects of life: education, employment, government, commerce, health care, recreation, and more. It is essential that the Web be accessible in order to provide equal access and equal opportunity to people with diverse abilities. Access to information and communications technologies, including the Web, is defined as a basic human right in the United Nations Convention on the Rights of Persons with Disabilities (UN <a href="http://www.un.org/disabilities/convention/conventionfull.shtml">CRPD</a>).</p>
+<p>The Web is an increasingly important resource in many aspects of life: education, employment, government, commerce, health care, recreation, and more. It is essential that the Web be accessible in order to provide equal access and equal opportunity to people with diverse abilities. Access to information and communications technologies, including the Web, is defined as a basic human right in the United Nations Convention on the Rights of Persons with Disabilities (UN <a href="https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html">CRPD</a>).</p>
 <p>The Web offers the possibility of unprecedented access to information and interaction for many people with disabilities. That is, the  accessibility barriers to print, audio, and visual media can be much more easily overcome through web technologies.</p>
 <p>Accessibility supports social inclusion for people with disabilities as well as others, such as:</p>
 <ul>
@@ -119,8 +119,8 @@ github:
 
 <ul>
   <li>More about these aspects of accessibility working together is in <a href="components.php">Essential Components of Web Accessibility</a>.</li>
-  <li>Web Content Accessibility Guidelines (WCAG), Authoring Tool Accessibility Guidelines (ATAG), ARIA for Accessible Rich Internet Applications, and other important resources are introduced in <a href="@@">W3C Accessibility Standards Overview</a>.</li>
-  <li>To learn more about how W3C WAI develops material through multi-stakeholder, international participation and how you can contribute, see <a href="@@">About WAI</a> and <a href="@@">Participating in WAI</a>.</li>
+  <li>Web Content Accessibility Guidelines (WCAG), Authoring Tool Accessibility Guidelines (ATAG), ARIA for Accessible Rich Internet Applications, and other important resources are introduced in <a href="https://www.w3.org/WAI/guid-tech">W3C Accessibility Standards Overview</a>.</li>
+  <li>To learn more about how W3C WAI develops material through multi-stakeholder, international participation and how you can contribute, see <a href="https://www.w3.org/WAI/about">About WAI</a> and <a href="https://www.w3.org/WAI/participation">Participating in WAI</a>.</li>
 </ul>
 {::nomarkdown}
 {% include box.html type="end" %}
