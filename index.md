@@ -190,8 +190,8 @@ If you need to make quick fixes now, see <a href="https://www.w3.org/WAI/impl/im
 <ul>
   <li><a href="https://www.w3.org/WAI/gettingstarted/tips/">Tips for Getting Started</a></li>
   <li><a href="https://www.w3.org/WAI/eval/preliminary">Easy Checks - A First Review</a></li>
-  <li><a href="https://www.w3.org/WAI/perspectives/">Web Accessibility Perspectives</a> &mdash; videos and descriptions<br>
-<a href="https://www.youtube.com/watch?v=3f31oufqFSM"><img src="https://www.w3.org/WAI/images/perspectives_thumb.jpg" alt="" style="position: relative; width: 222px; display: inline-block; flex-shrink: 0;"/></a></li>
+  <li>{% include video-link.html class="small list" title="Web Accessibility Perspectives &mdash; videos and descriptions" href="https://www.w3.org/WAI/perspectives/" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %}
+</li>
 </ul>
 {::nomarkdown}
 {% include box.html type="end" %}
