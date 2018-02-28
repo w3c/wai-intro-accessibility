@@ -5,6 +5,11 @@ layout: default
 github:
   repository: w3c/wai-intro-accessibility
   branch: gh-pages
+footer: >
+  <p>
+    <strong>Status:</strong> Updated 7 February 2018 (first published February 2005)<br>
+  Editor: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Develop by the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">EOWG</a>).
+  </p>
 ---
 
 {::nomarkdown}
