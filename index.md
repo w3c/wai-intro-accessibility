@@ -85,8 +85,8 @@ footer: >
 {% include box.html type="start" h="3" title="More Info on What is Accessibility" class="simple aside" %}
 {:/}
 <ul>
-  <li>When you want to learn more about how different disabilities affect Web use, and read about scenarios of people with disabilities using the Web, see <a href="http://www.w3.org/WAI/intro/people-use-web/Overview.html">How People with Disabilities Use the Web</a>.</li>
-  <li>If you want more examples of benefits for others, with <acronym title="Web Content Accessibility Guidelines">WCAG</acronym> to back it up, see <a href="https://www.w3.org/WAI/bcase/soc#groups">Web Accessibility Benefits People With and Without Disabilities</a> and <a href="https://www.w3.org/WAI/mobile/experiences">Shared Web Experiences: Barriers Common to Mobile Device Users and People with Disabilities</a>.</li>
+  <li>When you want to learn more about how different disabilities affect Web use, and read about scenarios of people with disabilities using the Web, see <a href="{{ "/people-use-web/" | relative_url }}">How People with Disabilities Use the Web</a>.</li>
+  <li>If you want more examples of benefits for others, with <abbr title="Web Content Accessibility Guidelines">WCAG</abbr> to back it up, see <a href="https://www.w3.org/WAI/bcase/soc#groups">Web Accessibility Benefits People With and Without Disabilities</a> and <a href="{{ "/standards-guidelines/shared-experiences/" | relative_url }}">Shared Web Experiences: Barriers Common to Mobile Device Users and People with Disabilities</a>.</li>
 </ul>
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -108,7 +108,7 @@ footer: >
 {% include box.html type="start" h="3" title="More Info on Accessibility is Important" class="simple aside" %}
 {:/}
 <ul>
-  <li>Details on business benefits are in <a href="/WAI/bcase/Overview">Developing a Web Accessibility Business Case for Your Organization</a>.</li>
+  <li>Details on business benefits are in <a href="{{ "/business-case/" | relative_url }}">Developing a Web Accessibility Business Case for Your Organization</a>.</li>
   <li>Guidance on figuring out legal requirements is in <a href="https://www.w3.org/WAI/bcase/pol">Legal and Policy Factors</a>.</li>
 </ul>
 {::nomarkdown}
@@ -117,16 +117,16 @@ footer: >
 
 <h2 id="making">Making the Web Accessible</h2>
 <p>Web accessibility depends on several components working together, including web technologies, web browsers and other "user agents", authoring tools, and websites.</p>
-<p>The W3C Web Accessibility Initiative (<a href="../about-links">WAI</a>) develops technical specifications, guidelines, techniques, and supporting resources that describe accessibility solutions. These are considered international standards for web accessibility; for example, <abbr title="Web Content Accessibility Guidelines (WCAG)">WCAG</abbr> 2.0 is also an <abbr title="International Organization for Standardization">ISO</abbr> standard: ISO/<abbr title="International Electrotechnical Commission">IEC</abbr> 40500.</p>
+<p>The W3C Web Accessibility Initiative (<a href="{{ "/get-involved/" | relative_url }}">WAI</a>) develops technical specifications, guidelines, techniques, and supporting resources that describe accessibility solutions. These are considered international standards for web accessibility; for example, <abbr title="Web Content Accessibility Guidelines (WCAG)">WCAG</abbr> 2.0 is also an <abbr title="International Organization for Standardization">ISO</abbr> standard: ISO/<abbr title="International Electrotechnical Commission">IEC</abbr> 40500.</p>
 
 {::nomarkdown}
 {% include box.html type="start" h="3" title="More Info on Making the Web Accessible" class="simple aside" %}
 {:/}
 
 <ul>
-  <li>More about these aspects of accessibility working together is in <a href="components.php">Essential Components of Web Accessibility</a>.</li>
-  <li>Web Content Accessibility Guidelines (WCAG), Authoring Tool Accessibility Guidelines (ATAG), ARIA for Accessible Rich Internet Applications, and other important resources are introduced in <a href="https://www.w3.org/WAI/guid-tech">W3C Accessibility Standards Overview</a>.</li>
-  <li>To learn more about how W3C WAI develops material through multi-stakeholder, international participation and how you can contribute, see <a href="https://www.w3.org/WAI/about">About WAI</a> and <a href="https://www.w3.org/WAI/participation">Participating in WAI</a>.</li>
+  <li>More about these aspects of accessibility working together is in <a href="{{ "/fundamentals/components/" | relative_url }}">Essential Components of Web Accessibility</a>.</li>
+  <li>Web Content Accessibility Guidelines (WCAG), Authoring Tool Accessibility Guidelines (ATAG), ARIA for Accessible Rich Internet Applications, and other important resources are introduced in <a href="{{ "/standards-guidelines/" | relative_url }}">W3C Accessibility Standards Overview</a>.</li>
+  <li>To learn more about how W3C WAI develops material through multi-stakeholder, international participation and how you can contribute, see <a href="{{ "/about/" | relative_url }}">About WAI</a> and <a href="{{ "/get-involved/" | relative_url }}">Participating in WAI</a>.</li>
 </ul>
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -141,17 +141,17 @@ footer: >
 {% include box.html type="start" h="3" title="More Info on Making Your Website Accessible" class="simple aside" %}
 {:/}
 <ul>
-  <li><a href="https://www.w3.org/WAI/intro/people-use-web/principles"></a> For an  introduction to accessibility requirements and international standards, see <a href="https://www.w3.org/WAI/intro/people-use-web/principles">Accessibility Principles</a>.</li>
-  <li><a href="https://www.w3.org/WAI/eval/preliminary"></a>To understand some common accessibility barriers from the perspective of testing, see <a href="https://www.w3.org/WAI/eval/preliminary">Easy Checks - A First Review</a>.</li>
-  <li><a href="https://www.w3.org/WAI/gettingstarted/tips/"></a> For some basic considerations on designing, writing, and developing for accessibility, see <a href="https://www.w3.org/WAI/gettingstarted/tips/">Tips for Getting Started</a>.</li>
+  <li>For an  introduction to accessibility requirements and international standards, see <a href="{{ "/fundamentals/accessibility-principles/" | relative_url }}">Accessibility Principles</a>.</li>
+  <li>To understand some common accessibility barriers from the perspective of testing, see <a href="{{ "/test-evaluate/preliminary/" | relative_url }}">Easy Checks - A First Review</a>.</li>
+  <li>For some basic considerations on designing, writing, and developing for accessibility, see <a href="{{ "/tips/" | relative_url }}">Tips for Getting Started</a>.</li>
   <li>When you're ready to know more about developing and designing, you'll probably use resources such as:
     <ul>
       <li><a href="http://www.w3.org/WAI/WCAG20/quickref/">How to Meet WCAG 2.0: A customizable quick reference...</a></li>
       <li><a href="https://www.w3.org/WAI/tutorials/">Web Accessibility Tutorials</a></li>
     </ul>
   </li>
-  <li>For project management and organizational considerations, see <a href="https://www.w3.org/WAI/impl/">Planning and Managing Web Accessibility</a>.<br>
-If you need to make quick fixes now, see <a href="https://www.w3.org/WAI/impl/improving">Approaches for Interim Repairs</a>.</li>
+  <li>For project management and organizational considerations, see <a href="{{ "/planning-and-managing/" | relative_url }}">Planning and Managing Web Accessibility</a>.<br>
+If you need to make quick fixes now, see <a href="{{ "/plan/interim-repairs/" | relative_url }}">Approaches for Interim Repairs</a>.</li>
 </ul>
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -165,7 +165,7 @@ If you need to make quick fixes now, see <a href="https://www.w3.org/WAI/impl/im
 {% include box.html type="start" h="3" title="More Info on Evaluating Accessibility" class="simple aside" %}
 {:/}
 <ul>
-  <li>Resources to help with accessibility evaluation are described in <a href="/WAI/eval/Overview.html">Evaluating Websites for Accessibility</a>.</li>
+  <li>Resources to help with accessibility evaluation are described in <a href="{{ "/test-evaluate/" | relative_url }}">Evaluating Websites for Accessibility</a>.</li>
 </ul>
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -183,7 +183,7 @@ If you need to make quick fixes now, see <a href="https://www.w3.org/WAI/impl/im
 
 <h3>Keyboard Input</h3>
 <img class="left" src="https://www.w3.org/WAI/intro/no-mouse.png" width="67" height="45" alt="mouse crossed out" />
-<p class="di">Some people cannot use a mouse, including many older users with limited fine motor control. An accessible website does not rely on the mouse; it makes <a href="http://www.w3.org/TR/UNDERSTANDING-WCAG20/keyboard-operation.html">all functionality available from a keyboard</a>. Then people with disabilities can use <a href="http://www.w3.org/WAI/users/involving#at">assistive technologies</a> that mimic the keyboard, such as speech input.</p>
+<p class="di">Some people cannot use a mouse, including many older users with limited fine motor control. An accessible website does not rely on the mouse; it makes <a href="http://www.w3.org/TR/UNDERSTANDING-WCAG20/keyboard-operation.html">all functionality available from a keyboard</a>. Then people with disabilities can use <a href="{{ "/plan/involving-users/" | relative_url }}#at">assistive technologies</a> that mimic the keyboard, such as speech input.</p>
 
 <h3>Transcripts for Audio</h3>
 <p><a href="http://www.w3.org/WAI/highlights/200606wcag2interview.html"><img src="http://www.w3.org/WAI/intro/transcript.png" class="right" width="251" height="254" alt="example transcript" /></a></p>
@@ -194,8 +194,8 @@ If you need to make quick fixes now, see <a href="https://www.w3.org/WAI/impl/im
 {% include box.html type="start" h="3" title="More Examples" class="simple aside" %}
 {:/} 
 <ul>
-  <li><a href="https://www.w3.org/WAI/gettingstarted/tips/">Tips for Getting Started</a></li>
-  <li><a href="https://www.w3.org/WAI/eval/preliminary">Easy Checks - A First Review</a></li>
+  <li><a href="{{ "/tips/" | relative_url }}">Tips for Getting Started</a></li>
+  <li><a href="{{ "/test-evaluate/preliminary/" | relative_url }}">Easy Checks - A First Review</a></li>
   <li>{% include video-link.html class="small list" title="Web Accessibility Perspectives &mdash; videos and descriptions" href="https://www.w3.org/WAI/perspectives/" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %}
 </li>
 </ul>
@@ -206,4 +206,4 @@ If you need to make quick fixes now, see <a href="https://www.w3.org/WAI/impl/im
 {% include excol.html type="end" %}
 
 <h2 id="more-info">For More Information</h2>
-<p>W3C WAI provides a wide range of resources on different aspects of web accessibility <a href="https://www.w3.org/WAI/guid-tech">standards</a>, <a href="https://www.w3.org/WAI/train">education</a>, <a href="https://www.w3.org/WAI/eval">testing/evaluation</a>, <a href="https://www.w3.org/WAI/managing">project management, and policy</a>. We encourage you to explore this website, or look through the <a href="http://www.w3.org/WAI/Resources/">WAI Resources</a> list.</p>
+<p>W3C WAI provides a wide range of resources on different aspects of web accessibility <a href="{{ "/standards-guidelines/" | relative_url }}">standards</a>, <a href="https://www.w3.org/WAI/train">education</a>, <a href="{{ "/test-evaluate/" | relative_url }}">testing/evaluation</a>, <a href="https://www.w3.org/WAI/managing">project management, and policy</a>. We encourage you to explore this website, or look through the <a href="http://www.w3.org/WAI/Resources/">WAI Resources</a> list.</p>
