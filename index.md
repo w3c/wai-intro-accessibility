@@ -6,10 +6,10 @@ github:
   repository: w3c/wai-intro-accessibility
   branch: gh-pages
 footer: >
-  <p>
-    <strong>Status:</strong> Updated 7 February 2018 (first published February 2005)<br>
-  Editor: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Develop by the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">EOWG</a>).
-  </p>
+  <p><strong>Date:</strong> Updated 7 February 2018. First published February 2005.</p>
+  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
+  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
+
 ---
 
 {::nomarkdown}
