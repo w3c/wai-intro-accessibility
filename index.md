@@ -172,7 +172,7 @@ If you need to make quick fixes now, see <a href="{{ "/plan/interim-repairs/" | 
 {:/}
 
 {% include excol.html type="start" id="examples" %}
-<h2 id="examples">Examples</h2>
+<h2>Examples</h2>
 {% include excol.html type="middle" %}
 
 <h3>Alternative Text for Images</h3>
