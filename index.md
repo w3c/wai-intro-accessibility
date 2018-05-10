@@ -151,7 +151,7 @@ footer: >
     </ul>
   </li>
   <li>For project management and organizational considerations, see <a href="{{ "/planning-and-managing/" | relative_url }}">Planning and Managing Web Accessibility</a>.<br>
-If you need to make quick fixes now, see <a href="{{ "/plan/interim-repairs/" | relative_url }}">Approaches for Interim Repairs</a>.</li>
+If you need to make quick fixes now, see <a href="{{ "/planning/interim-repairs/" | relative_url }}">Approaches for Interim Repairs</a>.</li>
 </ul>
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -183,7 +183,7 @@ If you need to make quick fixes now, see <a href="{{ "/plan/interim-repairs/" | 
 
 <h3>Keyboard Input</h3>
 <img class="left" src="https://www.w3.org/WAI/intro/no-mouse.png" width="67" height="45" alt="mouse crossed out" />
-<p class="di">Some people cannot use a mouse, including many older users with limited fine motor control. An accessible website does not rely on the mouse; it makes <a href="http://www.w3.org/TR/UNDERSTANDING-WCAG20/keyboard-operation.html">all functionality available from a keyboard</a>. Then people with disabilities can use <a href="{{ "/plan/involving-users/" | relative_url }}#at">assistive technologies</a> that mimic the keyboard, such as speech input.</p>
+<p class="di">Some people cannot use a mouse, including many older users with limited fine motor control. An accessible website does not rely on the mouse; it makes <a href="http://www.w3.org/TR/UNDERSTANDING-WCAG20/keyboard-operation.html">all functionality available from a keyboard</a>. Then people with disabilities can use <a href="{{ "/planning/involving-users/" | relative_url }}#at">assistive technologies</a> that mimic the keyboard, such as speech input.</p>
 
 <h3>Transcripts for Audio</h3>
 <p><a href="http://www.w3.org/WAI/highlights/200606wcag2interview.html"><img src="http://www.w3.org/WAI/intro/transcript.png" class="right" width="251" height="254" alt="example transcript" /></a></p>
