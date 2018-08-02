@@ -6,7 +6,7 @@ github:
   repository: w3c/wai-intro-accessibility
   branch: gh-pages
 footer: >
-  <p><strong>Date:</strong> Updated 7 February 2018. First published February 2005.</p>
+  <p><strong>Date:</strong> Updated 24 March 2018. First published February 2005.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -146,7 +146,7 @@ footer: >
   <li>For some basic considerations on designing, writing, and developing for accessibility, see <a href="{{ "/tips/" | relative_url }}">Tips for Getting Started</a>.</li>
   <li>When you're ready to know more about developing and designing, you'll probably use resources such as:
     <ul>
-      <li><a href="http://www.w3.org/WAI/WCAG20/quickref/">How to Meet WCAG 2.0: A customizable quick reference...</a></li>
+      <li><a href="http://www.w3.org/WAI/WCAG20/quickref/">How to Meet WCAG 2 (Quick Reference)</a></li>
       <li><a href="https://www.w3.org/WAI/tutorials/">Web Accessibility Tutorials</a></li>
     </ul>
   </li>
