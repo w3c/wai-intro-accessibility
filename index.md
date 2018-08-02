@@ -196,7 +196,7 @@ If you need to make quick fixes now, see <a href="{{ "/planning/interim-repairs/
 <ul>
   <li><a href="{{ "/tips/" | relative_url }}">Tips for Getting Started</a></li>
   <li><a href="{{ "/test-evaluate/preliminary/" | relative_url }}">Easy Checks - A First Review</a></li>
-  <li>{% include video-link.html class="small inline" title="Web Accessibility Perspectives &mdash; videos and descriptions" href="https://www.w3.org/WAI/perspectives/" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %}
+  <li>{% include video-link.html class="small inline" title="Web Accessibility Perspectives &mdash; videos and descriptions" href="/perspective-videos/" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %}
 </li>
 </ul>
 {::nomarkdown}
