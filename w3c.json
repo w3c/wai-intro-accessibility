@@ -1,5 +1,9 @@
 {
-      "group":      35532
-  ,   "contacts":   ["slhenry"]
-  ,   "shortName":  "wai-intro-accessibility"
-  }
+  "group": 35532,
+  "contacts": [
+    "slhenry"
+  ],
+  "shortName": "wai-intro-accessibility",
+  "repo-type": "article",
+  "policy": "open"
+}
