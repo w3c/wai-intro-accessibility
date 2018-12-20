@@ -1,6 +1,8 @@
 ---
 title: Introduction to Web Accessibility
 permalink: /fundamentals/accessibility-intro/
+ref: /fundamentals/accessibility-intro/
+lang: en
 layout: default
 github:
   repository: w3c/wai-intro-accessibility
