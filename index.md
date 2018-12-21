@@ -1,17 +1,18 @@
 ---
-title: Introduction to Web Accessibility
-permalink: /fundamentals/accessibility-intro/
-ref: /fundamentals/accessibility-intro/
-lang: en
+# Translation info: 1. Everything behind a # in the “front matter” (before the second --- below) is a comment and will not show up in the rendering of the site.
+title: Introduction to Web Accessibility # Translate this
+permalink: /fundamentals/accessibility-intro/  # Add the shortcode of your language to the URL. For example /fundamentals/accessibility-intro/fr
+ref: /fundamentals/accessibility-intro/ # do not change this!
+lang: en # Translated language shortcode
 layout: default
 github:
   repository: w3c/wai-intro-accessibility
   branch: gh-pages
+  path: index.md # Add translated language shortcode to the filename, for example index.fr.md
 footer: >
   <p><strong>Date:</strong> Updated 24 March 2018. First published February 2005.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
-
 ---
 
 {::nomarkdown}
