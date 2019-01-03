@@ -1,19 +1,25 @@
 ---
-# Translation info: 1. Everything behind a # in the “front matter” (before the second --- below) is a comment and will not show up in the rendering of the site.
-title: Introduction to Web Accessibility # Translate this
-permalink: /fundamentals/accessibility-intro/  # Add the shortcode of your language to the URL. For example /fundamentals/accessibility-intro/fr
-ref: /fundamentals/accessibility-intro/ # do not change this!
-lang: en # Translated language shortcode
+# Translation instructions are after the "#" character in this first section. (They are comments that do not show up in the web page.)
+title: Introduction to Web Accessibility   # Do not translate "title:". Do translate the text after "title:".
+lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
+last_updated: 2020-11-11   # Put the date of this translation
+translator: "@@"   # Replace @@ with name or names separated with a comma
+contributors: "@@"   # Replace @@ with name(s) or delete this line
+permalink: /fundamentals/accessibility-intro/   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
+ref: /fundamentals/accessibility-intro/   # Do not change this
 layout: default
 github:
   repository: w3c/wai-intro-accessibility
   branch: gh-pages
-  path: index.md # Add translated language shortcode to the filename, for example index.fr.md
-footer: >
+  path: index.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
+footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
   <p><strong>Date:</strong> Updated 24 March 2018. First published February 2005.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
+# Read Translations Notes at https://github.com/w3c/wai-intro-accessibility/blob/gh-pages/README.md
+# end of translation instructions
 ---
+
 
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
