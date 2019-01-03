@@ -4,4 +4,4 @@ Preview draft at: https://w3c.github.io/wai-intro-accessibility/fundamentals/acc
 
 ## Translation Notes
 
-(None yet.)
+This resource is ready for translation.
