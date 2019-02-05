@@ -4,5 +4,5 @@ Preview draft at: https://w3c.github.io/wai-intro-accessibility/fundamentals/acc
 
 ## Translation Notes
 
-In January 2019 we are finalizing a new process for translations. Until it is complete, please coordinate all translations with shawn@w3.org Thanks.
+In February 2019 we are finalizing a new process for translations. Until it is complete, please coordinate all translations with shawn@w3.org Thanks.
 
