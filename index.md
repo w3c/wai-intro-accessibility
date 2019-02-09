@@ -185,7 +185,7 @@ If you need to make quick fixes now, see <a href="{{ "/planning/interim-repairs/
 {% include excol.html type="middle" %}
 
 <h3>Alternative Text for Images</h3>
-<img class="right" src="http://www.w3.org/WAI/intro/alt-logo.png" alt="image of logo; HTML markup img alt='Web Accessibility Initiative logo'">
+<img class="right" src="https://www.w3.org/WAI/intro/alt-logo.png" alt="image of logo; HTML markup img alt='Web Accessibility Initiative logo'">
 <p>Images should include <em><a href="http://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv.html">equivalent alternative text</a></em> (alt text) in the markup/code.</p>
 <p>If alt text isn't provided for images, the image information is inaccessible, for example, to people who cannot see and use a screen reader that reads aloud the information on a page, including the alt text for the visual image.</p>
 <p>When equivalent alt text is provided, the information is available to people who are blind, as well as to people who turn off images (for example,  in  areas with expensive or low bandwidth). It's also available to technologies that cannot see images, such as search engines.</p>
@@ -195,7 +195,7 @@ If you need to make quick fixes now, see <a href="{{ "/planning/interim-repairs/
 <p class="di">Some people cannot use a mouse, including many older users with limited fine motor control. An accessible website does not rely on the mouse; it makes <a href="http://www.w3.org/TR/UNDERSTANDING-WCAG20/keyboard-operation.html">all functionality available from a keyboard</a>. Then people with disabilities can use <a href="{{ "/planning/involving-users/" | relative_url }}#at">assistive technologies</a> that mimic the keyboard, such as speech input.</p>
 
 <h3>Transcripts for Audio</h3>
-<p><a href="http://www.w3.org/WAI/highlights/200606wcag2interview.html"><img src="http://www.w3.org/WAI/intro/transcript.png" class="right" width="251" height="254" alt="example transcript" /></a></p>
+<p><a href="http://www.w3.org/WAI/highlights/200606wcag2interview.html"><img src="https://www.w3.org/WAI/intro/transcript.png" class="right" width="251" height="254" alt="example transcript" /></a></p>
 <p>Just as images aren't available to people who can't see, audio files aren't available to people who can't hear. Providing a text transcript makes the audio information accessible to people who are deaf or hard of hearing, as well as to search engines and other technologies that can't hear.</p>
 <p>It's easy and relatively inexpensive for websites to provide transcripts. There are also <a href="http://www.uiaccess.com/transcripts/transcript_services.html">transcription services</a> that create text transcripts in HTML format.</p>
 
