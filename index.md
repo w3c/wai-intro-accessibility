@@ -1,25 +1,37 @@
 ---
-# Translation instructions are after the "#" character in this first section. (They are comments that do not show up in the web page.)
+# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
+
 title: Introduction to Web Accessibility   # Do not translate "title:". Do translate the text after "title:".
+nav_title: "Introduction to Accessibility" # A short title that is used in the navigation
+
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
+
 last_updated: 2020-11-11   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-translator: "@@"   # Replace @@ with name or names separated with a comma
-contributors: "@@"   # Replace @@ with name(s) or delete this line
-permalink: /fundamentals/accessibility-intro/   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
+translator: " "   # Within quote marks, put name or names separated with a comma
+contributors: " "   # Within quote marks, put name(s) or delete this line
+
 ref: /fundamentals/accessibility-intro/   # Do not change this
 layout: default
 github:
   repository: w3c/wai-intro-accessibility
   branch: gh-pages
   path: index.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
+permalink: /fundamentals/accessibility-intro/   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
+
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
   <p><strong>Date:</strong> Updated 9 January 2019. First published February 2005.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
-# Read Translations Notes at https://github.com/w3c/wai-intro-accessibility/blob/gh-pages/README.md
+
+# Read Important Translations Guidance at https://www.w3.org/WAI/about/translating/#important
+# Read Translations Notes for this resource at https://github.com/w3c/wai-intro-accessibility/blob/gh-pages/README.md
 # end of translation instructions
 ---
 
+@@<br>
+SLH address:  old link " https://www.w3.org/WAI/bcase/soc#groups"<br>
+(@@ open issues – before translate?)<br>
+@@
 
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
@@ -68,7 +80,6 @@ Thus the impact of disability is radically changed on the Web because the Web re
 
 **Accessibility is essential for developers and organizations that want to create high-quality websites and web tools, and not exclude people from using their products and services.**
 
-
 ## What is Web Accessibility {#what}
 
 Web accessibility means that websites, tools, and technologies are designed and developed so that people with disabilities can use them. More specifically, people can:
@@ -103,14 +114,13 @@ situations, see:<br>
 {:/}
 
 -   When you want to learn more about how different disabilities affect Web use, and read about scenarios of people with disabilities using the Web, see [[How People with Disabilities Use the Web]](/people-use-web/).
--   If you want more examples of benefits for others, with WCAG to back it up, see [Web Accessibility Benefits People With and Without Disabilities](https://www.w3.org/WAI/bcase/soc#groups) and [[Shared Web Experiences: Barriers Common to Mobile Device Users and People with Disabilities]](/standards-guidelines/shared-experiences/).
+-   If you want more examples of benefits for others, with WCAG to back it up, see [Web Accessibility Benefits People With and Without Disabilities](https://www.w3.org/WAI/bcase/soc#groups) and [[Shared Web Experiences: Barriers Common to Mobile Device Users and People with Disabilities]](/standards-guidelines/shared-experiences/).
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
-Accessibility is Important for Individuals, Businesses, Society {#important}
----------------------------------------------------------------
+## Accessibility is Important for Individuals, Businesses, Society {#important}
 
 The Web is an increasingly important resource in many aspects of life: education, employment, government, commerce, health care, recreation, and more. It is essential that the Web be accessible in order to provide equal access and equal opportunity to people with diverse abilities. Access to information and communications technologies, including the Web, is defined as a basic human right in the United Nations Convention on the Rights of Persons with Disabilities (UN [CRPD](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html)).
 
@@ -196,7 +206,6 @@ alone can determine if a site meets accessibility guidelines.
 Knowledgeable human evaluation is required to determine if a site is
 accessible.
 
-
 {::nomarkdown}
 {% include box.html type="start" h="3" title="More Info on Evaluating Accessibility" class="simple aside" %}
 {:/}
@@ -251,7 +260,6 @@ It's easy and relatively inexpensive for websites to provide transcripts. There 
 
 {% include excol.html type="end" %}
 
-For More Information {#more-info}
---------------------
+## For More Information {#more-info}
 
 W3C WAI provides a wide range of resources on different aspects of web accessibility [standards](/standards-guidelines/), [education](https://www.w3.org/WAI/train), [testing/evaluation](/test-evaluate/), [project management, and policy](https://www.w3.org/WAI/managing). We encourage you to explore this website, or look through the [WAI Resources](http://www.w3.org/WAI/Resources/) list.
