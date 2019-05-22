@@ -4,9 +4,9 @@ title: Introduction to Web Accessibility   # Do not translate "title:". Do trans
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2020-11-11   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 # translators: #Add one -name: line for every translator
-# - name: 
+# - name: "Translator Name Here"
 # contributors: #Add one -name: line for every contributor
-# - name: 
+# - name: "Contributor Name Here"
 permalink: /fundamentals/accessibility-intro/   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
 ref: /fundamentals/accessibility-intro/   # Do not change this
 layout: default
