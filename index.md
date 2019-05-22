@@ -3,8 +3,10 @@
 title: Introduction to Web Accessibility   # Do not translate "title:". Do translate the text after "title:".
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2020-11-11   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-translator: "@@"   # Replace @@ with name or names separated with a comma
-contributors: "@@"   # Replace @@ with name(s) or delete this line
+# translators: #Add one -name: line for every translator
+# - name: 
+# contributors: #Add one -name: line for every contributor
+# - name: 
 permalink: /fundamentals/accessibility-intro/   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
 ref: /fundamentals/accessibility-intro/   # Do not change this
 layout: default
@@ -109,8 +111,7 @@ situations, see:<br>
 {% include box.html type="end" %}
 {:/}
 
-Accessibility is Important for Individuals, Businesses, Society {#important}
----------------------------------------------------------------
+## Accessibility is Important for Individuals, Businesses, Society {#important}
 
 The Web is an increasingly important resource in many aspects of life: education, employment, government, commerce, health care, recreation, and more. It is essential that the Web be accessible in order to provide equal access and equal opportunity to people with diverse abilities. Access to information and communications technologies, including the Web, is defined as a basic human right in the United Nations Convention on the Rights of Persons with Disabilities (UN [CRPD](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html)).
 
@@ -251,7 +252,6 @@ It's easy and relatively inexpensive for websites to provide transcripts. There 
 
 {% include excol.html type="end" %}
 
-For More Information {#more-info}
---------------------
+## For More Information {#more-info}
 
 W3C WAI provides a wide range of resources on different aspects of web accessibility [standards](/standards-guidelines/), [education](https://www.w3.org/WAI/train), [testing/evaluation](/test-evaluate/), [project management, and policy](https://www.w3.org/WAI/managing). We encourage you to explore this website, or look through the [WAI Resources](http://www.w3.org/WAI/Resources/) list.
