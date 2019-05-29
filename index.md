@@ -2,7 +2,7 @@
 # Translation instructions are after the "#" character in this first section. (They are comments that do not show up in the web page.)
 title: Introduction to Web Accessibility   # Do not translate "title:". Do translate the text after "title:".
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2020-11-11   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2019-06-11   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 # translators: #Add one -name: line for every translator
 # - name: "Translator Name Here"
 # contributors: #Add one -name: line for every contributor
@@ -15,7 +15,7 @@ github:
   branch: gh-pages
   path: index.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-  <p><strong>Date:</strong> Updated 9 January 2019. First published February 2005.</p>
+  <p><strong>Date:</strong> Updated 11 June 2019. First published February 2005.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 # Read Translations Notes at https://github.com/w3c/wai-intro-accessibility/blob/gh-pages/README.md
@@ -105,7 +105,7 @@ situations, see:<br>
 {:/}
 
 -   When you want to learn more about how different disabilities affect Web use, and read about scenarios of people with disabilities using the Web, see [[How People with Disabilities Use the Web]](/people-use-web/).
--   If you want more examples of benefits for others, with WCAG to back it up, see [Web Accessibility Benefits People With and Without Disabilities](https://www.w3.org/WAI/bcase/soc#groups) and [[Shared Web Experiences: Barriers Common to Mobile Device Users and People with Disabilities]](/standards-guidelines/shared-experiences/).
+-   If you want more examples of benefits for others, with WCAG to back it up, see [Web Accessibility Benefits People With and Without Disabilities](https://www.w3.org/WAI/business-case/archive/soc#groups) and [[Shared Web Experiences: Barriers Common to Mobile Device Users and People with Disabilities]](/standards-guidelines/shared-experiences/).
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -131,8 +131,8 @@ Web accessibility is **required by law** in many situations.
 {% include box.html type="start" h="3" title="More Info on Accessibility is Important" class="simple aside" %}
 {:/}
 
--   Details on business benefits are in [[Developing a Web Accessibility Business Case for Your Organization]](/business-case/).
--   Guidance on figuring out legal requirements is in [Legal and Policy Factors](https://www.w3.org/WAI/bcase/pol).
+-   General information on business benefits is in [[The Business Case for Digital Accessibility]](/business-case/).
+-   Guidance on figuring out legal requirements is in [Legal and Policy Factors](https://www.w3.org/WAI/business-case/archive/pol).
 
 {::nomarkdown}
 {% include box.html type="end" %}
