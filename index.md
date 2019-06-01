@@ -123,7 +123,7 @@ Accessibility supports social inclusion for people with disabilities as well as 
 -   people in rural areas
 -   people in developing countries
 
-**There is also a strong business case for accessibility.** Accessibility overlaps with other best practices such as mobile web design, device independence, multi-modal interaction, usability, design for older users, and search engine optimization (SEO). Accessible websites can have better search results, reduced maintenance costs, increased audience reach, and demonstrate corporate social responsibility (CSR).
+**There is also a strong business case for accessibility.** As shown in the previous section, accessible design improves overall user experience and satisfaction, especially in a variety of situations, across different devices, and for older users. Accessibility can enhance your brand, drive innovation, and extend your market reach.
 
 Web accessibility is **required by law** in many situations.
 
