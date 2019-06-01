@@ -160,11 +160,9 @@ The W3C Web Accessibility Initiative ([WAI](/get-involved/)) develops technical 
 
 ### Making Your Website Accessible {#website}
 
-Most of the basics of accessibility are fairly easy to implement. If you are new to accessibility, it takes some time and effort to learn the common issues and solutions.
+Many aspects of accessibility are fairly easy to understand and implement. Some accessibility solutions are more complex and take more knowledge to implement.
 
-Some accessibility barriers are more complicated to avoid. Some accessibility solutions take more time and effort to implement.
-
-It is most efficient and effective to incorporate accessibility from the very beginning of projects and throughout organizations.
+It is most efficient and effective to incorporate accessibility from the very beginning of projects, so you don't need go back and to re-do work.
 
 {::nomarkdown}
 {% include box.html type="start" h="3" title="More Info on Making Your Website Accessible" class="simple aside" %}
