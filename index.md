@@ -2,7 +2,7 @@
 # Translation instructions are after the "#" character in this first section. (They are comments that do not show up in the web page.)
 title: Introduction to Web Accessibility   # Do not translate "title:". Do translate the text after "title:".
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2020-11-11   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2019-06-05   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 # translators: #Add one -name: line for every translator
 # - name: "Translator Name Here"
 # contributors: #Add one -name: line for every contributor
@@ -15,7 +15,7 @@ github:
   branch: gh-pages
   path: index.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-  <p><strong>Date:</strong> Updated 9 January 2019. First published February 2005.</p>
+  <p><strong>Date:</strong> Updated 5 June 2019. First published February 2005.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 # Read Translations Notes at https://github.com/w3c/wai-intro-accessibility/blob/gh-pages/README.md
@@ -105,7 +105,7 @@ situations, see:<br>
 {:/}
 
 -   When you want to learn more about how different disabilities affect Web use, and read about scenarios of people with disabilities using the Web, see [[How People with Disabilities Use the Web]](/people-use-web/).
--   If you want more examples of benefits for others, with WCAG to back it up, see [Web Accessibility Benefits People With and Without Disabilities](https://www.w3.org/WAI/bcase/soc#groups) and [[Shared Web Experiences: Barriers Common to Mobile Device Users and People with Disabilities]](/standards-guidelines/shared-experiences/).
+-   If you want more examples of benefits for others, with WCAG to back it up, see [[Shared Web Experiences: Barriers Common to Mobile Device Users and People with Disabilities]](/standards-guidelines/shared-experiences/) and the archived [Web Accessibility Benefits People With and Without Disabilities](https://www.w3.org/WAI/business-case/archive/soc#groups).
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -123,7 +123,7 @@ Accessibility supports social inclusion for people with disabilities as well as 
 -   people in rural areas
 -   people in developing countries
 
-**There is also a strong business case for accessibility.** Accessibility overlaps with other best practices such as mobile web design, device independence, multi-modal interaction, usability, design for older users, and search engine optimization (SEO). Accessible websites can have better search results, reduced maintenance costs, increased audience reach, and demonstrate corporate social responsibility (CSR).
+**There is also a strong business case for accessibility.** As shown in the previous section, accessible design improves overall user experience and satisfaction, especially in a variety of situations, across different devices, and for older users. Accessibility can enhance your brand, drive innovation, and extend your market reach.
 
 Web accessibility is **required by law** in many situations.
 
@@ -131,8 +131,8 @@ Web accessibility is **required by law** in many situations.
 {% include box.html type="start" h="3" title="More Info on Accessibility is Important" class="simple aside" %}
 {:/}
 
--   Details on business benefits are in [[Developing a Web Accessibility Business Case for Your Organization]](/business-case/).
--   Guidance on figuring out legal requirements is in [Legal and Policy Factors](https://www.w3.org/WAI/bcase/pol).
+-   General information on business benefits is in [[The Business Case for Digital Accessibility]](/business-case/).
+-   Guidance on figuring out legal requirements is in the archived [Legal and Policy Factors](https://www.w3.org/WAI/business-case/archive/pol).
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -160,11 +160,9 @@ The W3C Web Accessibility Initiative ([WAI](/get-involved/)) develops technical 
 
 ### Making Your Website Accessible {#website}
 
-Most of the basics of accessibility are fairly easy to implement. If you are new to accessibility, it takes some time and effort to learn the common issues and solutions.
+Many aspects of accessibility are fairly easy to understand and implement. Some accessibility solutions are more complex and take more knowledge to implement.
 
-Some accessibility barriers are more complicated to avoid. Some accessibility solutions take more time and effort to implement.
-
-It is most efficient and effective to incorporate accessibility from the very beginning of projects and throughout organizations.
+It is most efficient and effective to incorporate accessibility from the very beginning of projects, so you don't need go back and to re-do work.
 
 {::nomarkdown}
 {% include box.html type="start" h="3" title="More Info on Making Your Website Accessible" class="simple aside" %}
