@@ -20,7 +20,7 @@ github:
 * Updated text and links related to new and old Business Case resource.
 * Simplified wording in [Making Your Website Accessible](https://www.w3.org/WAI/fundamentals/accessibility-intro/#website) section.
 
-[GitHub Diff](https://github.com/w3c/wai-intro-accessibility/pull/41/files) shows details of the changes.
+[GitHub pull request](https://github.com/w3c/wai-intro-accessibility/pull/41/files) shows the specific changes.
  
 <!-- @@ leaving below since I already created did, it case we want it sometime becausde someone can't use GitHUb... @@
 
