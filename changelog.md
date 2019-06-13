@@ -13,11 +13,16 @@ github:
   path: changelog.md
 ---
 
-_This changelog includes some Markdown and HTML syntax to facilitate updating translations._
+<!-- @@ un-comment if we do it later:  _This changelog includes some Markdown and HTML syntax to facilitate updating translations._ -->
 
 ## 5 June 2019
 
-[GitHub Diff](https://github.com/w3c/wai-intro-accessibility/pull/41/files) shows the changes:
+* Updated text and links related to new and old Business Case resource.
+* Simplified wording in [Making Your Website Accessible](https://www.w3.org/WAI/fundamentals/accessibility-intro/#website) section.
+
+[GitHub Diff](https://github.com/w3c/wai-intro-accessibility/pull/41/files) shows details of the changes.
+ 
+<!-- @@ leaving below since I already created did, it case we want it sometime becausde someone can't use GitHUb... @@
 
 * In "More Info on What is Accessibility" section:
 
@@ -43,3 +48,5 @@ _This changelog includes some Markdown and HTML syntax to facilitate updating tr
 **From:** ```Most of the basics of accessibility are fairly easy to implement. If you are new to accessibility, it takes some time and effort to learn the common issues and solutions. Some accessibility barriers are more complicated to avoid. Some accessibility solutions take more time and effort to implement. It is most efficient and effective to incorporate accessibility from the very beginning of projects and throughout organizations.```
 
 **To:** ```Many aspects of accessibility are fairly easy to understand and implement. Some accessibility solutions are more complex and take more knowledge to implement.```<br>```It is most efficient and effective to incorporate accessibility from the very beginning of projects, so you don't need go back and to re-do work.```
+
+-->
