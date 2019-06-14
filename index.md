@@ -95,9 +95,7 @@ Web accessibility also benefits people *without* disabilities, for example:
 -   people with "situational limitations" such as in bright sunlight or in an environment where they cannot listen to audio
 -   people using a slow Internet connection, or who have limited or expensive bandwidth
 
-For a 7-minute video with examples of how accessibility is essential for
-people with disabilities and useful for everyone in a variety of
-situations, see:<br>
+For a 7-minute video with examples of how accessibility is essential for people with disabilities and useful for everyone in a variety of situations, see:<br>
 {% include video-link.html title="Web Accessibility Perspectives Video <em>(YouTube)</em>" href="https://www.youtube.com/watch?v=3f31oufqFSM" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %}
 
 {::nomarkdown}
@@ -140,9 +138,7 @@ Web accessibility is **required by law** in many situations.
 
 ## Making the Web Accessible {#making}
 
-Web accessibility depends on several components working together,
-including web technologies, web browsers and other \"user agents\",
-authoring tools, and websites.
+Web accessibility depends on several components working together, including web technologies, web browsers and other \"user agents\", authoring tools, and websites.
 
 The W3C Web Accessibility Initiative ([WAI](/get-involved/)) develops technical specifications, guidelines, techniques, and supporting resources that describe accessibility solutions. These are considered international standards for web accessibility; for example, <abbr title="Web Content Accessibility Guidelines (WCAG)">WCAG</abbr> 2.0 is also an <abbr title="International Organization for Standardization">ISO</abbr> standard: ISO/<abbr title="International Electrotechnical Commission">IEC</abbr> 40500.
 
@@ -183,17 +179,9 @@ It is most efficient and effective to incorporate accessibility from the very be
 	
 ## Evaluating Accessibility {#evaluate}
 
-When developing or redesigning a website, evaluate accessibility early
-and throughout the development process to identify accessibility
-problems early, when it is easier to address them. Simple steps, such as
-changing settings in a browser, can help you evaluate some aspects of
-accessibility. Comprehensive evaluation to determine if a website meets
-all accessibility guidelines takes more effort.
+When developing or redesigning a website, evaluate accessibility early and throughout the development process to identify accessibility problems early, when it is easier to address them. Simple steps, such as changing settings in a browser, can help you evaluate some aspects of accessibility. Comprehensive evaluation to determine if a website meets all accessibility guidelines takes more effort.
 
-There are evaluation tools that help with evaluation. However, no tool
-alone can determine if a site meets accessibility guidelines.
-Knowledgeable human evaluation is required to determine if a site is
-accessible.
+There are evaluation tools that help with evaluation. However, no tool alone can determine if a site meets accessibility guidelines. Knowledgeable human evaluation is required to determine if a site is accessible.
 
 
 {::nomarkdown}
