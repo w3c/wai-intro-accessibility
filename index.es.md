@@ -5,7 +5,7 @@ lang: es   # Change "en" to the translated language shortcode from https://www.i
 last_updated: 2019-06-26   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators:
 - name: "Jorge Rumoroso"   # Replace @@ with translator name
-
+  link: "https://twitter.com/rumoroso"
 # contributors: #Add one -name: line for every contributor
 # - name: "Contributor Name Here"
 permalink: /fundamentals/accessibility-intro/es   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
