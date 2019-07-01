@@ -102,24 +102,24 @@ Here's a rough, not quite right pass at an approach:
 
 There are examples throughout most of the resources.
 <ul>
-	  <li>... 3 Intro page</li>
-	  <li><a href="/WAI/perspective-videos/">Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone</a>
-	    <br><strong>Videos</strong> that demonstrate that web accessibility is essential for people with disabilities and useful for all. Learn about the impact of accessibility and the benefits for everyone in a variety of situations. Each video is about 1 minute, and the <a href="https://www.youtube.com/watch?v=3f31oufqFSM">complication</a> is 7:37. Pages include supporting information.
-	    <ul>
-	      <li> <a href="/WAI/perspective-videos/keyboard/">Keyboard Compatibility</a> </li>
-	      <li> <a href="/WAI/perspective-videos/contrast/">Colors with Good Contrast</a> </li>
-	      <li> <a href="/WAI/perspective-videos/layout/">Clear Layout and Design</a> </li>
-	      <li> <a href="/WAI/perspective-videos/speech/">Text to Speech</a> </li>
-	      <li> <a href="/WAI/perspective-videos/controls/">Large Links, Buttons, and Controls</a> </li>
-	      <li> <a href="/WAI/perspective-videos/captions/">Video Captions</a> </li>
-	      <li> <a href="/WAI/perspective-videos/customizable/">Customizable Text</a> </li>
-	      <li> <a href="/WAI/perspective-videos/voice/">Voice Recognition</a> </li>
-	      <li> <a href="/WAI/perspective-videos/understandable/">Understandable Content</a> </li>
-	      <li> <a href="/WAI/perspective-videos/notifications/">Notifications and Feedback</a> </li>
-        </ul>
-	  </li>
-	  <li>... lots in How PWDs use Web</li>
-	</ul>
+  <li>For 3 short examples, see the Introduction to Web Accessibility page, <a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/#examples">Examples section</a>.</li>
+  <li><a href="/WAI/perspective-videos/">Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone</a> is a series of <br>
+    <strong>videos</strong> that demonstrate that web accessibility is essential for people with disabilities and useful for all. Learn about the impact of accessibility and the benefits for everyone in a variety of situations. Each video is about 1 minute, and the <a href="https://www.youtube.com/watch?v=3f31oufqFSM">complication</a> is 7:37. Pages include supporting information.
+    <ul>
+      <li> <a href="/WAI/perspective-videos/keyboard/">Keyboard Compatibility</a> </li>
+      <li> <a href="/WAI/perspective-videos/contrast/">Colors with Good Contrast</a> </li>
+      <li> <a href="/WAI/perspective-videos/layout/">Clear Layout and Design</a> </li>
+      <li> <a href="/WAI/perspective-videos/speech/">Text to Speech</a> </li>
+      <li> <a href="/WAI/perspective-videos/controls/">Large Links, Buttons, and Controls</a> </li>
+      <li> <a href="/WAI/perspective-videos/captions/">Video Captions</a> </li>
+      <li> <a href="/WAI/perspective-videos/customizable/">Customizable Text</a> </li>
+      <li> <a href="/WAI/perspective-videos/voice/">Voice Recognition</a> </li>
+      <li> <a href="/WAI/perspective-videos/understandable/">Understandable Content</a> </li>
+      <li> <a href="/WAI/perspective-videos/notifications/">Notifications and Feedback</a> </li>
+    </ul>
+  </li>
+  <li>... lots in How PWDs use Web</li>
+</ul>
 	
 ## Specific Cases
 <p>For those wanting to know about older users ...</p>
