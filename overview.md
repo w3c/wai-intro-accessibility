@@ -52,20 +52,6 @@ github:
     Provides references to the international standards from W3C Web Accessibility Initiative (WAI) and to <a href="https://www.w3.org/WAI/people-use-web/user-stories/">stories of web users</a>.</dd>
   <dt><a href="/WAI/perspective-videos/">Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone</a></dt>
   <dd><strong>Videos</strong> that demonstrate that web accessibility is essential for people with disabilities and useful for all. Learn about the impact of accessibility and the benefits for everyone in a variety of situations. Each video is about 1 minute, and the <a href="https://www.youtube.com/watch?v=3f31oufqFSM">complication</a> is 7:37. Pages include supporting information.
-   <!--
-    <ul>
-      <li> <a href="/WAI/perspective-videos/keyboard/">Keyboard Compatibility</a> </li>
-      <li> <a href="/WAI/perspective-videos/contrast/">Colors with Good Contrast</a> </li>
-      <li> <a href="/WAI/perspective-videos/layout/">Clear Layout and Design</a> </li>
-      <li> <a href="/WAI/perspective-videos/speech/">Text to Speech</a> </li>
-      <li> <a href="/WAI/perspective-videos/controls/">Large Links, Buttons, and Controls</a> </li>
-      <li> <a href="/WAI/perspective-videos/captions/">Video Captions</a> </li>
-      <li> <a href="/WAI/perspective-videos/customizable/">Customizable Text</a> </li>
-      <li> <a href="/WAI/perspective-videos/voice/">Voice Recognition</a> </li>
-      <li> <a href="/WAI/perspective-videos/understandable/">Understandable Content</a> </li>
-      <li> <a href="/WAI/perspective-videos/notifications/">Notifications and Feedback</a> </li>
-    </ul>
-    -->
   </dd>
   <dt><a href="/WAI/people-use-web/">How People with Disabilities Use the Web</a></dt>
   <dd>Introduces how people with disabilities use the web. Describes tools and approaches that people with different kinds of disabilities use to browse the web and the barriers they encounter due to poor design.</dd>
@@ -85,32 +71,36 @@ github:
 ## notes for us
 {:.no_toc}
 
-* Other overview pages: [Evaluating Web Accessibility Overview](https://www.w3.org/WAI/test-evaluate/) and [W3C Accessibility Standards Overview](https://www.w3.org/WAI/standards-guidelines/)
+* **Other overview pages**: [Evaluating Web Accessibility Overview](https://www.w3.org/WAI/test-evaluate/) and [W3C Accessibility Standards Overview](https://www.w3.org/WAI/standards-guidelines/)
 
 * The first 5 resources we want to encourage everyone to at least skim. The last two (Older Users and the Accessibility-Usability-Inclusion) are targeted for specific users.
+
+Here's a rough, not quite right pass at an approach:
 <hr>
 
 ## Getting Started with Accessibility Fundamentals
 
-<p>Accessibility standards/guidelines are a key piece of making the the web and other digital technology accessible. However, it can be overwhelming and confusing to use standards as a starting point to learn about accessibility. Instead, start by understanding the fundamentals of how people with disabilities use digital technology. This page walks you through how you can start learning about accessibility, and help by sharing specific information with others.</p>
+<p>Accessibility standards/guidelines are a key piece of making the the web and other digital technology accessible. However, it can be overwhelming and confusing to use standards as a starting point to learn about accessibility. Instead, start by understanding the fundamentals of how people with disabilities use digital technology. This page walks you through learning about digital accessibility. It provides resources that you can share with others to help them understand accessibility.
 <dl>
   <dt><a href="/WAI/fundamentals/accessibility-intro/">Introduction to Web Accessibility</a></dt>
-  <dd>If you're new to accessibility, read this page first. IF you already know about digital accessibility, we encourage you to at least skim this page, to see if there is any information that is new to you, and to get pointers for sharing with others.
+  <dd>If you're new to accessibility, read this page first. If you already know about digital accessibility, we encourage you to at least skim this page, to see if there is any information that is new to you, and to get pointers for sharing with others.
     <ul>
       <li><a href="/WAI/videos/standards-and-benefits/">Video Introduction to Web Accessibility and W3C Standards</a> is a 4-minutes video that is useful for getting people engaged in accessibility.</li>
 </ul>
   </dd>
   <dt><a href="/WAI/fundamentals/components/">Essential Components of Web Accessibility</a> </dt>
-  <dd>This helps you understand the ecosystem of web accessibility. It explains the role of web browsers, authoring tools, web designers and developers, and more.<br>
-    You might want to just skim tis page for now, so you know what's there fore when you want this information later.
+  <dd>This helps you understand the ecosystem of web accessibility, and how several things need to work together. It explains the role of web browsers, authoring tools, web designers and developers, and more.<br>
+    You might want to just skim this page now, to you know what's there for when you want this information later.
   </dd>
   <dt><a href="/WAI/fundamentals/accessibility-principles/">Accessibility Principles</a> </dt>
-  <dd>  This is a starting point to understanding the broad requirements to make web content and tools accessible. It introduces 13 requirements with a short paragraph, a few examples in bullets, and links to more information.</dd>
+  <dd>This is a starting point to understanding the broad requirements to make web content and tools accessible. It introduces 13 requirements with a short paragraph, a few examples in bullets, and links to more information.</dd>
  <dt><a href="/WAI/people-use-web/">How People with Disabilities Use the Web</a></dt>
-  <dd>....</dd>
+  <dd>Read through this set of 4 pages to really understand user experiences. It starts with stories, or personas. It describes tools and approaches that people with different kinds of disabilities use to browse the web and the barriers they encounter due to poor design.<</dd>
 </dl>
 
 ## Examples
+
+There are examples throughout most of the resources.
 <ul>
 	  <li>... 3 Intro page</li>
 	  <li><a href="/WAI/perspective-videos/">Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone</a>
