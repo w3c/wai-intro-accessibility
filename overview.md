@@ -15,7 +15,7 @@ github:
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page introduces guidelines and other standards related to web accessibility.
+@@
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -92,7 +92,7 @@ This page introduces guidelines and other standards related to web accessibility
 
 ## Getting Started with Accessibility Fundamentals
 
-<p>Accessibility standards/guidelines are a key piece of making the the web and other digital technology accessible. However, standards not a good starting point to learn about accessibility. Instead, start by understanding the fundamentals of how people with disabilities use digital technology. This page walks you through how you can start learning about accessibility, and help by sharing specific information with others.</p>
+<p>Accessibility standards/guidelines are a key piece of making the the web and other digital technology accessible. However, it can be overwhelming and confusing to use standards as a starting point to learn about accessibility. Instead, start by understanding the fundamentals of how people with disabilities use digital technology. This page walks you through how you can start learning about accessibility, and help by sharing specific information with others.</p>
 <dl>
   <dt><a href="/WAI/fundamentals/accessibility-intro/">Introduction to Web Accessibility</a></dt>
   <dd>If you're new to accessibility, read this page first. IF you already know about digital accessibility, we encourage you to at least skim this page, to see if there is any information that is new to you, and to get pointers for sharing with others.
