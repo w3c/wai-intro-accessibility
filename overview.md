@@ -9,7 +9,35 @@ github:
   
 ---
 
-<h2>blaa descriptions of the content</h2>
+
+
+{::nomarkdown}
+{% include box.html type="start" h="2" title="Summary" class="full" %}
+{:/}
+
+This page introduces guidelines and other standards related to web accessibility.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+
+{::options toc_levels="2,3" /}
+
+{::nomarkdown}
+{% include_cached toc.html type="start" title="Page Contents" class="full" %}
+{:/}
+
+-   TOC is created automatically.
+{:toc}
+
+{::nomarkdown}
+{% include_cached toc.html type="end" %}
+{:/}
+
+## blaa descriptions of the content
+{:.no_toc}
+
 <dl>
   <dt><a href="/WAI/fundamentals/accessibility-intro/">Introduction to Web Accessibility</a></dt>
   <dd>Introduces web accessibility and links to additional resources.
@@ -53,10 +81,18 @@ github:
   <dd>Explains the distinctions and overlaps between accessibility, usability, and inclusive design; encourages increased coordination across research and practice in these disciplines; and
     points out the importance of maintaining the focus of accessibility on people with disabilities.</dd>
 </dl>
-	<h2>Playing around with ideas...</h2>
-	<p><em>note for us: </em>The first 5 resources we want to encourage everyone to at least skim. The last two (Older Users and the Accessibility-Usability-Inclusion) are targeted for specific users.</p>
-	<hr>
-	<p>Accessibility standards/guidelines are a key piece of making the the web and other digital technology accessible. However, standards not a good starting point to learn about accessibility. Instead, start by understanding the fundamentals of how people with disabilities use digital technology. This page walks you through how you can start learning about accessibility, and help by sharing specific information with others.</p>
+
+## notes for us
+{:.no_toc}
+
+* Other overview pages: [Evaluating Web Accessibility Overview](https://www.w3.org/WAI/test-evaluate/) and [W3C Accessibility Standards Overview](https://www.w3.org/WAI/standards-guidelines/)
+
+* The first 5 resources we want to encourage everyone to at least skim. The last two (Older Users and the Accessibility-Usability-Inclusion) are targeted for specific users.
+<hr>
+
+## Getting Started with Accessibility Fundamentals
+
+<p>Accessibility standards/guidelines are a key piece of making the the web and other digital technology accessible. However, standards not a good starting point to learn about accessibility. Instead, start by understanding the fundamentals of how people with disabilities use digital technology. This page walks you through how you can start learning about accessibility, and help by sharing specific information with others.</p>
 <dl>
   <dt><a href="/WAI/fundamentals/accessibility-intro/">Introduction to Web Accessibility</a></dt>
   <dd>If you're new to accessibility, read this page first. IF you already know about digital accessibility, we encourage you to at least skim this page, to see if there is any information that is new to you, and to get pointers for sharing with others.
@@ -73,8 +109,9 @@ github:
  <dt><a href="/WAI/people-use-web/">How People with Disabilities Use the Web</a></dt>
   <dd>....</dd>
 </dl>
-<h3>Examples</h3>
-	<ul>
+
+## Examples
+<ul>
 	  <li>... 3 Intro page</li>
 	  <li><a href="/WAI/perspective-videos/">Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone</a>
 	    <br><strong>Videos</strong> that demonstrate that web accessibility is essential for people with disabilities and useful for all. Learn about the impact of accessibility and the benefits for everyone in a variety of situations. Each video is about 1 minute, and the <a href="https://www.youtube.com/watch?v=3f31oufqFSM">complication</a> is 7:37. Pages include supporting information.
@@ -93,6 +130,7 @@ github:
 	  </li>
 	  <li>... lots in How PWDs use Web</li>
 	</ul>
-	<h3>Specific Cases</h3>
-	<p>For those wanting to know about older users ...</p>
-	<p>... usability-Accessibility-Inclusion...</p>
+	
+## Specific Cases
+<p>For those wanting to know about older users ...</p>
+<p>... usability-Accessibility-Inclusion...</p>
