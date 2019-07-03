@@ -3,11 +3,13 @@
 title: Introducción a la Accesibilidad Web   # Do not translate "title:". Do translate the text after "title:".
 lang: es   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2019-06-26   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-translators:
-- name: "Jorge Rumoroso"   # Replace @@ with translator name
 
-# contributors: #Add one -name: line for every contributor
-# - name: "Contributor Name Here"
+translators:
+- name: "Jorge Rumoroso"
+  link: "https://twitter.com/rumoroso"
+contributors:
+- name: "Carlos Muncharaz"
+
 permalink: /fundamentals/accessibility-intro/es   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
 ref: /fundamentals/accessibility-intro/   # Do not change this
 layout: default
@@ -25,7 +27,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 
 {::nomarkdown}
-{% include box.html type="start" h="2" title="Summary" class="full" %}
+{% include box.html type="start" h="2" title="Resumen" class="full" %}
 {:/}
 
 Cuando los sitios y herramientas web están bien diseñados y codificados, las personas con discapacidad pueden utilizarlos. Sin embargo, en la actualidad muchos sitios y herramientas están desarrollados incluyendo barreras de accesibilidad que dificultan o imposibilitan su uso por parte de algunas personas.
@@ -41,13 +43,13 @@ Hacer la web accesible beneficia tanto a las personas, como a las empresas y a l
 {:/}
 
 <ul>
-<li><a href="#context">Accesibilidad en Contexto</a></li>
+<li><a href="#context">Accesibilidad en contexto</a></li>
 <li><a href="#what">Qué es la Accesibilidad Web</a></li>
-<li><a href="#important">La Accesibilidad es Importante para las Personas, Empresas y Sociedad</a></li>
-<li><a href="#making">Hacer la Web Accesible</a></li>
-<li><a href="#evaluate">Evaluar Accesibilidad</a></li>
+<li><a href="#important">La Accesibilidad es importante para las personas, empresas y sociedad</a></li>
+<li><a href="#making">Hacer la Web accesible</a></li>
+<li><a href="#evaluate">Evaluar la Accesibilidad</a></li>
 <li><a href="#examples">Ejemplos</a></li>
-<li><a href="#more-info">Más Información</a></li>
+<li><a href="#more-info">Más información</a></li>
 </ul>
 
 <span class="box-h box-h-simple box-h-full">Recursos relacionados</span><br>
@@ -57,7 +59,7 @@ Hacer la web accesible beneficia tanto a las personas, como a las empresas y a l
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Accesibilidad en Contexto {#context}
+## Accesibilidad en contexto {#context}
 
 <blockquote class="pull">
   <p>El poder de la Web está en su universalidad.<br />
@@ -65,9 +67,9 @@ Hacer la web accesible beneficia tanto a las personas, como a las empresas y a l
   <footer><cite>Tim Berners-Lee, Director del W3C Director e inventor de la World Wide Web</cite></footer>
 </blockquote>
 
-La Web está fundamentalmente diseñada para trabajar para todo el mundo, independientemente del hardware, software, idioma, ubicación o capacidad. Cuando la Web cumple ese objetivo, es accesible para personas con un diverso rango de audición, movimiento, visión y habilidades cognitivas.
+La Web está fundamentalmente diseñada para que todo el mundo pueda usarla, independientemente del hardware, software, idioma, ubicación o capacidad. Cuando la Web cumple ese objetivo, es accesible para personas con un diverso rango de audición, movimiento, visión y habilidades cognitivas.
 
-Por lo tanto, el impacto de la discapacidad cambia radicalmente en la Web porque elimina las barreras de comunicación e interacción que muchas personas enfrentan en el mundo físico. Sin embargo, cuando los sitios web, aplicaciones, tecnologías o herramientas están mal diseñados, pueden crear barreras que excluyen a las personas del uso de la Web.
+Por lo tanto, el impacto de la discapacidad cambia radicalmente en la Web porque elimina las barreras de comunicación e interacción que muchas personas encuentran en el mundo físico. Sin embargo, cuando los sitios web, aplicaciones, tecnologías o herramientas están mal diseñados, pueden crear barreras que excluyen a las personas del uso de la Web.
 
 **La Accesibilidad es esencial para desarrolladores y organizaciones que quieren crear sitios y herramientas web de calidad y no excluir personas del uso de sus productos y servicios.**
 
@@ -76,7 +78,7 @@ Por lo tanto, el impacto de la discapacidad cambia radicalmente en la Web porque
 
 Accesibilidad Web significa que sitios web, herramientas y tecnologías están diseñadas y desarrolladas de tal manera que las personas con discapacidades pueden usarlas. Más concretamente, las personas pueden:
 
--   percibir, comprender, navegas e interactuar con la Web
+-   percibir, comprender, navegar e interactuar con la Web
 -   contribuir a la Web
 
 La Accesibilidad web abarca todas las discapacidades que afectan al acceso a la Web, incluyendo:
@@ -110,7 +112,7 @@ Puede ver un vídeo de 7 minutos con ejemplos de cómo la accesibilidad es esenc
 {% include box.html type="end" %}
 {:/}
 
-## La Accesibilidad es Importante para las Personas, Empresas y Sociedad {#important}
+## La Accesibilidad es importante para las personas, empresas y sociedad {#important}
 
 La Web es un recurso importante en muchos aspectos de la vida: educación, trabajo, gobierno, salud, entretenimiento y más. Es esencial que la Web sea accesible de cara a facilitar igualdad de acceso y oportunidades a las personas con diferentes habilidades. El acceso a las tecnologías de la información y comunicación, incluyendo la Web, está definido como un derecho humano básico en la Convención de las Naciones Unidas sobre los Derechos de las Personas con Discapacidades (UN [CRPD](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html)).
 
@@ -137,7 +139,7 @@ La accesibilidad web es **requisito legal** en muchas ocasiones.
 {% include box.html type="end" %}
 {:/}
 
-## Hacer la Web Accesible {#making}
+## Hacer la Web accesible {#making}
 
 La accesibilidad web depende de muchos componentes trabajando juntos, incluyendo tecnologías web, navegadores y otros \"agentes de usuario\", herramientas de autor y sitios web.
 
@@ -155,7 +157,7 @@ La Iniciativa de Accesibilidad Web del W3C ([WAI](/get-involved/)) desarrolla es
 {% include box.html type="end" %}
 {:/}
 
-### Hacer su Sitio Web Accesible {#website}
+### Hacer su sitio web accesible {#website}
 
 Múltiples aspectos de la accesibilidad son sencillos de entender e implementar, mientras que algunas otras soluciones son mucho más complejas y requieren más conocimiento.
 
@@ -178,11 +180,11 @@ Es más eficiente y efectivo incorporar la accesibilidad desde el principio de l
 {% include box.html type="end" %}
 {:/}
 	
-## Evaluar Accesibilidad {#evaluate}
+## Evaluar la Accesibilidad {#evaluate}
 
 Al desarrollar o rediseñar un sitio web, evalúe la accesibilidad desde el principio y durante todo el proceso de desarrollo para identificar los problemas de accesibilidad desde el inicio, cuando es más fácil resolverlos. Pasos sencillos, como cambiar la configuración del navegador, pueden ayudarle a evaluar algunos aspectos de la accesibilidad. Una evaluación exhaustiva para determinar si un sitio web cumple con todas las pautas de accesibilidad requiere más esfuerzo.
 
-Existen herramientas que ayudan en con la evaluación. Sin embargo, ninguna herramienta por sí sola puede determinar si un sitio cumple con las pautas de accesibilidad. Se requiere una evaluación humana bien experimentada para determinar si un sitio es accesible.
+Existen herramientas que ayudan en la evaluación. Sin embargo, ninguna herramienta por sí sola puede determinar si un sitio cumple con las pautas de accesibilidad. Se requiere una evaluación humana bien experimentada para determinar si un sitio es accesible.
 
 
 {::nomarkdown}
@@ -201,7 +203,7 @@ Existen herramientas que ayudan en con la evaluación. Sin embargo, ninguna herr
 
 {% include excol.html type="middle" %}
 
-### Alternativas Textuales para Imágenes
+### Alternativas textuales para imágenes
 
 ![image of logo; HTML markup img alt='Iniciativa de Accesibilidad Web'](https://www.w3.org/WAI/intro/alt-logo.png){:.right}
 
@@ -217,7 +219,7 @@ Cuando el equivalente textual es facilitado, la información está disponible pa
 
 Algunas personas no pueden utilizar ratón, incluyendo muchas personas mayores con control de la motricidad limitado. Un sitio web accesible no depende del ratón; hace que [toda la funcionalidad esté disponible para el teclado](http://www.w3.org/TR/UNDERSTANDING-WCAG20/keyboard-operation.html). Entonces, las personas con discoapacidad pueden utilizar [tecnologías de apoyo](/planning/involving-users/#at) que simulan el teclado, como por ejemplo la entrada por voz.
 
-### Transcripciones para Audio
+### Transcripciones para audio
 
 [![ejemplo transcrito](https://www.w3.org/WAI/intro/transcript.png){:.right width="251" height="254"}](http://www.w3.org/WAI/highlights/200606wcag2interview.html)
 
@@ -239,6 +241,6 @@ Facilitar transcripciones es fácil y relativamente barato para los sitios web. 
 
 {% include excol.html type="end" %}
 
-## Para Más Información {#more-info}
+## Para más información {#more-info}
 
 W3C WAI facilita un ámplio rango de recursos sobre diferentes aspectos de los [estándares](/standards-guidelines/) de accesibilidad web la accesibilidad web, [formación](https://www.w3.org/WAI/train), [testing/evaluación](/test-evaluate/), [gestión de proyectos y políticas](https://www.w3.org/WAI/managing). Le animamos a que explore este sitio web o consulte la lista de [recursos de la WAI](http://www.w3.org/WAI/Resources/).
