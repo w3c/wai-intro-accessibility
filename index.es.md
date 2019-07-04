@@ -69,7 +69,7 @@ Hacer la web accesible beneficia tanto a las personas, como a las empresas y a l
 
 La Web está fundamentalmente diseñada para que todo el mundo pueda usarla, independientemente del hardware, software, idioma, ubicación o capacidad. Cuando la Web cumple ese objetivo, es accesible para personas con un diverso rango de audición, movimiento, visión y habilidades cognitivas.
 
-Por lo tanto, el impacto de la discapacidad cambia radicalmente en la Web porque elimina las barreras de comunicación e interacción que muchas personas encuentran en el mundo físico. Sin embargo, cuando los sitios web, aplicaciones, tecnologías o herramientas están mal diseñados, pueden crear barreras que excluyen a las personas del uso de la Web.
+Por lo tanto, el impacto de la discapacidad cambia radicalmente en la Web porque ésta elimina las barreras de comunicación e interacción que muchas personas encuentran en el mundo físico. Sin embargo, cuando los sitios web, aplicaciones, tecnologías o herramientas están mal diseñados, pueden crear barreras que excluyen a las personas del uso de la Web.
 
 **La Accesibilidad es esencial para desarrolladores y organizaciones que quieren crear sitios y herramientas web de calidad y no excluir personas del uso de sus productos y servicios.**
 
