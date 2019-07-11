@@ -35,19 +35,14 @@ Making the web accessible benefits individuals, businesses, and society. Interna
 {% include box.html type="end" %}
 {:/}
 
+{::options toc_levels="2" /}
+
 {::nomarkdown}
 {% include_cached toc.html type="start" title="Page Contents" class="full" %}
 {:/}
 
-<ul>
-<li><a href="#context">Accessibility in Context</a></li>
-<li><a href="#what">What is Web Accessibility</a></li>
-<li><a href="#important">Accessibility is Important for Individuals, Businesses, Society</a></li>
-<li><a href="#making">Making the Web Accessible</a></li>
-<li><a href="#evaluate">Evaluating Accessibility</a></li>
-<li><a href="#examples">Examples</a></li>
-<li><a href="#more-info">For More Information</a></li>
-</ul>
+-   TOC is created automatically.
+{:toc}
 
 <span class="box-h box-h-simple box-h-full">Related Resource</span><br>
 {% include video-link.html title="Video Introduction to Web Accessibility and W3C Standards <em>(4 minutes)</em>" href="https://www.w3.org/WAI/videos/standards-and-benefits.html" src="/content-images/wai-intro-accessibility/video-still-accessibility-intro-16-9.jpg" %}
