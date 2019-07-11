@@ -235,4 +235,4 @@ It's easy and relatively inexpensive for websites to provide transcripts. There 
 
 ## For More Information {#more-info}
 
-W3C WAI provides a wide range of resources on different aspects of web accessibility [standards](/standards-guidelines/), [education](https://www.w3.org/WAI/train), [testing/evaluation](/test-evaluate/), [project management, and policy](https://www.w3.org/WAI/managing). We encourage you to explore this website, or look through the [WAI Resources](http://www.w3.org/WAI/Resources/) list.
+W3C WAI provides a wide range of resources on different aspects of web accessibility [standards](/standards-guidelines/), [education](/teach-advocate/), [testing/evaluation](/test-evaluate/), [project management, and policy](/planning/). We encourage you to explore this website, or look through the [WAI Resources](/Resources/) list.
