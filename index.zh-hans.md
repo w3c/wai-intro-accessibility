@@ -3,9 +3,9 @@
 title: Web无障碍简介   # Do not translate "title:". Do translate the text after "title:".
 lang: zh-hans   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2019-07-12   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-# translators: #Add one -name: line for every translator
-# - name: "冉若曦"
-    link: "https://www.w3.org/people/roy"
+translators: #Add one -name: line for every translator
+- name: "冉若曦"
+  link: "https://www.w3.org/people/roy"
 
 permalink: /fundamentals/accessibility-intro/zh-hans   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
 ref: /fundamentals/accessibility-intro/   # Do not change this
@@ -20,6 +20,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
   <p>由教育及外展工作组 (<a href="http://www.w3.org/WAI/EO/">EOWG</a>)开发。</p>
 # 请阅读翻译指南 https://github.com/w3c/wai-intro-accessibility/blob/gh-pages/README.md
 # 翻译说明结束
+
 ---
 
 
