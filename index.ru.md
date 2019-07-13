@@ -2,7 +2,7 @@
 # Translation instructions are after the "#" character in this first section. (They are comments that do not show up in the web page.)
 title: ВВЕДЕНИЕ В ВЕБ-ДОСТУПНОСТЬ   # Do not translate "title:". Do translate the text after "title:".
 lang: ru   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2019-07-11   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2019-07-12   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators:
 - name: "ИИТО ЮНЕСКО"   # Replace @@ with translator name
 - name: "UNESCO IITE"
