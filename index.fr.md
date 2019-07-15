@@ -3,8 +3,8 @@
 title: Introduction à l'accessibilité  du web # Do not translate "title:". Do translate the text after "title:".
 lang: fr
 last_updated: 2019-07-15   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-translators: Sylvie Duchateau
-# - name: "@@ Translator Name Here"
+translators:
+- name: "Sylvie Duchateau"
 permalink: /fundamentals/accessibility-intro/fr
 ref: /fundamentals/accessibility-intro/
 layout: default
@@ -47,7 +47,7 @@ Rendre le web accessible est un avantage pour les internautes, les entreprises e
 </ul>
 
 <span class="box-h box-h-simple box-h-full"> Ressource complémentaire</span><br>
-{% include video-link.html title="Video Introduction à l'accessibilité du Web et aux standards du W3C <em>(4 minutes)</em>" href="https://www.w3.org/WAI/videos/standards-and-benefits.html" src="/content-images/wai-intro-accessibility/video-still-accessibility-intro-16-9.jpg" %}
+{% include video-link.html title="Vidéo : introduction à l’accessibilité web et aux standards du W3C <em>(4 minutes)</em>" href="https://www.w3.org/WAI/videos/standards-and-benefits/fr" src="/content-images/wai-intro-accessibility/video-still-accessibility-intro-16-9.jpg" %}
 
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
@@ -236,4 +236,4 @@ Il est facile et relativement peu cher de fournir des transcriptions sur des sit
 
 ## Pour plus d'informations {#more-info}
 
-W3C WAI propose un grand nombre de ressources sur les différents aspects de l'accessibilité du web [standards](/standards-guidelines/), [éducation](https://www.w3.org/WAI/train), [test/évaluation](/test-evaluate/), [gestion de projet et politique](https://www.w3.org/WAI/managing). Nous vous encourageons à explorer ce site web ou à parcourir la liste des [ressources de la WAI ](http://www.w3.org/WAI/Resources/).
+W3C WAI propose un grand nombre de ressources sur les différents aspects de l'accessibilité du web [standards](/standards-guidelines/), [éducation](/teach-advocate/), [test/évaluation](/test-evaluate/), [gestion de projet et politique](/planning/). Nous vous encourageons à explorer ce site web ou à parcourir la liste des [ressources de la WAI](/Resources/).
