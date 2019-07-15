@@ -98,7 +98,7 @@ For a 7-minute video with examples of how accessibility is essential for people 
 {:/}
 
 -   When you want to learn more about how different disabilities affect Web use, and read about scenarios of people with disabilities using the Web, see [[How People with Disabilities Use the Web]](/people-use-web/).
--   If you want more examples of benefits for others, with WCAG to back it up, see [[Shared Web Experiences: Barriers Common to Mobile Device Users and People with Disabilities]](/standards-guidelines/shared-experiences/) and the archived [Web Accessibility Benefits People With and Without Disabilities](https://www.w3.org/WAI/business-case/archive/soc#groups).
+-   If you want more examples of benefits for others, with WCAG to support them, see [[Shared Web Experiences: Barriers Common to Mobile Device Users and People with Disabilities]](/standards-guidelines/shared-experiences/) and the archived [Web Accessibility Benefits People With and Without Disabilities](https://www.w3.org/WAI/business-case/archive/soc#groups).
 
 {::nomarkdown}
 {% include box.html type="end" %}
