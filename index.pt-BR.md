@@ -241,4 +241,4 @@ Facilitar a transcrição é fácil e relativamente barata para os websites. Exi
 
 ## Para Mais Informações {#more-info}
 
-W3C WAI facilita uma ampla gama de recursos em diferentes aspectos dos [padrões](/standards-guidelines/) de acessibilidade na web à acessibilidade na web, [formação](https://www.w3.org/WAI/train), [testing/evaluación](/test-evaluate/), [gestão de projetos e políticas](https://www.w3.org/WAI/managing). Nós encorajamos você a explorar este site ou verificar a lista de [recursos WAI](http://www.w3.org/WAI/Resources/).
+W3C WAI facilita uma ampla gama de recursos em diferentes aspectos dos [padrões](/standards-guidelines/) de acessibilidade na web à acessibilidade na web, [formação](/teach-advocate/), [testing/evaluación](/test-evaluate/), [gestão de projetos e políticas](/planning/). Nós encorajamos você a explorar este site ou verificar a lista de [recursos WAI](/Resources/).
