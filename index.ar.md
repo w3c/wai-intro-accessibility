@@ -1,13 +1,13 @@
 ---
 # Translation instructions are after the "#" character in this first section. (They are comments that do not show up in the web page.)
 title:  مقدمة لولوجية الويب  # Do not translate "title:". Do translate the text after "title:".
-lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2019-06-05   # Put the date of this translation 2019-07-16 (with month in the middle)
-# translators: #Add one -name: line for every translator
-# - name: "نجيب التونسي"
+lang: ar   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
+last_updated: 2019-07-16   # Put the date of this translation 2019-07-16 (with month in the middle)
+translators: #Add one -name: line for every translator
+- name: "نجيب التونسي"
 # contributors: #Add one -name: line for every contributor
 # - name: "Contributor Name Here"
-permalink: /fundamentals/accessibility-intro/   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/ar
+permalink: /fundamentals/accessibility-intro/ar   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/ar
 ref: /fundamentals/accessibility-intro/   # Do not change this
 layout: default
 github:
