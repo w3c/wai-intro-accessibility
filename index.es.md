@@ -205,7 +205,7 @@ Existen herramientas que ayudan en la evaluación. Sin embargo, ninguna herramie
 
 ### Alternativas textuales para imágenes
 
-![image of logo; HTML markup img alt='Iniciativa de Accesibilidad Web'](https://www.w3.org/WAI/intro/alt-logo.png){:.right}
+![Imagen de logotipo; Marcado HTML img alt='Web Accessibility Initiative logo'](https://www.w3.org/WAI/intro/alt-logo.png){:.right}
 
 Las imágenes deben incluir una *[alternativa textual equivalente](http://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv.html)* (texto alternativo) en el marcado/código.
 
@@ -215,7 +215,7 @@ Cuando el equivalente textual es facilitado, la información está disponible pa
 
 ### Entrada con teclado
 
-![mouse crossed out](https://www.w3.org/WAI/intro/no-mouse.png){:.left width="67" height="45"}
+![Ratón tachado con una cruz](https://www.w3.org/WAI/intro/no-mouse.png){:.left width="67" height="45"}
 
 Algunas personas no pueden utilizar ratón, incluyendo muchas personas mayores con control de la motricidad limitado. Un sitio web accesible no depende del ratón; hace que [toda la funcionalidad esté disponible para el teclado](http://www.w3.org/TR/UNDERSTANDING-WCAG20/keyboard-operation.html). Entonces, las personas con discoapacidad pueden utilizar [tecnologías de apoyo](/planning/involving-users/#at) que simulan el teclado, como por ejemplo la entrada por voz.
 
