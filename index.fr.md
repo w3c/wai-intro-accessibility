@@ -24,7 +24,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 {% include box.html type="start" h="2" title="Résumé" class="full" %}
 {:/}
 
-Lorsqu'un site ou un outil web est bien conçu et bien codé, les personnes handicapées peuvent l'utiliser. Cependant, beaucoup de sites et d'outils sont actuellement développés avec des problèmes d'accessibilité, ce qui les rend dificiles ou impossibles à utiliser par certaines personnes.
+Lorsqu'un site ou un outil web est bien conçu et bien codé, les personnes handicapées peuvent l'utiliser. Cependant, beaucoup de sites et d'outils développés actuellement contiennent des problèmes d'accessibilité, ce qui les rend dificiles ou impossibles à utiliser par certaines personnes.
 
 Rendre le web accessible est un avantage pour les internautes, les entreprises et la société. Les standards du web internationaux définissent ce qui est nécessaire pour l'accessibilité.
 
@@ -91,7 +91,7 @@ L'accessibilité du web bénéficie également aux personnes *sans* handicap, co
 -   les personnes ayant « une limitation situationnelle » comme  être en plein soleil ou dans un environnement où elles ne peuvent pas écouter l'audio
 -   les personnes utilisant une connexion internet lente ou ayant une bande passante limitée ou onéreuse
 
-Voir une vidéo de 7 minutes qui contient des exemples montrant comment l'accessibilité est essentielle pour les personnes handicapées et utile à tout le monde dans un grand nombre de situations :<br>
+Voir une vidéo de 7 minutes qui contient des exemples montrant comment l'accessibilité est essentielle pour les personnes handicapées et utile à tout le monde dans un grand nombre de situations, voir :<br>
 {% include video-link.html title="Video Les perspectives de l'accessibilité du web  <em>(YouTube)</em>" href="https://www.youtube.com/watch?v=3f31oufqFSM" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %}
 
 {::nomarkdown}
@@ -99,7 +99,7 @@ Voir une vidéo de 7 minutes qui contient des exemples montrant comment l'access
 {:/}
 
 -   Pour en savoir plus sur la façon dont différents handicaps impactent l'utilisation du web et découvrir les scénarios de personnes handicapées utilisant le web, voir la ressource [[Comment les personnes handicapées utilisent le web]](/people-use-web/).
--   Pour plus d'exemples sur les avantages pour d'autres personnes, voir  [[expériences du web partagées : les barrières communes aux personnes utilisant des appareils mobiles et aux personnes handicapées]](/standards-guidelines/shared-experiences/) et la ressource archivée [l'accessibilité du web bénéficie aux personnes avec et sans handicap](https://www.w3.org/WAI/business-case/archive/soc#groups).
+-   Pour plus d'exemples sur les avantages pour d'autres personnes, supportés par les WCAG, voir  [[expériences du web partagées : les barrières communes aux personnes utilisant des appareils mobiles et aux personnes handicapées]](/standards-guidelines/shared-experiences/) et la ressource archivée [l'accessibilité du web bénéficie aux personnes avec et sans handicap](https://www.w3.org/WAI/business-case/archive/soc#groups).
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -107,7 +107,7 @@ Voir une vidéo de 7 minutes qui contient des exemples montrant comment l'access
 
 ## L'accessibilité est importante pour les internautes, les entreprises, la société {#important}
 
-Le web est une ressource de plus en plus importante dans beaucoup d'aspects de la vie : l'éducation, l'emploi, le gouvernement, le commerce, la santé, les loisirs et plus encore. Il est essentiel que le web soit plus accessible afin de fournir un accès égal et l'égalité des chances à des personnes avec diverses capacités. L'accès à l'information et aux technologies de communication, y compris le web, est défini comme un droit humain fondamental dans la convention des Nations Unies relative aux droits des personnes handicapées (UN [CRPD](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html)).
+Le web est une ressource de plus en plus importante dans beaucoup d'aspects de la vie : l'éducation, l'emploi, le gouvernement, le commerce, la santé, les loisirs et plus encore. Il est essentiel que le web soit accessible afin de fournir une égalité d'accès et l'égalité des chances à des personnes avec diverses capacités. L'accès à l'information et aux technologies de communication, y compris le web, est défini comme un droit humain fondamental dans la convention des Nations Unies relative aux droits des personnes handicapées ([CRPD](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html) de l'ONU).
 
 Le web offre la possibilité d'un accès sans précédent à l'information et l'interaction de beaucoup de personnes handicapées. C'est-à-dire que les barrières d'accessibilité de l'écrit, des média audio et visuels, peuvent être plus facilement surmontées grâce aux technologies web.
 
@@ -117,7 +117,7 @@ L'accessibilité supporte l'inclusion sociale des personnes handicapées ainsi q
 -   les personnes résidant dans des régions rurales
 -   les personnes vivant dans les pays en voie de développement
 
-**Il y a également un fort avantage  de l'accessibilité pour les entreprises.** Comme expliqué dans la section précédente, le design accessible améliore l'expérience globale et la satisfaction de l'utilisateur, en particulier, dans une variété de situations, pour différents périphériques et pour les utilisateurs âgés. L'accessibilité peut améliorer votre marque, favoriser l'innovation et augmenter votre place sur le marché.
+**L'accessibilité représente également un gros avantage pour les entreprises.** Comme expliqué dans la section précédente, le design accessible améliore l'expérience globale et la satisfaction de l'utilisateur, en particulier, dans une variété de situations, pour différents périphériques et pour les utilisateurs âgés. L'accessibilité peut améliorer votre marque, favoriser l'innovation et augmenter votre place sur le marché.
 
 L'accessibilité du web est **exigée par la loi** dans beaucoup de situations.
 
@@ -143,8 +143,8 @@ L'Initiative pour l'accessibilité du Web, <span lang="en"> Web Accessibility In
 {:/}
 
 -   Voir plus d'informations sur ces aspects de l'accessibilité qui fonctionnent ensemble, dans  [[les composants essentiels de l'accessibilité du web]](/fundamentals/components/).
--   Les règles pour l'accessibilité des contenus web, <span lang="en">Web Content Accessibility Guidelines</span> (WCAG), les règles pour l'accessibilité des outils d'édition, <span lang="en">Authoring Tool Accessibility Guidelines</span> (ATAG), Aria pour les applications internet riches, <span lang="en">ARIA for Accessible Rich Internet Applications</span>, et d'autres ressources importantes sont présentées dans [[vue d'ensemble des normes d'accessibilité du W3C]](/standards-guidelines/).
--   Pour en savoir plus sur la façon dont W3C WAI développe des documents, les différentes parties prenantes, la participation internationale et comment vous pouvez contribuer, voir [[À propos de la WAI]](/about/) et [[Participateà la WAI]](/get-involved/).
+-   Les règles pour l'accessibilité des contenus web, <span lang="en">Web Content Accessibility Guidelines</span> (WCAG), les règles pour l'accessibilité des outils d'édition, <span lang="en">Authoring Tool Accessibility Guidelines</span> (ATAG), Aria pour les applications internet riches, <span lang="en">ARIA for Accessible Rich Internet Applications</span>, et d'autres ressources importantes sont présentées dans [[vue d'ensemble des standards d'accessibilité du W3C]](/standards-guidelines/).
+-   Pour en savoir plus sur la façon dont W3C WAI développe des documents, les différentes parties prenantes, la participation internationale et comment vous pouvez contribuer, voir [[À propos de la WAI]](/about/) et [[Participater à la WAI]](/get-involved/).
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -175,7 +175,7 @@ Il est plus efficace d'incorporer l'accessibilité au début d'un projet pour ne
 	
 ## Évaluer l'accessibilité {#evaluate}
 
-Lors du développement ou de la refonte d'un site web, évaluez l'accessibilité dès le début et pendant le processus de développement afin d'identifier rapidement les problèmes d'accessibilité, parce qu'il est facile de les corriger. Des étapes simples, telles que la modification des paramètres d'un navigateur, peuvent vous aider à évaluer certains aspects d'accessibilité. Une évaluation complète permettant de déterminer si un site web est conforme à toutes les règles d'accessibilité nécessite plus d'efforts.
+Lors du développement ou de la refonte d'un site web, évaluez l'accessibilité dès le début et pendant le processus de développement afin d'identifier rapidement les problèmes d'accessibilité, parce qu'il est facile de les corriger. Des mesures simples, telles que la modification des paramètres d'un navigateur, peuvent vous aider à évaluer certains aspects d'accessibilité. Une évaluation complète permettant de déterminer si un site web est conforme à toutes les règles d'accessibilité nécessite plus d'efforts.
 
 Il existe des outils qui peuvent aider à l'évaluation. Cependant, aucun outil seul ne peut déterminer si un site est conforme aux règles d'accessibilité. L'évaluation par un humain est nécessaire pour déterminer si un site est accessible.
 
@@ -202,7 +202,7 @@ Il existe des outils qui peuvent aider à l'évaluation. Cependant, aucun outil 
 
 Les images doivent comprendre une *[alternative textuelle équivalente](http://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv.html)* (alternative textuelle) dans le  balisage/code.
 
-S'il n'y a pas d'alternative textuele à une image, l'information de l'image est inaccessible, par exemple, pour les personnes qui ne voient pas et utilisent un lecteur d'écran qui lit à haute voix l'information d'une page, comprenant l'alternative textuelle de l'image visuelle.
+S'il n'y a pas d'alternative textuelle à une image, l'information de l'image est inaccessible, par exemple, pour les personnes qui ne voient pas et utilisent un lecteur d'écran qui lit à haute voix l'information d'une page, comprenant l'alternative textuelle de l'image visuelle.
 
 Lorsqu'un équivalent textuel est fourni dans l'alternative textuelle, l'information est disponible pour les personnes aveugles, ainsi que celles qui désactivent les images (par exemple, dans des endroits où la bande passante est onéreuse ou lente). Elle est également disponible pour les technologies qui ne voient pas les images, comme par exemple les moteurs de recherche.
 
@@ -212,7 +212,7 @@ Lorsqu'un équivalent textuel est fourni dans l'alternative textuelle, l'informa
 
 Certaines personnes ne peuvent pas utiliser de souris, y compris les personnes âgées qui ont un contrôle limité de la motricité de précision. Un site web accessible ne dépend pas de la souris ; il rend [toutes les fonctionnalités disponibles au clavier](http://www.w3.org/TR/UNDERSTANDING-WCAG20/keyboard-operation.html). Ainsi, les personnes handicapées peuvent utiliser [des technologies d'assistance](/planning/involving-users/#at) qui simulent le clavier, telles que la dictée vocale.
 
-### Transcriptions de l'Audio
+### Transcriptions de l'audio
 
 [![exemple de transcript](https://www.w3.org/WAI/intro/transcript.png){:.right width="251" height="254"}](http://www.w3.org/WAI/highlights/200606wcag2interview.html)
 
@@ -225,7 +225,7 @@ Il est facile et relativement peu cher de fournir des transcriptions sur des sit
 {:/} 
 
 -   [[Conseils pour débuter]](/tips/)
--   [[Tests faciles - première évluation]](/test-evaluate/preliminary/)
+-   [[Tests faciles - première évaluation]](/test-evaluate/preliminary/)
 -   {% include video-link.html class="small inline" title="Perspectives de l'accessibilité du web &mdash; videos et descriptions" href="/perspective-videos/" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %}
 
 {::nomarkdown}
