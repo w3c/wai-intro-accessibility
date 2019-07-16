@@ -107,26 +107,26 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 ## Accessibility is Important for Individuals, Businesses, Society {#important}
 
-The Web is an increasingly important resource in many aspects of life: education, employment, government, commerce, health care, recreation, and more. It is essential that the Web be accessible in order to provide equal access and equal opportunity to people with diverse abilities. Access to information and communications technologies, including the Web, is defined as a basic human right in the United Nations Convention on the Rights of Persons with Disabilities (UN [CRPD](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html)).
+يعد الويب مورداً متزايد الأهمية في العديد من جوانب الحياة: التعليم ، والتوظيف ، والحكومة ، والتجارة ، والرعاية الصحية ، والترفيه ، وأكثر من ذلك. من الضروري أن يكون الويب متاحًا لتوفير تكافؤ الولوج وتكافؤ الفرص للأشخاص ذوي القدرات المتنوعة. يُعرّف الولوج إلى تكنولوجيات المعلومات والاتصالات ، بما في ذلك الويب ، بأنه حق أساسي من حقوق الإنسان في اتفاقية الأمم المتحدة لحقوق الأشخاص ذوي الإعاقة (UN CRPD).
 
-The Web offers the possibility of unprecedented access to information and interaction for many people with disabilities. That is, the accessibility barriers to print, audio, and visual media can be much more easily overcome through web technologies.
+يوفر الويب إمكانية  غير مسبوقة للولوج إلى المعلومات والتفاعل للعديد من الأشخاص ذوي الإعاقة. بمعنى أنه بواسطة تقنيات الويب يمكن التغلب بسهولة أكبر على حواجز الولوج إلى الوسائط المطبوعة والصوتية والمرئية.
 
-Accessibility supports social inclusion for people with disabilities as well as others, such as:
+الولوجة تدعم الإدماج الاجتماعي للأشخاص ذوي الإعاقة وغيرهم مثل:
 
--   older people
--   people in rural areas
--   people in developing countries
+-   العجزة
+-   الناس في المناطق القروية
+-   الناس في البلدان النامية
 
-**There is also a strong business case for accessibility.** As shown in the previous section, accessible design improves overall user experience and satisfaction, especially in a variety of situations, across different devices, and for older users. Accessibility can enhance your brand, drive innovation, and extend your market reach.
+**هناك أيضا تحليل تجاري قوي للولوجية.**  كما هو موضح في الفقرة السابقة، يعمل التصميم الولوجي على تحسين تجربة المستخدمين  بشكل عام ورضاهم، لا سيما في ظروف متنوعة عبر أجهزة مختلفة وكذلك للمستخدمين الأقدم. يمكن للولوجية أن تعمل على تعزيز شعارك التجاري وتحفيز الابتكار وتوسيع السوق.
 
-Web accessibility is **required by law** in many situations.
+ولوجية الويب **مطلوبة بموجب القانون** في العديد من الحالات.
 
 {::nomarkdown}
-{% include box.html type="start" h="3" title="More Info on Accessibility is Important" class="simple aside" %}
+{% include box.html type="start" h="3" title="مزيد من المعلومات حول أهمية الولوجية" class="simple aside" %}
 {:/}
 
--   General information on business benefits is in [[The Business Case for Digital Accessibility]](/business-case/).
--   Guidance on figuring out legal requirements is in the archived [Legal and Policy Factors](https://www.w3.org/WAI/business-case/archive/pol).
+-   معلومات عامة عن المزايا في الأعمال في [[التحليل التجاري للولوجية الرقمية]](/business-case/).
+-   إرشادات لمعرفة المتطلبات القانونية في [العوامل القانونية والسياسة](https://www.w3.org/WAI/business-case/archive/pol) المؤرشفة.
 
 {::nomarkdown}
 {% include box.html type="end" %}
