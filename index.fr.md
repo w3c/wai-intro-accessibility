@@ -144,7 +144,7 @@ L'Initiative pour l'accessibilité du Web, <span lang="en"> Web Accessibility In
 
 -   Voir plus d'informations sur ces aspects de l'accessibilité qui fonctionnent ensemble, dans  [[les composants essentiels de l'accessibilité du web]](/fundamentals/components/).
 -   Les règles pour l'accessibilité des contenus web, <span lang="en">Web Content Accessibility Guidelines</span> (WCAG), les règles pour l'accessibilité des outils d'édition, <span lang="en">Authoring Tool Accessibility Guidelines</span> (ATAG), Aria pour les applications internet riches, <span lang="en">ARIA for Accessible Rich Internet Applications</span>, et d'autres ressources importantes sont présentées dans [[vue d'ensemble des standards d'accessibilité du W3C]](/standards-guidelines/).
--   Pour en savoir plus sur la façon dont W3C WAI développe des documents, les différentes parties prenantes, la participation internationale et comment vous pouvez contribuer, voir [[À propos de la WAI]](/about/) et [[Participater à la WAI]](/get-involved/).
+-   Pour en savoir plus sur la façon dont W3C WAI développe des documents, les différentes parties prenantes, la participation internationale et comment vous pouvez contribuer, voir [[À propos de la WAI]](/about/) et [[Participer à la WAI]](/get-involved/).
 
 {::nomarkdown}
 {% include box.html type="end" %}
