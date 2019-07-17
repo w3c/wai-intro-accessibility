@@ -95,7 +95,7 @@ Voir une vidéo de 7 minutes qui contient des exemples montrant comment l'access
 {% include video-link.html title="Video Les perspectives de l'accessibilité du web  <em>(YouTube)</em>" href="https://www.youtube.com/watch?v=3f31oufqFSM" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %}
 
 {::nomarkdown}
-{% include box.html type="start" h="3" title="plus d'informations sur ce qu'est l'accessibilité" class="simple aside" %}
+{% include box.html type="start" h="3" title="Plus d'informations sur ce qu'est l'accessibilité" class="simple aside" %}
 {:/}
 
 -   Pour en savoir plus sur la façon dont différents handicaps impactent l'utilisation du web et découvrir les scénarios de personnes handicapées utilisant le web, voir la ressource [[Comment les personnes handicapées utilisent le web]](/people-use-web/).
