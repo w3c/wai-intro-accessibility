@@ -136,19 +136,19 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 {% include box.html type="end" %}
 {:/}
 
-## Making the Web Accessible {#making}
+## جعل الويب ولوجي {#making}
 
-Web accessibility depends on several components working together, including web technologies, web browsers and other \"user agents\", authoring tools, and websites.
+تعتمد ولوجية الويب على العديد من المكونات التي تعمل معًا، بما في ذلك تقنيات الويب ومتصفحات الويب و \"وكلاء المستخدم\"  وأدوات التأليف ومواقع الويب.
 
-The W3C Web Accessibility Initiative ([WAI](/get-involved/)) develops technical specifications, guidelines, techniques, and supporting resources that describe accessibility solutions. These are considered international standards for web accessibility; for example, <abbr title="Web Content Accessibility Guidelines (WCAG)">WCAG</abbr> 2.0 is also an <abbr title="International Organization for Standardization">ISO</abbr> standard: ISO/<abbr title="International Electrotechnical Commission">IEC</abbr> 40500.
+تقوم مبادرة ولوجية الويب (WAI)  لدى W3C بتطوير المواصفات التقنية والإرشادات والتقنيات والموارد الداعمة التي تصف حلول الولوجية. وتعتبر هذه معايير دولية للولوجية الويب؛ على سبيل المثال، <abbr title="إرشادات الولوج إلى محتويات الويب (WCAG)">WCAG</abbr> 2.0 هي أيضًا معيار <abbr title="منظمة المعايير الدولية">ISO</abbr>:‏ ISO / <abbr title="اللجنة الكهرتقنية الدولية">IEC</abbr> 40500.
 
 {::nomarkdown}
-{% include box.html type="start" h="3" title="More Info on Making the Web Accessible" class="simple aside" %}
+{% include box.html type="start" h="3" title="مزيد من المعلومات عن جعل الويب ولوجي" class="simple aside" %}
 {:/}
 
--   More about these aspects of accessibility working together is in [[Essential Components of Web Accessibility]](/fundamentals/components/).
--   Web Content Accessibility Guidelines (WCAG), Authoring Tool Accessibility Guidelines (ATAG), ARIA for Accessible Rich Internet Applications, and other important resources are introduced in [[W3C Accessibility Standards Overview]](/standards-guidelines/).
--   To learn more about how W3C WAI develops material through multi-stakeholder, international participation and how you can contribute, see [[About WAI]](/about/) and [[Participating in WAI]](/get-involved/).
+-   لمعرفة المزيد حول جوانب  ولوجية الويب هذه، راجع [[المكونات الأساسية لولوجية الويب]](/fundamentals/components/).
+-  يتم تقديم إرشادات إمكانية الولوج إلى محتوى الويب (WCAG)  وإرشادات الولوج إلى أدوات التأليف (ATAG)  و ARIA لتطبيقات الويب الغنية القابلة للولوج ، وغيرها من الموارد المهمة في [[نظرة عامة على معايير الولوجية  عند W3C]](/standards-guidelines/).
+-   لمعرفة المزيد حول كيفية قيام W3C WAI بتطوير المواد من خلال المشاركة الدولية متعددة الأذطراف وكيف يمكنك المساهمة، راجع  [[حول W3C WAI](/about/) و [[والمشاركة في WAI]](/get-involved/).
 
 {::nomarkdown}
 {% include box.html type="end" %}
