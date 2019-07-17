@@ -136,7 +136,7 @@ Web为许多残疾人提供了前所未有的获取信息和互动的可能性�
 
 Web无障碍依赖于几个共同工作的组件，包括Web技术、Web浏览器和其他“用户代理”、创作工具和网站。
 
-W3C Web无障碍推进组 ([WAI](/get-involved/))开发描述无障碍解决方案的技术规范、指南、技术和支持资源。这些被认为是无障碍网页的国际标准;例如, <abbr title="Web Content Accessibility Guidelines (WCAG)">WCAG</abbr> 2.0 也是 <abbr title="International Organization for Standardization">ISO</abbr>标准: ISO/<abbr title="International Electrotechnical Commission">IEC</abbr> 40500。
+W3C Web无障碍推进 ([WAI](/get-involved/))开发描述无障碍解决方案的技术规范、指南、技术和支持资源。这些被认为是无障碍网页的国际标准;例如, <abbr title="Web Content Accessibility Guidelines (WCAG)">WCAG</abbr> 2.0 也是 <abbr title="International Organization for Standardization">ISO</abbr>标准: ISO/<abbr title="International Electrotechnical Commission">IEC</abbr> 40500。
 
 {::nomarkdown}
 {% include box.html type="start" h="3" title="更多关于如何使Web无障碍" class="simple aside" %}
