@@ -238,6 +238,6 @@ It's easy and relatively inexpensive for websites to provide transcripts. There 
 
 {% include excol.html type="end" %}
 
-## For More Information {#more-info}
+## للمزيد من المعلومات {#more-info}
 
-W3C WAI provides a wide range of resources on different aspects of web accessibility [standards](/standards-guidelines/), [education](https://www.w3.org/WAI/train), [testing/evaluation](/test-evaluate/), [project management, and policy](https://www.w3.org/WAI/managing). We encourage you to explore this website, or look through the [WAI Resources](http://www.w3.org/WAI/Resources/) list.
+يوفر W3C WAI مجموعة واسعة من الموارد حول الجوانب المختلفة [لمعايير](/standards-guidelines/)ولوجية الويب و[التعليم](https://www.w3.org/WAI/train) و[الاختبار / التقييم](/test-evaluate/) و[إدارة المشروع والسياسة](https://www.w3.org/WAI/managing). نحن نشجعك على استكشاف هذا الموقع أو الإطلاع على [موارد WAI](http://www.w3.org/WAI/Resources/) قائمة.
