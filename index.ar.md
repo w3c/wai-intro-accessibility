@@ -146,7 +146,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 {% include box.html type="start" h="3" title="مزيد من المعلومات عن جعل الويب ولوجي" class="simple aside" %}
 {:/}
 
--   لمعرفة المزيد حول جوانب  ولوجية الويب هذه، راجع [[المكونات الأساسية لولوجية الويب]](/fundamentals/components/).
+-   لمعرفة المزيد عن جوانب  ولوجية الويب هذه، راجع [[المكونات الأساسية لولوجية الويب]](/fundamentals/components/).
 -  يتم تقديم إرشادات إمكانية الولوج إلى محتوى الويب (WCAG)  وإرشادات الولوج إلى أدوات التأليف (ATAG)  و ARIA لتطبيقات الويب الغنية القابلة للولوج ، وغيرها من الموارد المهمة في [[نظرة عامة على معايير الولوجية  عند W3C]](/standards-guidelines/).
 -   لمعرفة المزيد حول كيفية قيام W3C WAI بتطوير المواد من خلال المشاركة الدولية متعددة الأذطراف وكيف يمكنك المساهمة، راجع  [[حول W3C WAI](/about/) و [[والمشاركة في WAI]](/get-involved/).
 
@@ -154,49 +154,49 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 {% include box.html type="end" %}
 {:/}
 
-### Making Your Website Accessible {#website}
+### جعل موقعك ولوجي {#website}
 
-Many aspects of accessibility are fairly easy to understand and implement. Some accessibility solutions are more complex and take more knowledge to implement.
+العديد من جوانب الولوجية سهلة الفهم والتنفيذ. بعض حلول الولوجية أكثر تعقيدًا وتتطلب المزيد من المعرفة لتنفيذها.
 
-It is most efficient and effective to incorporate accessibility from the very beginning of projects, so you don't need go back and to re-do work.
+يعد دمج الولوجية مبكرًا في  المشاريع أكثر فعالية. لذلك ليس عليك العودة والقيام بالعمل مرة أخرى.
 
 {::nomarkdown}
-{% include box.html type="start" h="3" title="More Info on Making Your Website Accessible" class="simple aside" %}
+{% include box.html type="start" h="3" title="لمعرفة المزيد عن جعل موقعك ولوجي" class="simple aside" %}
 {:/}
 
--   For an introduction to accessibility requirements and international standards, see [[Accessibility Principles]](/fundamentals/accessibility-principles/).
--   To understand some common accessibility barriers from the perspective of testing, see [[Easy Checks - A First Review]](/test-evaluate/preliminary/).
--   For some basic considerations on designing, writing, and developing for accessibility, see [[Tips for Getting Started]](/tips/).
--   When you're ready to know more about developing and designing, you'll probably use resources such as:
-    -   [How to Meet WCAG (Quick Reference)](http://www.w3.org/WAI/WCAG21/quickref/)
-    -   [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
--   For project management and organizational considerations, see [[Planning and Managing Web Accessibility]](/planning-and-managing/).<br>
-    If you need to make quick fixes now, see [[Approaches for Interim Repairs]](/planning/interim-repairs/).
+-   للحصول على مقدمة لمتطلبات الولوجية والمعايير الدولية، راجع [[مبادئ الولوجية]](/fundamentals/accessibility-principles/).
+-    لفهم بعض تحديات الولوجية الشائعة بمنظور الاختبار، راجع  [[الاختبارات البسيطة: نظرة أولى على ولوجية الويب]](/test-evaluate/preliminary/).
+-   للإطلاع على بعض الاعتبارات الأساسية المتعلقة بالتصميم والكتابة والتطوير لأجل الولوجية، انظر [[ تلميحات للبدء]](/tips/).
+-  عندما تكون مستعدًا لمعرفة المزيد عن التطوير والتصميم، فربما تستخدم موارد مثل:
+    -   [كيفية التوافق مع WCAG (مرجع سريع)](http://www.w3.org/WAI/WCAG21/quickref/)
+    -   [البرامج التعليمية في ولوجية الويب](https://www.w3.org/WAI/tutorials/)
+-   للحصول على الاعتبارات  التنظيمية وإدارة المشاريع، راجع  [[تخطيط ولوجية الويب وإدارتها]](/planning-and-managing/).<br>
+    إذا كنت بحاجة إلى إجراء إصلاحات سريعة الآن، فراجع  [[طرق الإصلاحات المؤقتة]](/planning/interim-repairs/).
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 	
-## Evaluating Accessibility {#evaluate}
+## تقييم الولوجية {#evaluate}
 
-When developing or redesigning a website, evaluate accessibility early and throughout the development process to identify accessibility problems early, when it is easier to address them. Simple steps, such as changing settings in a browser, can help you evaluate some aspects of accessibility. Comprehensive evaluation to determine if a website meets all accessibility guidelines takes more effort.
+عند تطوير موقع ويب أو إعادة تصميمه، قم بتقييم الولوجية مبكراً وأثناء عملية التطوير لتحديد مشكلات الولوجية مبكرًا ، عندما يكون من السهل معالجتها. الخطوات البسيطة مثل تغيير الإعدادات في المستعرض يمكن أن تساعدك على تقييم بعض الجوانب. التقييم الشامل لتحديد ما إذا كان موقع الويب يستوفي جميع إرشادات الولوجية يتطلب مزيدًا من الجهد.
 
-There are evaluation tools that help with evaluation. However, no tool alone can determine if a site meets accessibility guidelines. Knowledgeable human evaluation is required to determine if a site is accessible.
+هناك أدوات التقييم التي تساعد في التقييم. ومع ذلك لا يمكن لأي أداة بمفردها تحديد ما إذا كان الموقع متوافقًا مع إرشادات الولوجية. يلزم إجراء تقييم إنساني جيد الاطلاع لتحديد ما إذا كان الموقع ولوجي أم لا.
 
 
 {::nomarkdown}
-{% include box.html type="start" h="3" title="More Info on Evaluating Accessibility" class="simple aside" %}
+{% include box.html type="start" h="3" title="مزيد من المعلومات عن تقييم الولوجية" class="simple aside" %}
 {:/}
 
--   Resources to help with accessibility evaluation are described in [[Evaluating Websites for Accessibility]](/test-evaluate/).
+-    يتم وصف الموارد للمساعدة في تقييم الولوجية في [[نظرة عامة على تقييم ولوجية الويب]](/test-evaluate/).
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
-{% include excol.html type="start" id="examples" %}
+{% include excol.html type="start" id="أمثلة" %}
 
-## Examples
+## أمثلة
 
 {% include excol.html type="middle" %}
 
