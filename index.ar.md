@@ -240,4 +240,4 @@ It's easy and relatively inexpensive for websites to provide transcripts. There 
 
 ## للمزيد من المعلومات {#more-info}
 
-يوفر W3C WAI مجموعة واسعة من الموارد حول الجوانب المختلفة [لمعايير](/standards-guidelines/)ولوجية الويب و[التعليم](https://www.w3.org/WAI/train) و[الاختبار / التقييم](/test-evaluate/) و[إدارة المشروع والسياسة](https://www.w3.org/WAI/managing). نحن نشجعك على استكشاف هذا الموقع أو الإطلاع على [موارد WAI](http://www.w3.org/WAI/Resources/) قائمة.
+يوفر W3C WAI مجموعة واسعة من الموارد حول الجوانب المختلفة لـ[معايير](/standards-guidelines/)ولوجية الويب و[التعليم](https://www.w3.org/WAI/train) و[الاختبار / التقييم](/test-evaluate/) و[إدارة المشروع والسياسة](https://www.w3.org/WAI/managing). نحن نشجعك على استكشاف هذا الموقع أو الإطلاع على [موارد WAI](http://www.w3.org/WAI/Resources/) قائمة.
