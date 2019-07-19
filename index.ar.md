@@ -200,37 +200,37 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 {% include excol.html type="middle" %}
 
-### Alternative Text for Images
+### نص بديل للصور
 
-![image of logo; HTML markup img alt='Web Accessibility Initiative logo'](https://www.w3.org/WAI/intro/alt-logo.png){:.right}
+![صورة مع ترميز HTML النص البديل img alt='Web Accessibility Initiative logo'](https://www.w3.org/WAI/intro/alt-logo.png){:.right}
 
-Images should include *[equivalent alternative text](http://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv.html)* (alt text) in the markup/code.
+يجب أن تتضمن الصور *[نصًا بديلًا معادلًا](http://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv.html)* (alt text) في الترميز او الشفرة.
 
-If alt text isn't provided for images, the image information is inaccessible, for example, to people who cannot see and use a screen reader that reads aloud the information on a page, including the alt text for the visual image.
+إذا لم يتم توفير نص بديل للصور، فالولوج إلى معلومات الصورة  سيكون غير ممكن مثلا للأشخاص الذين لا يمكنهم رؤية واستخدام قارئ الشاشة الذي يقرأ المعلومات بصوت عالٍ على إحدى الصفحات، بما في ذلك النص البديل للصورة المرئية.
 
-When equivalent alt text is provided, the information is available to people who are blind, as well as to people who turn off images (for example, in areas with expensive or low bandwidth). It's also available to technologies that cannot see images, such as search engines.
+عند تقديم نص بديل معادل تكون المعلومات متاحة للأشخاص المكفوفين، وكذلك للأشخاص الذين يقومون بإيقاف تشغيل الصور (في المناطق مثلا ذات النطاق الترددي المكلف أو المنخفض). كما أنها متاحة للتقنيات التي لا يمكنها رؤية الصور مثل محركات البحث.
 
-### Keyboard Input
+### مدخلات لوحة المفاتيح
 
-![mouse crossed out](https://www.w3.org/WAI/intro/no-mouse.png){:.left width="67" height="45"}
+![ماوس شطبت](https://www.w3.org/WAI/intro/no-mouse.png){:.left width="67" height="45"}
 
-Some people cannot use a mouse, including many older users with limited fine motor control. An accessible website does not rely on the mouse; it makes [all functionality available from a keyboard](http://www.w3.org/TR/UNDERSTANDING-WCAG20/keyboard-operation.html). Then people with disabilities can use [assistive technologies](/planning/involving-users/#at) that mimic the keyboard, such as speech input.
+لا يمكن لبعض الأشخاص استخدام الماوس، بما في ذلك العديد من المستخدمين الأكبر سنا ممن لديهم تحكم محدود في المحركات الدقيقة. موقع ويب ولوجي لا يعتمد على الماوس ويجعل [جميع الوظائف متاحة من لوحة المفاتيح](http://www.w3.org/TR/UNDERSTANDING-WCAG20/keyboard-operation.html). عندئذ يمكن للأشخاص ذوي الإعاقة استخدام [التقنيات المساعدة](/planning/involving-users/#at) التي تقلد لوحة المفاتيح مثل إدخال الصوت.
 
-### Transcripts for Audio
+### نصوص للصوت
 
-[![example transcript](https://www.w3.org/WAI/intro/transcript.png){:.right width="251" height="254"}](http://www.w3.org/WAI/highlights/200606wcag2interview.html)
+[![مثال النسخ](https://www.w3.org/WAI/intro/transcript.png){:.right width="251" height="254"}](http://www.w3.org/WAI/highlights/200606wcag2interview.html)
 
-Just as images aren't available to people who can't see, audio files aren't available to people who can't hear. Providing a text transcript makes the audio information accessible to people who are deaf or hard of hearing, as well as to search engines and other technologies that can't hear.
+مثلما لا تتوفر الصور للأشخاص الذين لا يستطيعون مشاهدتها، فإن الملفات الصوتية غير متاحة للأشخاص الذين لا يستطيعون سماعها. إن توفير نسخة نصية يجعل المعلومات الصوتية في متناول الأشخاص الذين يعانون من الصمم أو ضعاف السمع،  بالإضافة إلى محركات البحث والتقنيات الأخرى التي لا يمكنها السماع.
 
-It's easy and relatively inexpensive for websites to provide transcripts. There are also [transcription services](http://www.uiaccess.com/transcripts/transcript_services.html) that create text transcripts in HTML format.
+من السهل وغير المكلف نسبيًا لمواقع الويب أن توفر النصوص. هناك أيضًا  [خدمات النسخ](http://www.uiaccess.com/transcripts/transcript_services.html) لتي تنشئ نسخ نصية بتنسيق HTML.
 
 {::nomarkdown}
-{% include box.html type="start" h="3" title="More Examples" class="simple aside" %}
+{% include box.html type="start" h="3" title="مزيد من الأمثلة" class="simple aside" %}
 {:/} 
 
--   [[Tips for Getting Started]](/tips/)
--   [[Easy Checks - A First Review]](/test-evaluate/preliminary/)
--   {% include video-link.html class="small inline" title="Web Accessibility Perspectives &mdash; videos and descriptions" href="/perspective-videos/" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %}
+-   [[تلميحات للبدء]](/tips/)
+-   [[الاختبارات البسيطة: نظرة أولى على ولوجية الويب]](/test-evaluate/preliminary/)
+-   {% include video-link.html class="small inline" title=" أفاق ولوجيات الويب &mdash; فيديو وأوصاف" href="/perspective-videos/" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %}
 
 {::nomarkdown}
 {% include box.html type="end" %}
