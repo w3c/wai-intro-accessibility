@@ -148,7 +148,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 -   لمعرفة المزيد عن جوانب  ولوجية الويب هذه، راجع [[المكونات الأساسية لولوجية الويب]](/fundamentals/components/).
 -  يتم تقديم إرشادات الولوج إلى محتوى الويب (WCAG)  وإرشادات الولوج إلى أدوات التأليف (ATAG)  و ARIA لتطبيقات الويب الغنية القابلة للولوج، وغيرها من الموارد المهمة في [[نظرة عامة على معايير الولوجية  عند W3C]](/standards-guidelines/).
--   لمعرفة المزيد حول كيفية قيام W3C WAI بتطوير المواد من خلال المشاركة الدولية متعددة الأطراف وكيف يمكنك المساهمة، راجع  [[عن W3C WAI](/about/) و [[والمشاركة في WAI]](/get-involved/).
+-   لمعرفة المزيد حول كيفية قيام W3C WAI بتطوير المواد من خلال المشاركة الدولية متعددة الأطراف وكيف يمكنك المساهمة، راجع  [[عن W3C WAI]](/about/) و [[والمشاركة في WAI]](/get-involved/).
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -240,4 +240,4 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 ## للمزيد من المعلومات {#more-info}
 
-يوفر W3C WAI مجموعة كبيرة من الموارد حول الجوانب المختلفة لـ[معايير](/standards-guidelines/) ولوجية الويب و[التعليم](https://www.w3.org/WAI/train) و[الاختبار / التقييم](/test-evaluate/) و[إدارة المشروع والسياسة](https://www.w3.org/WAI/managing). نحن نشجعك على استكشاف هذا الموقع أو الإطلاع على قائمة [موارد WAI](http://www.w3.org/WAI/Resources/).
+يوفر W3C WAI مجموعة كبيرة من الموارد حول الجوانب المختلفة لـ[معايير](/standards-guidelines/) ولوجية الويب و[التعليم](/teach-advocate/) و[الاختبار / التقييم](/test-evaluate/) و[إدارة المشروع والسياسة](/planning/). نحن نشجعك على استكشاف هذا الموقع أو الإطلاع على قائمة [موارد WAI](http://www.w3.org/WAI/Resources/).
