@@ -1,6 +1,6 @@
 ---
 # Translation instructions are after the "#" character in this first section. (They are comments that do not show up in the web page.)
-title: Introduction à l'accessibilité  du web # Do not translate "title:". Do translate the text after "title:".
+title: Introduction à l'accessibilité du web # Do not translate "title:". Do translate the text after "title:".
 lang: fr
 last_updated: 2019-07-15   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators:
