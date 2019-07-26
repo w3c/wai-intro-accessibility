@@ -4,9 +4,10 @@ title: ВВЕДЕНИЕ В ВЕБ-ДОСТУПНОСТЬ   # Do not translate "t
 lang: ru   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2019-07-12   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators:
-- name: "ИИТО ЮНЕСКО"   # Replace @@ with translator name
+- name: "Elena Varkvasova"
 - name: "UNESCO IITE"
   link: https://iite.unesco.org/
+- name: "ИИТО ЮНЕСКО"
 permalink: /fundamentals/accessibility-intro/ru   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
 ref: /fundamentals/accessibility-intro/   # Do not change this
 layout: default
