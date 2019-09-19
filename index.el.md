@@ -34,17 +34,10 @@ footer: >
 {% include_cached toc.html type="start" title="Περιεχόμενα Σελίδας" class="full" %}
 {:/}
 
-<ul>
-<li><a href="#context">Πλαίσιο Προσβασιμότητας</a></li>
-<li><a href="#what">Τι είναι η Προσβασιμότητα του Ιστού</a></li>
-<li><a href="#important">Η Προσβασιμότητα είναι Σημαντική για τα Άτομα, τις Επιχειρήσεις, την Κοινωνία</a></li>
-<li><a href="#making">Καθιστώντας τον Ιστό Προσβάσιμο</a></li>
-<li><a href="#evaluate">Αξιολογώντας την Προσβασιμότητα</a></li>
-<li><a href="#examples">Παραδείγματα</a></li>
-<li><a href="#more-info">Για Περισσότερες Πληροφορίες</a></li>
-</ul>
+-   TOC is created automatically.
+{:toc}
 
-<span class="box-h box-h-simple box-h-full">Σχετικός Πόρος (<span lang="en">Resource</span>)</span><br>
+<span class="box-h box-h-simple box-h-full">Σχετικός Πόρος</span><br>
 {% include video-link.html title="Εισαγωγικό Βίντεο για την Προσβασιμότητα στον Παγκόσμιο Ιστό και τα Πρότυπα του W3C <em>(4 λεπτά)</em>" href="https://www.w3.org/WAI/videos/standards-and-benefits/el" src="/content-images/wai-intro-accessibility/video-still-accessibility-intro-16-9.jpg" %}
 
 {::nomarkdown}
