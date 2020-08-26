@@ -29,7 +29,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 Pokud jsou webové stránky a nástroje řádně navrženy a naprogramovány, jsou použitelné pro lidi se zdravotním postižením. V současné době je ale mnoho stránek a nástrojů vytvořeno s bariérami přístupnosti, které pro některé lidi znemožňují použití těchto stránek.
 
-Tvorba přístupného webu je prospěšná pro jedince, podniky i společnost. Mezinárodní webové směrnice definují, co je potřeba pro webovou přístupnost.
+Tvorba přístupného webu je prospěšná pro jednotlivce, podniky i společnost. Mezinárodní webové směrnice definují, co je potřeba pro webovou přístupnost.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -73,7 +73,7 @@ Webová přístupnost znamená, že webové stránky, nástroje a technologie js
 -   vnímat, rozumět, navigovat a interagovat s webem
 -   přispívat na web
 
-Webová přístupnost zahrnuje všechna postižení, která mají vliv na přístup k webu, včetně:
+Webová přístupnost zahrnuje všechna postižení, která mají vliv na přístup k webu, včetně postiženích:
 
 -   sluchových
 -   kognitivních
@@ -116,12 +116,12 @@ Přístupnost podporuje sociální začleňování osob se zdravotním postižen
 -   osob v odlehlých oblastech
 -   osob v rozvojových zemích
 
-**Přístupnost má také zásadní ekonomický význam.** Jak je vysvětleno v předchozích sekcích, přístupný design vylepšuje celkový uživatelský prožitek a spokojenost, zvláště v různých situacích, s různými zařízeními a pro starší uživatele. Přístupnost může vylepšit Vaši značku, řídit inovace a zvětšit Váš dosah na trhu.
+**Přístupnost má také zásadní ekonomický význam.** Jak je vysvětleno v předchozích sekcích, přístupný design vylepšuje celkový uživatelský prožitek a spokojenost, zejména v různých situacích, s různými zařízeními a pro starší uživatele. Přístupnost může vylepšit Vaši značku, řídit inovace a zvětšit Váš dosah na trhu.
 
 Webová přístupnost je **vyžadována zákonem** v mnoha situacích.
 
 {::nomarkdown}
-{% include box.html type="start" h="3" title="Více informací o Přístupnost je důležitá" class="simple aside" %}
+{% include box.html type="start" h="3" title="Více informací k sekci Přístupnost je důležitá" class="simple aside" %}
 {:/}
 
 -   Základní informace o výhodách pro firmy jsou v [[Obchodním případě pro digitální přístupnost]](/business-case/).
@@ -143,7 +143,7 @@ Iniciativa pro webovou přístupnost W3C ([WAI](/get-involved/)) vyvíjí techni
 
 -   Více o spolupracujících aspektech přístupnosti v [[Základních komponentech webové přístupnosti]](/fundamentals/components/).
 -   Pokyny pro zpřístupnění obsahu webu (WCAG), Pokyny pro zpřístupnění vývojových nástrojů (ATAG), ARIA Přístupné internetové aplikace a další důležité zdroje jsou představeny ve [[W3C Přehledu standardů přístupnosti]](/standards-guidelines/).
--   Pro více informací o tom, jak W3C WAI vyvíjí materiály za pomoci několika zúčastněných stran, mezinárodní spolupráce a jak můžete přispět Vy, navštivte [[O WAI]](/about/) a [[Přispívání do WAI]](/get-involved/).
+-   Pro více informací o tom, jak W3C WAI vyvíjí materiály za pomoci několika zúčastněných stran, mezinárodní spolupráce a jak můžete přispět Vy, navštivte [[O WAI]](/about/) a [[Přispívání pro WAI]](/get-involved/).
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -203,7 +203,7 @@ Obrázky by měly obsahovat *[ekvivalentní textové alternativy](http://www.w3.
 
 Pokud není poskytnuta textová alternativa obrázku, obrázek není přístupný například pro lidi, kteří nevidí a používají odečítač obrazovky. Ten čte nahlas informace na stránce, včetně textových alternativ pro obrázky.
 
-Pokud je poskytnutá textová alternativa obrázku, informace je přístupná pro slepé osoby, stejně jako pro osoby, které vypnou zobrazení obrázků (například v oblastech s drahým nebo pomalým připojením). Informace je také dostupná pro technologie, které obrázky nevidí, jako třeba vyhledávače.
+Pokud je poskytnutá textová alternativa obrázku, informace je přístupná pro slepé osoby, stejně jako pro osoby, které mají vypnuté zobrazení obrázků (například v oblastech s drahým nebo pomalým připojením). Informace je také dostupná pro technologie, které obrázky nevidí, jako třeba vyhledávače.
 
 ### Přístupnost z klávesnice
 
@@ -233,6 +233,6 @@ Poskytnutí přepisu je jednoduché a relativně levné. Existují také [služb
 
 {% include excol.html type="end" %}
 
-## Pro více informací {#more-info}
+## Více informací {#more-info}
 
 W3C WAI poskytuje široké spektrum zdrojů o různých aspektech [standardů](/standards-guidelines/) webové přístupnosti, [vzdělávání](/teach-advocate/), [testování/hodnocení](/test-evaluate/), [řízení projektů a firemních postupech](/planning/). Doporučujeme prozkoumat tento web nebo prostudovat seznam [zdrojů WAI](/Resources/).
