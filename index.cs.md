@@ -45,7 +45,7 @@ Tvorba přístupného webu je prospěšná pro jednotlivce, podniky i společnos
 {:toc}
 
 <span class="box-h box-h-simple box-h-full">Související zdroje</span><br>
-{% include video-link.html title="Úvodní video pro webovou přístupnost a W3C standardy <em>(4 minuty)</em>" href="https://www.w3.org/WAI/videos/standards-and-benefits.html" src="/content-images/wai-intro-accessibility/video-still-accessibility-intro-16-9.jpg" %}
+{% include video-link.html title="Video úvod do webové přístupnosti a W3C standardů <em>(4 minuty)</em>" href="https://www.w3.org/WAI/videos/standards-and-benefits.html" src="/content-images/wai-intro-accessibility/video-still-accessibility-intro-16-9.jpg" %}
 
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
@@ -73,7 +73,7 @@ Webová přístupnost znamená, že webové stránky, nástroje a technologie js
 -   vnímat, rozumět, navigovat a interagovat s webem
 -   přispívat na web
 
-Webová přístupnost zahrnuje všechna postižení, která mají vliv na přístup k webu, včetně postiženích:
+Webová přístupnost zahrnuje všechna postižení, která mají vliv na přístup k webu, včetně postižení:
 
 -   sluchových
 -   kognitivních
@@ -97,7 +97,7 @@ Pro sedmiminutové video s příklady, jak je přístupnost nezbytná pro lidi s
 {% include box.html type="start" h="3" title="Více informací o tom, co je přístupnost" class="simple aside" %}
 {:/}
 
--   Pokud chcete zjistit více o tom, jak různá zdravotní postižení ovlivňují používání webu a přečíst si o příkladech lidí s postižením, jak používají web, navštivte [[Jak lidé s postižením používají web]](/people-use-web/).
+-   Pokud chcete zjistit více o tom, jak různá zdravotní postižení ovlivňují používání webu, navštivte [[Jak lidé s postižením používají web]](/people-use-web/).
 -   Pro více příkladů výhod pro ostatní, podložených WCAG, navštivte [[Sdílené zkušenosti na webu: Bariéry společné pro uživatele mobilních telefonů a osoby s postižením]](/standards-guidelines/shared-experiences/) a archivované [výhody webové přístupnost pro lidi s postižením i bez](https://www.w3.org/WAI/business-case/archive/soc#groups).
 
 {::nomarkdown}
@@ -174,7 +174,7 @@ Nejefektivnější je zařadit přístupnost hned od začátku projektu, aby neb
 	
 ## Hodnocení přístupnosti {#evaluate}
 
-Při vývoji nebo redesignu webové stránky, zhodnoťte přístupnost na začátku, a pak také během vývoje, abyste identifikovali problémy v přístupnosti co nejdříve, dokud je možné je snadněji opravit. Jednuduché kroky, jako třeba změna nastavení v prohlížeči, Vám může pomoci zhodnotit některé aspekty přístupnosti. Komplexní zhodnocení toho, zda Vaše webová stránka splňuje všechny pokyny pro přístupnost, vyžaduje více úsilí.
+Při vývoji nebo redesignu webové stránky zhodnoťte přístupnost na začátku, a pak také během vývoje, abyste identifikovali problémy v přístupnosti co nejdříve, dokud je možné je snadněji opravit. Jednuduché kroky, jako třeba změna nastavení v prohlížeči, Vám mohou pomoci zhodnotit některé aspekty přístupnosti. Komplexní zhodnocení toho, zda Vaše webová stránka splňuje všechny pokyny pro přístupnost, vyžaduje více úsilí.
 
 Existují nástroje, které pomáhají s hodnocením. Žádný nástroj však sám nemůže určit, zda stránka splňuje všechny pokyny pro přístupnost. K určení, zda je web skutečně přístupný, je třeba informované lidské zhodnocení.
 
@@ -201,7 +201,7 @@ Existují nástroje, které pomáhají s hodnocením. Žádný nástroj však s�
 
 Obrázky by měly obsahovat *[ekvivalentní textové alternativy](http://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv.html)* (alt text) v kódu.
 
-Pokud není poskytnuta textová alternativa obrázku, obrázek není přístupný například pro lidi, kteří nevidí a používají odečítač obrazovky. Ten čte nahlas informace na stránce, včetně textových alternativ pro obrázky.
+Pokud není poskytnuta textová alternativa obrázku, obrázek není přístupný například pro lidi, kteří nevidí a používají čtečku obrazovky. Ta čte nahlas informace na stránce, včetně textových alternativ pro obrázky.
 
 Pokud je poskytnutá textová alternativa obrázku, informace je přístupná pro slepé osoby, stejně jako pro osoby, které mají vypnuté zobrazení obrázků (například v oblastech s drahým nebo pomalým připojením). Informace je také dostupná pro technologie, které obrázky nevidí, jako třeba vyhledávače.
 
