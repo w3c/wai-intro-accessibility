@@ -5,8 +5,8 @@ lang: cs   # Change "en" to the translated language shortcode from https://www.i
 last_updated: 2020-08-26   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: #Add one -name: line for every translator
 - name: "Kristýna Švecová"
-# contributors: #Add one -name: line for every contributor
-# - name: "Contributor Name Here"
+contributors: #Add one -name: line for every contributor
+- name: "Jiří Zmrhal"
 permalink: /fundamentals/accessibility-intro/cs   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
 ref: /fundamentals/accessibility-intro/   # Do not change this
 layout: default
