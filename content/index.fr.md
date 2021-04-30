@@ -7,7 +7,7 @@ translators:
 - name: "Sylvie Duchateau"
 permalink: /fundamentals/accessibility-intro/fr
 ref: /fundamentals/accessibility-intro/
-changelog: /videos/standards-and-benefits/changelog/
+changelog: /fundamentals/accessibility-intro/changelog/
 layout: default
 github:
   repository: w3c/wai-intro-accessibility
