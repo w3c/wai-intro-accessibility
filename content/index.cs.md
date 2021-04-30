@@ -9,7 +9,7 @@ contributors: #Add one -name: line for every contributor
 - name: "Jiří Zmrhal"
 permalink: /fundamentals/accessibility-intro/cs   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
 ref: /fundamentals/accessibility-intro/   # Do not change this
-changelog: /videos/standards-and-benefits/changelog/
+changelog: /fundamentals/accessibility-intro/changelog/
 layout: default
 github:
   repository: w3c/wai-intro-accessibility
