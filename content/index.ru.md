@@ -10,13 +10,20 @@ translators:
 - name: "ИИТО ЮНЕСКО"
 permalink: /fundamentals/accessibility-intro/ru   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
 ref: /fundamentals/accessibility-intro/   # Do not change this
+changelog: /videos/standards-and-benefits/changelog/
 layout: default
 github:
   repository: w3c/wai-intro-accessibility
   branch: gh-pages
-  path: index.ru.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
-footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-  <p><strong>Дата:</strong> Обновлено 5 июня 2019 года. Первая публикация: февраль 2005 года.</p>
+  path: content/index.ru.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
+
+# In the footer below:
+# Do not translate or change CHANGELOG or ACKNOWLEDGEMENTS.
+# Translate the other words below, including "Date:" and "Editor:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
+# Do not change the dates in the footer below.
+footer: >
+  <p><strong>Дата:</strong> Обновлено 5 июня 2019 года. Первая публикация: февраль 2005 года. CHANGELOG.</p>
   <p><strong>Под редакцией:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p> Разработано при содействии Рабочей Группы по Образованию и Просвещению (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 # Read Translations Notes at https://github.com/w3c/wai-intro-accessibility/blob/gh-pages/README.md
