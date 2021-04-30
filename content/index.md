@@ -9,7 +9,7 @@ last_updated: 2019-07-11   # Put the date of this translation YYYY-MM-DD (with m
 # - name: "Contributor Name Here"
 permalink: /fundamentals/accessibility-intro/   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
 ref: /fundamentals/accessibility-intro/   # Do not change this
-changelog: /videos/standards-and-benefits/changelog/
+changelog: /fundamentals/accessibility-intro/changelog/
 layout: default
 github:
   repository: w3c/wai-intro-accessibility
