@@ -9,13 +9,20 @@ translators: #Add one -name: line for every translator
 
 permalink: /fundamentals/accessibility-intro/zh-hans   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
 ref: /fundamentals/accessibility-intro/   # Do not change this
+changelog: /videos/standards-and-benefits/changelog/
 layout: default
 github:
   repository: w3c/wai-intro-accessibility
   branch: gh-pages
-  path: index.zh-hans.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
-footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-  <p><strong>日期:</strong> 2019年6月5日更新. 第一版发布于2005年.</p>
+  path: contents/index.zh-hans.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
+  
+# In the footer below:
+# Do not translate or change CHANGELOG or ACKNOWLEDGEMENTS.
+# Translate the other words below, including "Date:" and "Editor:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
+# Do not change the dates in the footer below.  
+footer: >
+  <p><strong>日期:</strong> 2019年6月5日更新. 第一版发布于2005年. CHANGELOG.</p>
   <p><strong>编者:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>由教育及外展工作组 (<a href="http://www.w3.org/WAI/EO/">EOWG</a>)开发。</p>
 # 请阅读翻译指南 https://github.com/w3c/wai-intro-accessibility/blob/gh-pages/README.md
