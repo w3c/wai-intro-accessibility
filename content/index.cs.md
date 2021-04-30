@@ -9,13 +9,20 @@ contributors: #Add one -name: line for every contributor
 - name: "Jiří Zmrhal"
 permalink: /fundamentals/accessibility-intro/cs   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
 ref: /fundamentals/accessibility-intro/   # Do not change this
+changelog: /videos/standards-and-benefits/changelog/
 layout: default
 github:
   repository: w3c/wai-intro-accessibility
   branch: gh-pages
-  path: index.cs.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
+  path: content/index.cs.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
+
+# In the footer below:
+# Do not translate or change CHANGELOG or ACKNOWLEDGEMENTS.
+# Translate the other words below, including "Date:" and "Editor:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
+# Do not change the dates in the footer below.
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-  <p><strong>Datum:</strong> Aktualizováno 5. června 2019. Poprvé zveřejněno v únoru 2005.</p>
+  <p><strong>Datum:</strong> Aktualizováno 5. června 2019. Poprvé zveřejněno v únoru 2005. CHANGELOG.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Vyvinuto Pracovní skupinou pro vzdělání a osvětu (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 # Read Translations Notes at https://github.com/w3c/wai-intro-accessibility/blob/gh-pages/README.md
