@@ -9,13 +9,20 @@ translators: #Add one -name: line for every translator
 # - name: "Contributor Name Here"
 permalink: /fundamentals/accessibility-intro/ar   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/ar
 ref: /fundamentals/accessibility-intro/   # Do not change this
+changelog: /videos/standards-and-benefits/changelog/
 layout: default
 github:
   repository: w3c/wai-intro-accessibility
   branch: gh-pages
-  path: index.ar.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
+  path: content/index.ar.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
+
+# In the footer below:
+# Do not translate or change CHANGELOG or ACKNOWLEDGEMENTS.
+# Translate the other words below, including "Date:" and "Editor:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
+# Do not change the dates in the footer below.
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-  <p><strong>تاريخ:</strong>تحديث 5 يونيو 2019.  أول نشر في فبراير 2005.</p>
+  <p><strong>تاريخ:</strong>تحديث 5 يونيو 2019.  أول نشر في فبراير 2005. CHANGELOG.</p>
   <p><strong>النشر:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>تم التطوير من قبل مجموعة عمل التعليم والتوعية(<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 # Read Translations Notes at https://github.com/w3c/wai-intro-accessibility/blob/gh-pages/README.md
