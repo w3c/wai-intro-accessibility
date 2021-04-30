@@ -7,13 +7,20 @@ translators:
 - name: "Sylvie Duchateau"
 permalink: /fundamentals/accessibility-intro/fr
 ref: /fundamentals/accessibility-intro/
+changelog: /videos/standards-and-benefits/changelog/
 layout: default
 github:
   repository: w3c/wai-intro-accessibility
   branch: gh-pages
-  path: index.fr.md
-footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-  <p><strong>Date :</strong> mise à jour 5 juin 2019. Première publication février 2005.</p>
+  path: content/index.fr.md
+
+# In the footer below:
+# Do not translate or change CHANGELOG or ACKNOWLEDGEMENTS.
+# Translate the other words below, including "Date:" and "Editor:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
+# Do not change the dates in the footer below.
+footer: >
+  <p><strong>Date :</strong> mise à jour 5 juin 2019. Première publication février 2005. CHANGELOG.</p>
   <p><strong>Auteur :</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Réalisé par le groupe de travail <span lang="en">Education and Outreach Working Group</span> (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 # end of translation instructions
