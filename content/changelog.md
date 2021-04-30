@@ -1,6 +1,6 @@
 ---
 title: "Changelog for Introduction to Web Accessibility"
-title_html: "Changelog for <a href='/fundamentals/accessibility-intro/'>Introduction to Web Accessibility</a>"
+title_html: "Changelog for <a href='/WAI/fundamentals/accessibility-intro/'>Introduction to Web Accessibility</a>"
 nav_title: "Changelog"
 github:
   repository: w3c/wai-intro-accessibility
