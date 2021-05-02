@@ -13,7 +13,15 @@ footer: >
 
 ---
 
-## 00 Month 0000 – 00 Month 0000
 
-* changes coming soon…
+_This changelog includes some Markdown and HTML syntax to facilitate updating translations._
 
+##  29 April 2021
+* "changelog: /videos/standards-and-benefits/changelog/" to "changelog: /fundamentals/accessibility-intro/changelog/"
+
+## 28 April 2021
+* "last_updated: 2019-06-05" to "last_updated: 2019-07-11"
+* "Updated 5 June 2019. First published February 2005." to "Updated 11 July 2019. First published February 2005."
+
+## 31 August 2020
+* 'name: "Contributor Name Here"' to 'name: "Jiří Zmrhal"'
