@@ -12,8 +12,25 @@ footer: >
    <p>Thanks to Tolu Adegbite for updating this changelog in April 2021.</p>
 
 ---
+## 28 April 2021
+* Date changed to:
+```
+last_updated: 2019-07-11
+```
 
-## 00 Month 0000 – 00 Month 0000
+# 31 August 2020
+* Contributor name changed to:
+```
+contributors: #Add one -name: line for every contributor
+- name: "Jiří Zmrhal"
+```
 
-* changes coming soon…
-
+## 16 July 2019
+* Alt text information changed to:
+```
+![Imagen de logotipo; Marcado HTML img alt='Web Accessibility Initiative logo'](https://www.w3.org/WAI/intro/alt-logo.png){:.right}
+```
+* Keyboard input text changed to:
+```
+![Ratón tachado con una cruz](https://www.w3.org/WAI/intro/no-mouse.png){:.left width="67" height="45"}
+```
