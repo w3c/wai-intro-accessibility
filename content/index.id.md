@@ -68,7 +68,7 @@ Web yang aksesibel akan memberikan manfaat bagi individu, bisnis, dan masyarakat
 
 Secara fundamental, web didesain untuk bisa digunakan oleh semua orang, terlepas dari perangkat keras, perangkat lunak, bahasa, lokasi, atau pun kemampuan mereka. Ketika Web memenuhi targetnya, Web akan bisa diakses oleh orang-orang dengan kemampuan mendengar, bergerak, melihat, dan kognitif yang berbeda.
 
-Itulah mengapa dampak dari disabilitas berubah drastis pada Web, karena Web menghilangkan hambatan dalam berkomunikasi dan berinteraksi yang banyak dialami orang di dunia fisikal. Namun, ketika situs, aplikasi, teknologi, mau pun sarana web didesain dengan buruk, akan tercipta hambatan yang dapat menutup akses beberapa orang dalam menggunakan Web.
+Itulah mengapa dampak dari disabilitas berubah drastis pada Web, karena Web menghilangkan hambatan dalam berkomunikasi dan berinteraksi yang banyak dialami orang di dunia fisik. Namun, ketika situs, aplikasi, teknologi, mau pun sarana web didesain dengan buruk, akan tercipta hambatan yang dapat menutup akses beberapa orang dalam menggunakan Web.
 
 **Aksesibilitas esensial bagi developer dan organisasi yang ingin menciptakan situs dan sarana web berkualitas tinggi, tanpa menutup akses seseorang dari menggunakan produk dan jasanya.** 
 
@@ -84,7 +84,7 @@ Aksesibilitas web mencakup semua disabilitas yang memengaruhi akses ke Web, term
 -   pendengaran
 -   kognitif
 -   neurologi
--   fisikal
+-   fisik
 -   bicara
 -   penglihatan
 
