@@ -2,7 +2,7 @@
 # Translation instructions are after the "#" character in this first section. (They are comments that do not show up in the web page.)
 title: Introducción a la Accesibilidad Web   # Do not translate "title:". Do translate the text after "title:".
 lang: es   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2019-06-26   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2019-07-11   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 translators:
 - name: "Jorge Rumoroso"
@@ -25,7 +25,7 @@ github:
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-  <p><strong>Fecha:</strong> Actualizado a 5 June 2019. Primera publicación en Febrero 2005. CHANGELOG.</p>
+  <p><strong>Fecha:</strong> Actualizado a 11 July 2019. Primera publicación en Febrero 2005. CHANGELOG.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Desarrollado por Grupo de Trabajo de Educación y Divulgación (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 # Read Translations Notes at https://github.com/w3c/wai-intro-accessibility/blob/gh-pages/README.md
@@ -45,19 +45,14 @@ Hacer la web accesible beneficia tanto a las personas, como a las empresas y a l
 {% include box.html type="end" %}
 {:/}
 
+{::options toc_levels="2" /}
+
 {::nomarkdown}
 {% include_cached toc.html type="start" title="Contenido de la Página" class="full" %}
 {:/}
 
-<ul>
-<li><a href="#context">Accesibilidad en contexto</a></li>
-<li><a href="#what">Qué es la Accesibilidad Web</a></li>
-<li><a href="#important">La Accesibilidad es importante para las personas, empresas y sociedad</a></li>
-<li><a href="#making">Hacer la Web accesible</a></li>
-<li><a href="#evaluate">Evaluar la Accesibilidad</a></li>
-<li><a href="#examples">Ejemplos</a></li>
-<li><a href="#more-info">Más información</a></li>
-</ul>
+-   TOC is created automatically.
+{:toc}
 
 <span class="box-h box-h-simple box-h-full">Recursos relacionados</span><br>
 {% include video-link.html title="Video Introducción a la Accesibilidad Web y Estándares W3C <em>(4 minutos)</em>" href="https://www.w3.org/WAI/videos/standards-and-benefits.html" src="/content-images/wai-intro-accessibility/video-still-accessibility-intro-16-9.jpg" %}

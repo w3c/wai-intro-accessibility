@@ -12,10 +12,10 @@ github:
    path: content/changelog.md
 
 feedbackmail: wai@w3.org
-footer: >
-   <p>Thanks to Tolu Adegbite for updating this changelog in May 2021.</p>
+
 ---
 
-## 00 Month 0000 – 00 Month 0000
+## 2021-05May-07
 
-* changes coming soon…
+* In ["What is Web Accessibility" section](https://www.w3.org/WAI/fundamentals/accessibility-intro/#what), in "More Info on What is Accessibility" box, changed: <blockquote> If you want more examples of benefits for others, with WCAG to back it up, see</blockquote> to: <blockquote> If you want more examples of benefits for others, with WCAG to support them, see </blockquote> **Note:** Did not change the last updated date (so that existing translations would not be shown as out of date), because this was a minor clarification edit (that some translaions already addressed).
+* minor updates to Spanish translation
