@@ -3,9 +3,9 @@
 title: 웹 접근성 소개   # Do not translate "title:". Do translate the text after "title:".
 lang: ko   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2021-05-16   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-# translators: #Add one -name: line for every translator
+translators: #Add one -name: line for every translator
 - name: "YongUi Leee"
-# contributors: #Add one -name: line for every contributor
+contributors: #Add one -name: line for every contributor
 - name: "JunHo Lee"
 permalink: /fundamentals/accessibility-intro/ko   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
 ref: /fundamentals/accessibility-intro/   # Do not change this
