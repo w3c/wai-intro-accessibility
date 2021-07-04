@@ -14,7 +14,7 @@ layout: default
 github:
   repository: w3c/wai-intro-accessibility
   branch: gh-pages
-  path: contents/index.zh-hans.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
+  path: content/index.zh-hans.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
   
 # In the footer below:
 # Do not translate or change CHANGELOG or ACKNOWLEDGEMENTS.
