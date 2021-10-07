@@ -24,7 +24,7 @@ feedbackmail: wai@w3.org
   * Added "multimedia [Used by People With and Without Disabilities](/media/av/users-orgs/#situations)"
   * Content after update: ```If you want more examples of benefits for others, see the mobile resource [[Shared Web Experiences: Barriers Common to Mobile Device Users and People with Disabilities]](/standards-guidelines/shared-experiences/), multimedia [Used by People With and Without Disabilities](/media/av/users-orgs/#situations), and the archived [Web Accessibility Benefits People With and Without Disabilities](https://www.w3.org/WAI/business-case/archive/soc#groups).```
 * In ["Accessibility is important for..." section](https://www.w3.org/WAI/fundamentals/accessibility-intro/#Important), in "More Info on Accessibility is Important" box:
-  * Added middle bullet: ```Examples of the benefits of [making audio and video media accessible](/media/av/) is in the section [Benefits to Organizations](/media/av/users-orgs/#benefits).```
+  * Added sub-bullet: ```Examples of the benefits of [making audio and video media accessible](/media/av/) is in the section [Benefits to Organizations](/media/av/users-orgs/#benefits).```
 
 ## 2021-05May-07
 
