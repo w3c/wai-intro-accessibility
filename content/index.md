@@ -132,7 +132,7 @@ Web accessibility is **required by law** in many situations.
 {:/}
 
 -   General information on business benefits is in [[The Business Case for Digital Accessibility]](/business-case/).
--   Examples of the benefits of [making audio and video media accessible](/media/av/) is in the section [Benefits to Organizations](/media/av/users-orgs/#benefits).
+    -   Examples of the benefits of [making audio and video media accessible](/media/av/) is in the section [Benefits to Organizations](/media/av/users-orgs/#benefits).
 -   Guidance on figuring out legal requirements is in the archived [Legal and Policy Factors](https://www.w3.org/WAI/business-case/archive/pol).
 
 {::nomarkdown}
