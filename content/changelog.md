@@ -15,8 +15,13 @@ feedbackmail: wai@w3.org
 
 ---
 
-## 2021-10Oct-06
+## 2022-03Mar-31
 
+At end, added:
+```**[Digital Accessibility Foundations - Free Online Course](https://www.w3.org/WAI/fundamentals/foundations-course/)** provides the foundation you need to make your digital technology accessible.
+```
+
+## 2021-10Oct-06
 
 * In ["What is Web Accessibility" section](https://www.w3.org/WAI/fundamentals/accessibility-intro/#what), in "More Info on What is Accessibility" box:
   * Deleted ", with WCAG to support them,"
