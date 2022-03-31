@@ -2,7 +2,7 @@
 # Translation instructions are after the "#" character in this first section. (They are comments that do not show up in the web page.)
 title: Introduction to Web Accessibility   # Do not translate "title:". Do translate the text after "title:".
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2021-10-06   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2022-03-31   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 # translators: #Add one -name: line for every translator
 # - name: "Translator Name Here"
 # contributors: #Add one -name: line for every contributor
@@ -22,7 +22,7 @@ github:
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-  <p><strong>Date:</strong> Updated 6 October 2021. First published February 2005. CHANGELOG.</p>
+  <p><strong>Date:</strong> Updated 31 March 2022. First published February 2005. CHANGELOG.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 # Read Translations Notes at https://github.com/w3c/wai-intro-accessibility/blob/gh-pages/README.md
@@ -244,3 +244,5 @@ It's easy and relatively inexpensive for websites to provide transcripts. There 
 ## For More Information {#more-info}
 
 W3C WAI provides a wide range of resources on different aspects of web accessibility [standards](/standards-guidelines/), [education](/teach-advocate/), [testing/evaluation](/test-evaluate/), [project management, and policy](/planning/). We encourage you to explore this website, or look through the [WAI Resources](/Resources/) list.
+
+**[Digital Accessibility Foundations - Free Online Course](https://www.w3.org/WAI/fundamentals/foundations-course/)** provides the foundation you need to make your digital technology accessible.
