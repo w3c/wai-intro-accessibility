@@ -9,6 +9,7 @@ permalink: /fundamentals/accessibility-intro/changelog/
 ref: /fundamentals/accessibility-intro/changelog/
 github:
    repository: w3c/wai-intro-accessibility
+   branch: gh-pages
    path: content/changelog.md
 
 feedbackmail: wai@w3.org
