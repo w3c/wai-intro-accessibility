@@ -1,34 +1,38 @@
 ---
-# Translation instructions are after the "#" character in this first section. (They are comments that do not show up in the web page.)
-title: Introduction to Web Accessibility   # Do not translate "title:". Do translate the text after "title:".
-lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2022-03-31   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-# translators: #Add one -name: line for every translator
-# - name: "Translator Name Here"
-# contributors: #Add one -name: line for every contributor
-# - name: "Contributor Name Here"
-permalink: /fundamentals/accessibility-intro/   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
-ref: /fundamentals/accessibility-intro/   # Do not change this
-changelog: /fundamentals/accessibility-intro/changelog/
-layout: default
+# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
+# In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
+title: Introduction to Web Accessibility
+lang: en   # Change "en" to the translated-language shortcode
+last_updated: 2023-11-20   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+
+# translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
+# - name: "Jan Doe"   # Replace Jan Doe with translator name
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple translators
+# contributors:
+# - name: "Jan Doe"   # Replace Jan Doe with contributor name, or delete this line if none
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple contributors
+
 github:
-  repository: w3c/wai-intro-accessibility
-  branch: gh-pages
-  path: content/index.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
+    repository: w3c/wai-intro-accessibility
+    branch: gh-pages
+    path: content/index.md   # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
+
+permalink: /fundamentals/accessibility-intro/   # Add the language shortcode to the end, with no slash at the end. For example /path/to/file/fr
+ref: /fundamentals/accessibility-intro/     # Do not change this
+
+changelog: /fundamentals/accessibility-intro/changelog/ # Do not change this
+layout: default
   
 # In the footer below:
-# Do not translate or change CHANGELOG or ACKNOWLEDGEMENTS.
-# Translate the other words below, including "Date:" and "Editor:"
+# Do not change the dates
+# Do not translate CHANGELOG
+# Translate the other words, including "Date:" and "Editor:"
 # Translate the Working Group name. Leave the Working Group acronym in English.
-# Do not change the dates in the footer below.
 footer: >
-  <p><strong>Date:</strong> Updated 31 March 2022. First published February 2005. CHANGELOG.</p>
+  <p><strong>Date:</strong> Updated 20 November 2023. First published February 2005. CHANGELOG.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
-# Read Translations Notes at https://github.com/w3c/wai-intro-accessibility/blob/gh-pages/README.md
-# end of translation instructions
 ---
-
 
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
@@ -52,7 +56,7 @@ Making the web accessible benefits individuals, businesses, and society. Interna
 {:toc}
 
 <span class="box-h box-h-simple box-h-full">Related Resource</span><br>
-{% include video-link.html title="Video Introduction to Web Accessibility and W3C Standards <em>(4 minutes)</em>" href="https://www.w3.org/WAI/videos/standards-and-benefits.html" src="/content-images/wai-intro-accessibility/video-still-accessibility-intro-16-9.jpg" %}
+{% include video-link.html title="Video Introduction to Web Accessibility and W3C Standards <em>(4 minutes)</em>" href="https://www.w3.org/WAI/videos/standards-and-benefits/" src="/content-images/wai-intro-accessibility/video-still-accessibility-intro-16-9.jpg" %}
 
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
@@ -143,7 +147,7 @@ Web accessibility is **required by law** in many situations.
 
 Web accessibility depends on several components working together, including web technologies, web browsers and other \"user agents\", authoring tools, and websites.
 
-The W3C Web Accessibility Initiative ([WAI](/get-involved/)) develops technical specifications, guidelines, techniques, and supporting resources that describe accessibility solutions. These are considered international standards for web accessibility; for example, <abbr title="Web Content Accessibility Guidelines (WCAG)">WCAG</abbr> 2.0 is also an <abbr title="International Organization for Standardization">ISO</abbr> standard: ISO/<abbr title="International Electrotechnical Commission">IEC</abbr> 40500.
+The W3C Web Accessibility Initiative ([WAI](/about/participating/)) develops technical specifications, guidelines, techniques, and supporting resources that describe accessibility solutions. These are considered international standards for web accessibility; for example, <abbr title="Web Content Accessibility Guidelines (WCAG)">WCAG</abbr> 2.0 is also an <abbr title="International Organization for Standardization">ISO</abbr> standard: ISO/<abbr title="International Electrotechnical Commission">IEC</abbr> 40500.
 
 {::nomarkdown}
 {% include box.html type="start" h="3" title="More Info on Making the Web Accessible" class="simple aside" %}
@@ -151,7 +155,7 @@ The W3C Web Accessibility Initiative ([WAI](/get-involved/)) develops technical 
 
 -   More about these aspects of accessibility working together is in [[Essential Components of Web Accessibility]](/fundamentals/components/).
 -   Web Content Accessibility Guidelines (WCAG), Authoring Tool Accessibility Guidelines (ATAG), ARIA for Accessible Rich Internet Applications, and other important resources are introduced in [[W3C Accessibility Standards Overview]](/standards-guidelines/).
--   To learn more about how W3C WAI develops material through multi-stakeholder, international participation and how you can contribute, see [[About WAI]](/about/) and [[Participating in WAI]](/get-involved/).
+-   To learn more about how W3C WAI develops material through multi-stakeholder, international participation and how you can contribute, see [[About WAI]](/about/) and [[Participating in WAI]](/about/participating/).
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -171,8 +175,8 @@ It is most efficient and effective to incorporate accessibility from the very be
 -   To understand some common accessibility barriers from the perspective of testing, see [[Easy Checks - A First Review]](/test-evaluate/preliminary/).
 -   For some basic considerations on designing, writing, and developing for accessibility, see [[Tips for Getting Started]](/tips/).
 -   When you're ready to know more about developing and designing, you'll probably use resources such as:
-    -   [How to Meet WCAG (Quick Reference)](http://www.w3.org/WAI/WCAG21/quickref/)
-    -   [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
+    -   [How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG22/quickref/)
+    -   [Web Accessibility Tutorials](/tutorials/)
 -   For project management and organizational considerations, see [[Planning and Managing Web Accessibility]](/planning-and-managing/).<br>
     If you need to make quick fixes now, see [[Approaches for Interim Repairs]](/planning/interim-repairs/).
 
@@ -207,7 +211,7 @@ There are evaluation tools that help with evaluation. However, no tool alone can
 
 ![image of logo; HTML markup img alt='Web Accessibility Initiative logo'](https://www.w3.org/WAI/intro/alt-logo.png){:.right}
 
-Images should include *[equivalent alternative text](http://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv.html)* (alt text) in the markup/code.
+Images should include *[equivalent alternative text](https://www.w3.org/WAI/WCAG22/Understanding/text-alternatives)* (alt text) in the markup/code.
 
 If alt text isn't provided for images, the image information is inaccessible, for example, to people who cannot see and use a screen reader that reads aloud the information on a page, including the alt text for the visual image.
 
@@ -217,7 +221,7 @@ When equivalent alt text is provided, the information is available to people who
 
 ![mouse crossed out](https://www.w3.org/WAI/intro/no-mouse.png){:.left width="67" height="45"}
 
-Some people cannot use a mouse, including many older users with limited fine motor control. An accessible website does not rely on the mouse; it makes [all functionality available from a keyboard](http://www.w3.org/TR/UNDERSTANDING-WCAG20/keyboard-operation.html). Then people with disabilities can use [assistive technologies](/planning/involving-users/#at) that mimic the keyboard, such as speech input.
+Some people cannot use a mouse, including many older users with limited fine motor control. An accessible website does not rely on the mouse; it makes [all functionality available from a keyboard](https://www.w3.org/WAI/WCAG22/Understanding/keyboard-accessible). Then people with disabilities can use [assistive technologies](/planning/involving-users/#at) that mimic the keyboard, such as speech input.
 
 ### Transcripts for Audio
 
@@ -243,6 +247,6 @@ It's easy and relatively inexpensive for websites to provide transcripts. There 
 
 ## For More Information {#more-info}
 
-W3C WAI provides a wide range of resources on different aspects of web accessibility [standards](/standards-guidelines/), [education](/teach-advocate/), [testing/evaluation](/test-evaluate/), [project management, and policy](/planning/). We encourage you to explore this website, or look through the [WAI Resources](/Resources/) list.
+W3C WAI provides a wide range of resources on different aspects of web accessibility [standards](/standards-guidelines/), [education](/teach-advocate/), [testing/evaluation](/test-evaluate/), [project management, and policy](/planning/). We encourage you to explore this website, or look through the [WAI Resources](/resources/) list.
 
-**[Digital Accessibility Foundations - Free Online Course](https://www.w3.org/WAI/fundamentals/foundations-course/)** provides the foundation you need to make your digital technology accessible.
+**[[Digital Accessibility Foundations - Free Online Course]](/courses/foundations-course/)** provides the foundation you need to make your digital technology accessible.
