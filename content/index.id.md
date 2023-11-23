@@ -149,7 +149,7 @@ Inisiatif Aksesibilitas Web ([WAI](/about/participating/)) W3C mengembangkan spe
 {:/}
 
 - Lebih lanjut mengenai kerja sama dari aspek-aspek aksesibilitas ada di [[Komponen Esensial dari Aksesibilitas Web]](/fundamentals/components/).
-- Panduan Aksesibilitas Konten Web (WCAG), Panduan Aksesibilitas Sarana Penulisan (ATAG), Aplikasi Internet yang Kaya dan Aksesibel (ARIA), dan sumber informasi penting lainnya diperkenalkan di [[Gambaran Umum Standar Aksesibilitas W3C]](/standards-guidelines/).
+- Pedoman Aksesibilitas Konten Web (WCAG), Pedoman Aksesibilitas Sarana Penulisan (ATAG), Aplikasi Internet yang Kaya dan Aksesibel (ARIA), dan sumber informasi penting lainnya diperkenalkan di [[Gambaran Umum Standar Aksesibilitas W3C]](/standards-guidelines/).
 - Untuk mempelajari lebih lanjut mengenai bagaimana WAI W3C mengembangkan materi melalui berbagai pemangku kepentingan, partisipasi internasional, dan bagaimana Anda bisa berkontribusi, lihat [[Tentang WAI]](/about/) dan [[Berpartisipasi di WAI]](/about/participating/).
 
 {::nomarkdown}
