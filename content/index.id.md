@@ -1,6 +1,6 @@
 ---
 # Translation instructions are after the "#" character in this first section. (They are comments that do not show up in the web page.)
-title: Pengantar Aksesibilitas Web   # Do not translate "title:". Do translate the text after "title:".
+title: Pengenalan ke Aksesibilitas Web   # Do not translate "title:". Do translate the text after "title:".
 lang: id  # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2023-11-23   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: #Add one -name: line for every translator
@@ -52,7 +52,7 @@ Membuat Web yang aksesibel akan memberikan manfaat bagi individu, bisnis, dan ma
 {:toc}
 
 <span class="box-h box-h-simple box-h-full">Sumber Informasi Terkait</span><br>
-{% include video-link.html title="Video Pengantar Aksesibilitas Web dan Standar W3C <em>(4 menit)</em>" href="https://www.w3.org/WAI/videos/standards-and-benefits/" src="/content-images/wai-intro-accessibility/video-still-accessibility-intro-16-9.jpg" %}
+{% include video-link.html title="Video Pengenalan ke Aksesibilitas Web dan Standar W3C <em>(4 menit)</em>" href="https://www.w3.org/WAI/videos/standards-and-benefits/" src="/content-images/wai-intro-accessibility/video-still-accessibility-intro-16-9.jpg" %}
 
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
@@ -103,7 +103,7 @@ Untuk video 7 menit dengan contoh bagaimana pentingnya aksesibilitas bagi penyan
 {% include box.html type="start" h="3" title="Info Lebih Lanjut Mengenai Apa Itu Aksesibilitas" class="simple aside" %}
 {:/}
 
--   Jika kamu ingin belajar lebih lanjut mengenai bagaimana disabilitas memengaruhi penggunaan Web, dan membaca kisah tentang penyandang disabilitas saat menggunakan Web, lihat [[Cara Penyandang Disabilitas Menggunakan Web]](/people-use-web/).
+-   Jika kamu ingin belajar lebih lanjut mengenai bagaimana disabilitas memengaruhi penggunaan Web, dan membaca kisah tentang penyandang disabilitas saat menggunakan Web, lihat [[Bagaimana Penyandang Disabilitas Menggunakan Web]](/people-use-web/).
 -   Jika Anda ingin melihat lebih banyak contoh tentang manfaatnya bagi orang lain, terkait perangkat seluler lihat [[Berbagi Pengalaman Web: Hambatan yang Umum bagi Pengguna Perangkat Seluler dan Penyandang Disabilitas]](/standards-guidelines/shared-experiences/), multimedia [Digunakan oleh Penyandang dan Bukan Penyandang Disabilitas](/media/av/users-orgs/#situations) dan arsip [Aksesibilitas Web Menguntungkan Penyandang dan Bukan Penyandang Disabilitas](https://www.w3.org/WAI/business-case/archive/soc#groups).
 
 {::nomarkdown}
