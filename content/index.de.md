@@ -49,7 +49,7 @@ Das Web barrierefrei zu machen dient Einzelnen, Unternehmen sowie der Gesellscha
 {:toc}
 
 <span class="box-h box-h-simple box-h-full">Verwandte Quelle</span><br>
-{% include video-link.html title="Videoeinführung in das barrierefreie Web und W3C-Standards<em>(4 Minuten)</em>" href="https://www.w3.org/WAI/videos/standards-and-benefits/" src="/content-images/wai-intro-accessibility/video-still-accessibility-intro-16-9.jpg" %}
+{% include video-link.html title="Videoeinführung in das barrierefreie Web und W3C-Standards <em>(4 Minuten)</em>" href="https://www.w3.org/WAI/videos/standards-and-benefits/" src="/content-images/wai-intro-accessibility/video-still-accessibility-intro-16-9.jpg" %}
 
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
@@ -89,7 +89,7 @@ Barrierefreies Web schließt alle Behinderungen ein, die den Zugang zum Web beei
 Ein barrierefreies Web dient auch Menschen *ohne* Behinderungen, beispielsweise:
 
 - Menschen, die Handys, Smart Watches, Smart TVs oder andere Geräte mit kleinen Bildschirmen, unterschiedlichen Eingabemethoden, etc. nutzen
-- ältere Menschen mit altersbedingt ändernden Fähigkeiten
+- älteren Menschen mit altersbedingt ändernden Fähigkeiten
 - Menschen mit "vorübergehenden Behinderungen", etwa einem gebrochenen Arm oder verlorenen Brillen
 - Menschen mit "situationsbedingten Einschränkungen", wie etwa im hellen Sonnenlicht oder in Umgebungen, in denen sie keine Audioinhalte hören können
 - Menschen, die eine langsame Internetverbindung nutzen oder die beschränkte oder teuere Bandbreite haben
@@ -98,7 +98,7 @@ Im nachfolgenden 7-minütigen Video sehen Sie Beispiele, die zeigen, inwiefern B
 {% include video-link.html title="Video zu Perspektiven auf barrierefreies Web <em>(YouTube)</em>" href="https://www.youtube.com/watch?v=3f31oufqFSM" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %}
 
 {::nomarkdown}
-{% include box.html type="start" h="3" title="Weitere Infos über barrierefreies Web" class="simple aside" %}
+{% include box.html type="start" h="3" title="Weitere Infos zum barrierefreien Web" class="simple aside" %}
 {:/}
 
 - Wenn sie mehr darüber lernen wollen, wie verschiedene Behinderungen die Nutzung des Webs beeinflussen und Beispiele sehen wollen, wie Menschen mit Behinderung das Web nutzen, lesen Sie [[Wie Menschen mit Behinderung das Web nutzen]](/people-use-web/).
@@ -112,11 +112,11 @@ Im nachfolgenden 7-minütigen Video sehen Sie Beispiele, die zeigen, inwiefern B
 
 Das Web ist eine zunehmend wichtige Ressource in vielen Bereichen des Lebens: Bildung, Beschäftigung, Regierung, Handel, Gesundheitsversorgung, Freizeit und mehr. Ein barrierefreies Web ist essenziell, um Menschen mit verschiedenen Fähigkeiten gleichen Zugang und gleiche Chancen zu bieten. Der Zugang zu Kommunikationstechnologien, einschließlich des Webs, wurde im Übereinkommen über die Rechte von Menschen mit Behinderungen (UN [CRPD](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html)) als grundlegendes Menschenrecht festgelegt.
 
-Das Web bietet ein noch nie dagewesene Möglichkeit für Zugang zu Informationen und Interaktion für Menschen mit Behinderungen. In dem Sinne, dass Barrieren von Print-, Audio- und Videomedien viel einfacher mittels Webtechnologien beseitigt werden können.
+Das Web bietet eine noch nie dagewesene Möglichkeit für Zugang zu Informationen und Interaktion für Menschen mit Behinderungen. In dem Sinne, dass Barrieren von Print-, Audio- und Videomedien viel einfacher mittels Webtechnologien beseitigt werden können.
 
 Barrierefreiheit unterstützt die soziale Inklusion von Menschen mit Behinderungen und anderen, darunter:
 
-- ältere Menschen
+- älteren Menschen
 - Menschen in ländlichen Gegenden
 - Menschen in Entwicklungsländern
 
@@ -156,7 +156,7 @@ Die W3C Initiative für barrierefreies Web, Web Accessibility Initiative ([WAI](
 
 ### Ihre Webseite barrierefrei gestalten {#website}
 
-Viele Aspekte von Barrierefreiheit sind ziemlich einfach zu verstehen und implementieren. Manche Lösungen für Barrierefreiheit sind eher komplex und benötigen mehr Kenntnisse für die Umsetzung.
+Viele Aspekte von Barrierefreiheit sind ziemlich einfach zu verstehen und zu implementieren. Manche Lösungen für Barrierefreiheit sind eher komplex und benötigen mehr Kenntnisse für die Umsetzung.
 
 Am effizientesten und effektivsten ist es, Barrierefreiheit von Anfang an in das Projekt einzubeziehen, damit Sie nicht zurückgehen und Arbeit aufs Neue machen müssen.
 
@@ -214,7 +214,7 @@ Wenn äquivalente alternative Texte angegeben werden, ist die Information für M
 
 ![durchgestrichene Maus](https://www.w3.org/WAI/intro/no-mouse.png){:.left width="67" height="45"}
 
-Manche Menschen können keine Maus benutzen, so wie einige ältere Menschen mit eingeschränkter motorischer Kontrolle. Eine barrierefreie Webseite ist nicht auf eine Maus angewiesen; sie stellt [sämtliche Funktionalität über die Tastatur zur Verfügung](https://www.w3.org/WAI/WCAG22/Understanding/keyboard-accessible). Dann können Menschen mit Behinderungen [Hilfstechnologien](/planning/involving-users/#at) nutzen, die die Tastatur imitieren, etwa Spracheingabe.
+Manche Menschen können keine Maus benutzen, beispielsweise manche ältere Menschen mit eingeschränkter motorischer Kontrolle. Eine barrierefreie Webseite ist nicht auf eine Maus angewiesen; sie stellt [sämtliche Funktionalität über die Tastatur zur Verfügung](https://www.w3.org/WAI/WCAG22/Understanding/keyboard-accessible). Dann können Menschen mit Behinderungen [Hilfstechnologien](/planning/involving-users/#at) nutzen, die die Tastatur imitieren, etwa Spracheingabe.
 
 ### Transkription von Audio
 
