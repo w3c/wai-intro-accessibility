@@ -1,31 +1,36 @@
 ---
-# Translation instructions are after the "#" character in this first section. (They are comments that do not show up in the web page.)
-title: Introduction à l'accessibilité du web # Do not translate "title:". Do translate the text after "title:".
+# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
+# In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
+title: Introduction à l'accessibilité du web
 lang: fr
-last_updated: 2019-07-15   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2023-11-28    # Put the date of this translation YYYY-MM-DD (with month in the middle)
+
 translators:
-- name: "Sylvie Duchateau"
-permalink: /fundamentals/accessibility-intro/fr
-ref: /fundamentals/accessibility-intro/
-changelog: /fundamentals/accessibility-intro/changelog/
-layout: default
+    - name: "Sylvie Duchateau"
+contributors:
+    - name: "Rémi Bétin"
+
 github:
-  repository: w3c/wai-intro-accessibility
-  branch: gh-pages
-  path: content/index.fr.md
+    repository: w3c/wai-intro-accessibility
+    branch: gh-pages
+    path: content/index.fr.md
+
+permalink: /fundamentals/accessibility-intro/fr
+ref: /fundamentals/accessibility-intro/ # Do not change this
+
+changelog: /fundamentals/accessibility-intro/changelog/ # Do not change this
+layout: default
 
 # In the footer below:
-# Do not translate or change CHANGELOG or ACKNOWLEDGEMENTS.
-# Translate the other words below, including "Date:" and "Editor:"
+# Do not change the dates
+# Do not translate CHANGELOG
+# Translate the other words, including "Date:" and "Editor:"
 # Translate the Working Group name. Leave the Working Group acronym in English.
-# Do not change the dates in the footer below.
 footer: >
-  <p><strong>Date :</strong> mise à jour 5 juin 2019. Première publication février 2005. CHANGELOG.</p>
-  <p><strong>Auteur :</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
-  <p>Réalisé par le groupe de travail <span lang="en">Education and Outreach Working Group</span> (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
-# end of translation instructions
+  <p><strong>Date&nbsp;:</strong> mise à jour 20 novembre 2023. Première publication en février 2005. CHANGELOG.</p>
+  <p><strong>Rédaction&nbsp;:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
+  <p>Réalisé par le groupe de travail Éducation et Promotion (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
-
 
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Résumé" class="full" %}
@@ -106,7 +111,7 @@ Voir une vidéo de 7 minutes qui contient des exemples montrant comment l'access
 {:/}
 
 -   Pour en savoir plus sur la façon dont différents handicaps impactent l'utilisation du web et découvrir les scénarios de personnes handicapées utilisant le web, voir la ressource [[Comment les personnes handicapées utilisent le web]](/people-use-web/).
--   Pour plus d'exemples sur les avantages pour d'autres personnes, supportés par les WCAG, voir  [[expériences du web partagées : les barrières communes aux personnes utilisant des appareils mobiles et aux personnes handicapées]](/standards-guidelines/shared-experiences/) et la ressource archivée [l'accessibilité du web bénéficie aux personnes avec et sans handicap](https://www.w3.org/WAI/business-case/archive/soc#groups).
+-   Pour plus d'exemples sur les avantages pour d'autres personnes, voir [[Expériences du web partagées : les barrières communes aux personnes utilisant des appareils mobiles et aux personnes handicapées]](/standards-guidelines/shared-experiences/) concernant le mobile, [Utilisées par des personnes avec ou sans handicaps](/media/av/users-orgs/#situations) concernant le multimédia, et la ressource archivée [L'accessibilité du Web bénéficie aux personnes avec et sans handicap](https://www.w3.org/WAI/business-case/archive/soc#groups).
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -133,6 +138,7 @@ L'accessibilité du web est **exigée par la loi** dans beaucoup de situations.
 {:/}
 
 -   Des informations générales sur les avantages pour les entreprises sont disponibles dans [[l'analyse de rentabilité de l'accessibilité numérique]](/business-case/).
+  - Des exemples sur les bénéfices de [rendre les médias audio et vidéo accessibles](/media/av/) sont présentés dans la section [Bénéfices pour les organisations](/media/av/users-orgs/#benefits).
 -   Des conseils sur comment trouver les exigences légales sont consultables dans le document archivé [les facteurs juridiques et politiques](https://www.w3.org/WAI/business-case/archive/pol).
 
 {::nomarkdown}
@@ -141,9 +147,9 @@ L'accessibilité du web est **exigée par la loi** dans beaucoup de situations.
 
 ## Rendre le web accessible {#making}
 
-L'accessibilité du web dépend de plusieurs composants fonctionnant ensemble, comprenant les technologies web, les navigateurs et autres \« agents utilisateurs\ », outils d'édition et sites web.
+L'accessibilité du web dépend de plusieurs composants fonctionnant ensemble, comprenant les technologies web, les navigateurs et autres « agents utilisateurs », outils d'édition et sites web.
 
-L'Initiative pour l'accessibilité du Web, <span lang="en"> Web Accessibility Initiative</span> du W3C ([WAI](/get-involved/)) développe des spécifications techniques, des règles, des techniques et ressources d'accompagnement qui décrivent des  solutions d'accessibilité. Elles sont considérées comme des normes internationales pour l'accessibilité du web ; par exemple, <abbr lang="en" title="Web Content Accessibility Guidelines (WCAG)">WCAG</abbr> 2.0 est aussi une norme <abbr lang="en" title="International Organization for Standardization">ISO</abbr> : ISO/<abbr lang="en" title="International Electrotechnical Commission">IEC</abbr> 40500.
+L'Initiative pour l'accessibilité du Web, <span lang="en"> Web Accessibility Initiative</span> du W3C ([WAI](/about/participating/)) développe des spécifications techniques, des règles, des techniques et ressources d'accompagnement qui décrivent des  solutions d'accessibilité. Elles sont considérées comme des normes internationales pour l'accessibilité du web ; par exemple, <abbr lang="en" title="Web Content Accessibility Guidelines (WCAG)">WCAG</abbr> 2.0 est aussi une norme <abbr lang="en" title="International Organization for Standardization">ISO</abbr> : ISO/<abbr lang="en" title="International Electrotechnical Commission">IEC</abbr> 40500.
 
 {::nomarkdown}
 {% include box.html type="start" h="3" title="Plus d'informations pour rendre le web accessible" class="simple aside" %}
@@ -151,7 +157,7 @@ L'Initiative pour l'accessibilité du Web, <span lang="en"> Web Accessibility In
 
 -   Voir plus d'informations sur ces aspects de l'accessibilité qui fonctionnent ensemble, dans  [[les composants essentiels de l'accessibilité du web]](/fundamentals/components/).
 -   Les règles pour l'accessibilité des contenus web, <span lang="en">Web Content Accessibility Guidelines</span> (WCAG), les règles pour l'accessibilité des outils d'édition, <span lang="en">Authoring Tool Accessibility Guidelines</span> (ATAG), Aria pour les applications internet riches, <span lang="en">ARIA for Accessible Rich Internet Applications</span>, et d'autres ressources importantes sont présentées dans [[vue d'ensemble des standards d'accessibilité du W3C]](/standards-guidelines/).
--   Pour en savoir plus sur la façon dont W3C WAI développe des documents, les différentes parties prenantes, la participation internationale et comment vous pouvez contribuer, voir [[À propos de la WAI]](/about/) et [[Participer à la WAI]](/get-involved/).
+-   Pour en savoir plus sur la façon dont W3C WAI développe des documents, les différentes parties prenantes, la participation internationale et comment vous pouvez contribuer, voir [[À propos de la WAI]](/about/) et [[Participer à la WAI]](/about/participating/).
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -171,8 +177,8 @@ Il est plus efficace d'incorporer l'accessibilité au début d'un projet pour ne
 -   Pour comprendre les barrières d'accessibilité fréquentes dans une perspective de test, voir [[Tests faciles : - première évaluation]](/test-evaluate/preliminary/).
 -   Pour des considérations de base sur le design, la rédaction et le développement pour l'accessibilité, voir [[Astuces pour débuter]](/tips/).
 -   Lorsque vous serez en mesure d'en savoir plus sur le développement et le design, vous pourrez probablement utiliser des ressources comme par exemple :
-    -   [Comment être conforme  aux WCAG (Référence rapide)](http://www.w3.org/WAI/WCAG21/quickref/)
-    -   [Tutoriels sur l'accessibilité du web](https://www.w3.org/WAI/tutorials/)
+    -   [Comment satisfaire aux WCAG (référence rapide)](https://www.w3.org/WAI/WCAG22/quickref/)
+    -   [Tutoriels sur l'accessibilité du Web](/tutorials/)
 -   Pour la gestion de projets et des questions d'organisation, voir [[Planifier et gérer l'accessibilité du web]](/planning-and-managing/).<br>
     Si vous devez effectuer des réparations rapides dès maintenant, voir [[Méthodes pour une réparation provisoire]](/planning/interim-repairs/).
 
@@ -207,7 +213,7 @@ Il existe des outils qui peuvent aider à l'évaluation. Cependant, aucun outil 
 
 ![image d'un logo; balisage HTML img alt='Logo de la Web Accessibility Initiative'](https://www.w3.org/WAI/intro/alt-logo.png){:.right}
 
-Les images doivent comprendre une *[alternative textuelle équivalente](http://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv.html)* (alternative textuelle) dans le  balisage/code.
+Les images doivent comprendre une *[alternative textuelle équivalente](https://www.w3.org/WAI/WCAG22/Understanding/text-alternatives)* (équivalent textuel) dans le balisage/code.
 
 S'il n'y a pas d'alternative textuelle à une image, l'information de l'image est inaccessible, par exemple, pour les personnes qui ne voient pas et utilisent un lecteur d'écran qui lit à haute voix l'information d'une page, comprenant l'alternative textuelle de l'image visuelle.
 
@@ -217,7 +223,7 @@ Lorsqu'un équivalent textuel est fourni dans l'alternative textuelle, l'informa
 
 ![sans souris](https://www.w3.org/WAI/intro/no-mouse.png){:.left width="67" height="45"}
 
-Certaines personnes ne peuvent pas utiliser de souris, y compris les personnes âgées qui ont un contrôle limité de la motricité de précision. Un site web accessible ne dépend pas de la souris ; il rend [toutes les fonctionnalités disponibles au clavier](http://www.w3.org/TR/UNDERSTANDING-WCAG20/keyboard-operation.html). Ainsi, les personnes handicapées peuvent utiliser [des technologies d'assistance](/planning/involving-users/#at) qui simulent le clavier, telles que la dictée vocale.
+Certaines personnes ne peuvent pas utiliser de souris, y compris les personnes âgées qui ont un contrôle limité de la motricité de précision. Un site web accessible ne dépend pas de la souris ; il rend [toutes les fonctionnalités disponibles au clavier](https://www.w3.org/WAI/WCAG22/Understanding/keyboard-accessible). Ainsi, les personnes handicapées peuvent utiliser [des technologies d'assistance](/planning/involving-users/#at) qui simulent le clavier, telles que la dictée vocale.
 
 ### Transcriptions de l'audio
 
@@ -243,4 +249,6 @@ Il est facile et relativement peu cher de fournir des transcriptions sur des sit
 
 ## Pour plus d'informations {#more-info}
 
-W3C WAI propose un grand nombre de ressources sur les différents aspects de l'accessibilité du web [standards](/standards-guidelines/), [éducation](/teach-advocate/), [test/évaluation](/test-evaluate/), [gestion de projet et politique](/planning/). Nous vous encourageons à explorer ce site web ou à parcourir la liste des [ressources de la WAI](/Resources/).
+W3C WAI propose un grand nombre de ressources sur les différents aspects de l'accessibilité du web [standards](/standards-guidelines/), [éducation](/teach-advocate/), [test/évaluation](/test-evaluate/), [gestion de projet et politique](/planning/). Nous vous encourageons à explorer ce site web ou à parcourir la liste des [ressources de la WAI](/resources/).
+
+**[[Fondations de l'accessibilité numérique - Cours en ligne gratuit]](/courses/foundations-course/)** vous apporte les bases dont vous avez  besoin pour rendre votre technologie numérique accessible.
