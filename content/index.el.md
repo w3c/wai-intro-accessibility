@@ -1,17 +1,30 @@
 ---
+# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
+# In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
+
 title: "Εισαγωγή στην Προσβασιμότητα του Ιστού (Web Accessibility)"
 lang: el
-last_updated: 2019-09-13
+last_updated: 2019-09-13    # Put the date of this translation YYYY-MM-DD (with month in the middle)
+
 translators: 
 - name: "Πάνος Κουτσοδημητρόπουλος"
   link: "https://gr.linkedin.com/in/panoskoutsodimitropoulos"
-permalink: /fundamentals/accessibility-intro/el
-ref: /fundamentals/accessibility-intro/
-layout: default
+
 github:
-  repository: w3c/wai-intro-accessibility
-  branch: gh-pages
-  path: index.el.md
+    repository: w3c/wai-intro-accessibility
+    branch: gh-pages
+    path: content/index.el.md # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
+
+permalink: /fundamentals/accessibility-intro/el   # Add the language shortcode to the end, with no slash at the end. For example /path/to/file/fr
+ref: /fundamentals/accessibility-intro/     # Do not change this
+
+layout: default
+
+# In the footer below:
+# Do not change the dates
+# Do not translate CHANGELOG
+# Translate the other words, including "Date:" and "Editor:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
   <p><strong>Ημερομηνία:</strong> Ενημερώθηκε 5 Ιουνίου 2019. Πρώτη δημοσίευση Φεβρουάριος 2005.</p>
   <p><strong>Συντάκτης:</strong> <span lang="en"><a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a></span>.</p>
