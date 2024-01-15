@@ -170,7 +170,7 @@ Akan sangat efisien dan efektif untuk memasukkan aksesibilitas sejak awal proyek
 - Untuk memahami beberapa hambatan umum aksesibilitas dari perspektif pengujian, lihat [[Pengecekan Sederhana - Tinjauan Pertama]](/test-evaluate/preliminary/).
 - Untuk beberapa pertimbangan dasar dalam mendesain, menulis, dan mengembangkan aksesibilitas, lihat [[Tips Memulai]](/tips/).
 - Saat Anda sudah siap untuk mengetahui lebih banyak tentang pengembangan dan perancangan, Anda mungkin akan menggunakan sumber informasi seperti:
-     - [Cara Memenuhi Target WCAG (Referensi Singkat)](http://www.w3.org/WAI/WCAG21/quickref/)
+     - [Cara Memenuhi Target WCAG (Referensi Cepat)](http://www.w3.org/WAI/WCAG21/quickref/)
      - [Tutorial Aksesibilitas Web](/tutorials/)
 - Untuk pertimbangan manajemen proyek dan pertimbangan organisasional, lihat [[Merencanakan dan Mengelola Aksesibilitas Web]](/planning-and-managing/).<br>
      Jika saat ini Anda perlu melakukan perbaikan cepat, lihat [[Pendekatan untuk Perbaikan Sementara]](/planning/interim-repairs/).
