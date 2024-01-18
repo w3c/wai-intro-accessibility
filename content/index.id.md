@@ -114,7 +114,7 @@ Untuk video 7 menit dengan contoh bagaimana pentingnya aksesibilitas bagi penyan
 
 Web memiliki peranan yang semakin penting dalam banyak aspek kehidupan: pendidikan, pekerjaan, pemerintahan, perdagangan, perawatan kesehatan, rekreasi, dan banyak lagi. Web harus aksesibel untuk memberikan akses dan kesempatan yang sama kepada orang-orang dengan kemampuan yang beragam. Akses ke teknologi informasi dan komunikasi, termasuk Web, didefinisikan sebagai hak asasi manusia dalam Konvensi Perserikatan Bangsa-Bangsa tentang Hak-hak Penyandang Disabilitas ([CRPD](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html) PBB).
 
-Bagi banyak penyandang disabilitas, Web memungkinkan tingkat akses kepada informasi dan interaksi yang belum pernah terjadi sebelumya. Artinya, hambatan aksesibilitas dari media cetak, audio, dan visual dapat diatasi dengan lebih mudah melalui teknologi web.
+Bagi banyak penyandang disabilitas, Web memungkinkan tingkat akses kepada informasi dan interaksi yang belum pernah terjadi sebelumya. Artinya, hambatan aksesibilitas dari media cetak, audio, dan visual bisa diatasi dengan lebih mudah melalui teknologi web.
 
 Aksesibilitas mendukung inklusi sosial bagi penyandang disabilitas dan orang-orang lainnya, seperti:
 
@@ -207,9 +207,9 @@ Ada beberapa sarana evaluasi yang dapat membantu Anda dalam melakukan evaluasi. 
 
 Gambar perlu disertai *[alternatif teks yang sesuai](https://www.w3.org/WAI/WCAG22/Understanding/text-alternatives)* (*alt text*) pada markah/kode.
 
-Jika *alt text* tidak disertakan pada gambar, informasi pada gambar menjadi tidak dapat diakses, misalnya bagi orang yang tidak dapat melihat dan menggunakan pembaca layar, untuk membacakan informasi pada halaman termasuk *alt text* untuk gambar visual.
+Jika *alt text* tidak disertakan pada gambar, informasi pada gambar menjadi tidak bisa diakses, misalnya bagi orang yang tidak dapat melihat dan menggunakan pembaca layar, untuk membacakan informasi pada halaman termasuk *alt text* untuk gambar visual.
 
-Jika padanan *alt text* disertakan, informasi tersebut akan dapat diakses bagi penyandang disabilitas netra, serta orang-orang yang menonaktifkan gambar (misalnya, di area dengan bandwidth yang mahal atau kecil). Informasi tersebut juga tersedia untuk teknologi yang tak mampu melihat gambar, seperti mesin pencari.
+Jika padanan *alt text* disertakan, informasi tersebut akan bisa diakses bagi penyandang disabilitas netra, serta orang-orang yang menonaktifkan gambar (misalnya, di area dengan bandwidth yang mahal atau kecil). Informasi tersebut juga tersedia untuk teknologi yang tak mampu melihat gambar, seperti mesin pencari.
 
 ### Input Kibor
 
@@ -221,7 +221,7 @@ Beberapa orang tidak dapat menggunakan tetikus, termasuk pengguna lanjut usia ya
 
 [![contoh transkripsi](https://www.w3.org/WAI/intro/transcript.png){:.right width="251" height="254"}](http://www.w3.org/WAI/highlights/200606wcag2interview.html)
 
-Sama seperti gambar yang tidak tersedia untuk orang-orang yang tidak dapat melihat, berkas audio juga tidak tersedia untuk orang-orang yang tidak dapat mendengar. Memberikan transkripsi teks membuat informasi audio dapat diakses oleh orang-orang yang disabilitas rungu atau yang mengalami gangguan pendengaran, serta mesin pencarian dan teknologi lain yang tidak mampu mendengar.
+Sama seperti gambar yang tidak tersedia untuk orang-orang yang tidak dapat melihat, berkas audio juga tidak tersedia untuk orang-orang yang tidak dapat mendengar. Memberikan transkripsi teks membuat informasi audio bisa diakses oleh orang-orang yang disabilitas rungu atau yang mengalami gangguan pendengaran, serta mesin pencarian dan teknologi lain yang tidak mampu mendengar.
 
 Mudah dan relatif murah bagi situs web untuk menyediakan transkripsi. Tersedia pula [layanan transkripsi](http://www.uiaccess.com/transcripts/transcript_services.html) yang bisa membuat transkripsi teks dalam format HTML.
 
