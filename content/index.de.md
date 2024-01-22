@@ -6,6 +6,9 @@ lang: de
 last_updated: 2023-11-26
 translators:
 - name: "Alexej Rotar"
+contributors:
+  - name: "Jens Oliver Meiert"
+    link: "https://meiert.com/"
 github:
     repository: w3c/wai-intro-accessibility
     branch: gh-pages
@@ -31,7 +34,7 @@ footer: >
 {% include box.html type="start" h="2" title="Zusammenfassung" class="full" %}
 {:/}
 
-Wenn Webseiten und Webwerkzeuge richtig gestaltet und programmiert sind, können Menschen mit Behinderungen sie nutzen. Derzeit werden jedoch viele Seiten und Werkzeuge mit Barrieren entwickelt, die deren Nutzung für manche Menschen schwer oder unmöglich machen.
+Wenn Webseiten und Webwerkzeuge richtig gestaltet und programmiert sind, können Menschen mit Behinderungen sie nutzen. Derzeit werden jedoch viele Seiten und Werkzeuge mit Barrieren entwickelt, die ihre Nutzung für manche Menschen schwer oder unmöglich machen.
 
 Das Web barrierefrei zu machen dient Einzelnen, Unternehmen sowie der Gesellschaft. Internationale Webstandards legen fest, was für Barrierefreiheit erforderlich ist.
 
@@ -58,23 +61,23 @@ Das Web barrierefrei zu machen dient Einzelnen, Unternehmen sowie der Gesellscha
 ## Barrierefreiheit im Kontext {#context}
 
 <blockquote class="pull">
-  <p>Die Stärke des Webs liegt in dessen Universalität.<br />
-    Der Zugriff von allen Menschen unabhängig von Behinderungen ist ein wesentlicher Bestandteil.</p>
+  <p>Die Stärke des Webs liegt in dessen Universalität.<br>
+    Der Zugriff aller Menschen, unabhängig von Behinderungen, ist ein unabdingbarer Bestandteil.</p>
   <footer><cite>Tim Berners-Lee, Leiter des W3C und Erfinder des World Wide Web</cite></footer>
 </blockquote>
 
-Das Web ist grundlegend so gestaltet, dass es für alle Menschen unabhängig von deren Hardware, Software, Sprache, Ort oder Fähigkeiten funktioniert. Wenn das Web dieses Ziel erreicht, ist es für Menschen mit diversen Hör-, Bewegungs-, Seh- und Denkvermögen zugänglich.
+Das Web ist grundlegend so gestaltet, dass es für alle Menschen unabhängig von deren Hardware, Software, Sprache, Ort oder Fähigkeiten funktioniert. Wenn das Web dieses Ziel erreicht, ist es für Menschen mit unterschiedlichem Hör-, Bewegungs-, Seh- und Denkvermögen zugänglich.
 
-Daher ist der Einfluss von Behinderungen im Web deutlich verändert, weil das Web Barrieren in der Kommunikation und Interaktion beseitigt, denen Menschen in der physischen Welt begegnen. Wenn allerdings Webseiten, Anwendungen, Technologien oder Werkzeuge schlecht gestaltet sind, können sie Barrieren erzeugen, die Menschen an der Nutzung des Webs hindern.
+Der Einfluss von Behinderungen ist im Web anders, weil das Web Barrieren in der Kommunikation und Interaktion beseitigt, denen Menschen in der physischen Welt begegnen. Wenn Webseiten, Anwendungen, Technologien oder Werkzeuge allerdings schlecht gestaltet sind, können sie Barrieren erzeugen, die Menschen an der Nutzung des Webs hindern.
 
 **Barrierefreitheit ist essenziell für Entwickler:innen und Organisationen, die hochwertige Webseiten und Webwerkzeuge erstellen und Menschen nicht an der Nutzung ihrer Produkte und Dienstleistungen hindern wollen.**
 
 
-## Was ist barrierefreies Web {#what}
+## Was ist das barrierefreie Web {#what}
 
 Barrierefreies Web bedeutet, dass Webseiten, Werkzeuge und Technologien so gestaltet sind, dass Menschen mit Behinderungen sie nutzen können. Genauer gesagt können Menschen
 
-- das Web wahrnehmen, verstehen, navigieren sowie damit interagieren
+- das Web wahrnehmen, verstehen, navigieren sowie mit ihm interagieren
 - zum Web beitragen
 
 Barrierefreies Web schließt alle Behinderungen ein, die den Zugang zum Web beeinträchtigen, einschließlich
@@ -88,31 +91,31 @@ Barrierefreies Web schließt alle Behinderungen ein, die den Zugang zum Web beei
 
 Ein barrierefreies Web dient auch Menschen *ohne* Behinderungen, beispielsweise:
 
-- Menschen, die Handys, Smart Watches, Smart TVs oder andere Geräte mit kleinen Bildschirmen, unterschiedlichen Eingabemethoden, etc. nutzen
+- Menschen, die Handys, Smart Watches, Smart TVs oder andere Geräte mit kleinen Bildschirmen, unterschiedlichen Eingabemethoden etc. nutzen
 - älteren Menschen mit altersbedingt ändernden Fähigkeiten
-- Menschen mit "vorübergehenden Behinderungen", etwa einem gebrochenen Arm oder verlorenen Brillen
+- Menschen mit "vorübergehenden Behinderungen", etwa einem gebrochenen Arm oder einer verlegten Brille
 - Menschen mit "situationsbedingten Einschränkungen", wie etwa im hellen Sonnenlicht oder in Umgebungen, in denen sie keine Audioinhalte hören können
-- Menschen, die eine langsame Internetverbindung nutzen oder die beschränkte oder teuere Bandbreite haben
+- Menschen, die eine langsame Internetverbindung nutzen oder die beschränkte oder teure Bandbreite haben
 
-Im nachfolgenden 7-minütigen Video sehen Sie Beispiele, die zeigen, inwiefern Barrierefreiheit essenziell für Menschen mit Behinderung und nützlich für alle in unterschiedlichen Situationen ist:<br>
+Im nachfolgenden 7-minütigen Video sehen Sie Beispiele, die zeigen, wie Barrierefreiheit essenziell für Menschen mit Behinderungen und nützlich für alle in verschiedenen Situationen ist:<br>
 {% include video-link.html title="Video zu Perspektiven auf barrierefreies Web <em>(YouTube)</em>" href="https://www.youtube.com/watch?v=3f31oufqFSM" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %}
 
 {::nomarkdown}
 {% include box.html type="start" h="3" title="Weitere Infos zum barrierefreien Web" class="simple aside" %}
 {:/}
 
-- Wenn sie mehr darüber lernen wollen, wie verschiedene Behinderungen die Nutzung des Webs beeinflussen und Beispiele sehen wollen, wie Menschen mit Behinderung das Web nutzen, lesen Sie [[Wie Menschen mit Behinderung das Web nutzen]](/people-use-web/).
+- Wenn Sie mehr darüber lernen wollen, wie verschiedene Behinderungen die Nutzung des Webs beeinflussen und Beispiele sehen wollen, wie Menschen mit Behinderung das Web nutzen, lesen Sie [[Wie Menschen mit Behinderung das Web nutzen]](/people-use-web/).
 - Mehr Beispiele über Vorteile für andere finden Sie in den Ressourcen zu Mobile [[Geteilte Erfahrungen im Web: gemeinsame Barrieren von Nutzer:innen mit mobilen Geräten und Menschen mit Behinderung]](/standards-guidelines/shared-experiences/), Multimedia [Genutzt von Menschen mit und ohne Behinderungen](/media/av/users-orgs/#situations) sowie in der archivierten Seite [Ein barrierefreies Web nutzt Menschen mit und ohne Behinderungen](https://www.w3.org/WAI/business-case/archive/soc#groups).
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
-## Barrierefreiheit ist wichtig für Einzelne, Unternehmen, Gesellschaft {#important}
+## Barrierefreiheit ist wichtig für Einzelne, Unternehmen und Gesellschaft {#important}
 
-Das Web ist eine zunehmend wichtige Ressource in vielen Bereichen des Lebens: Bildung, Beschäftigung, Regierung, Handel, Gesundheitsversorgung, Freizeit und mehr. Ein barrierefreies Web ist essenziell, um Menschen mit verschiedenen Fähigkeiten gleichen Zugang und gleiche Chancen zu bieten. Der Zugang zu Kommunikationstechnologien, einschließlich des Webs, wurde im Übereinkommen über die Rechte von Menschen mit Behinderungen (UN [CRPD](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html)) als grundlegendes Menschenrecht festgelegt.
+Das Web ist eine zunehmend wichtigere Ressource in vielen Bereichen des Lebens: Bildung, Beschäftigung, Regierung, Handel, Gesundheitsversorgung, Freizeit und mehr. Ein barrierefreies Web ist essenziell, um Menschen mit verschiedenen Fähigkeiten gleichen Zugang und gleiche Chancen zu bieten. Der Zugang zu Kommunikationstechnologien, einschließlich des Webs, wurde im Übereinkommen über die Rechte von Menschen mit Behinderungen (UN [CRPD](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html)) als grundlegendes Menschenrecht festgelegt.
 
-Das Web bietet eine noch nie dagewesene Möglichkeit für Zugang zu Informationen und Interaktion für Menschen mit Behinderungen. In dem Sinne, dass Barrieren von Print-, Audio- und Videomedien viel einfacher mittels Webtechnologien beseitigt werden können.
+Das Web bietet für Menschen mit Behinderungen eine noch nie dagewesene Möglichkeit für den Zugang zu Informationen sowie für die Interaktion, in dem Sinne, dass Barrieren von Print-, Audio- und Videomedien viel einfacher mittels Webtechnologien beseitigt werden können.
 
 Barrierefreiheit unterstützt die soziale Inklusion von Menschen mit Behinderungen und anderen, darunter:
 
@@ -120,7 +123,7 @@ Barrierefreiheit unterstützt die soziale Inklusion von Menschen mit Behinderung
 - Menschen in ländlichen Gegenden
 - Menschen in Entwicklungsländern
 
-**Es gibt auch aus unternehmerischer Sicht ein starkes Argument für Barrierefreiheit.** Wie im vorigen Abschnitt gezeigt, verbessert barrierefreies Design die allgemeine Nutzer:innenerfahrung und Befriedigung, insbesondere in einer Vielzahl von Umständen, über verschiedene Geräte hinweg und für ältere Nutzer:innen. Barrierefreiheit kann Ihre Marke verbessern, Innovation fördern und Ihre Marktreichweite erhöhen.
+**Es gibt auch aus unternehmerischer Sicht ein starkes Argument für Barrierefreiheit.** Wie im vorigen Abschnitt gezeigt, verbessert barrierefreies Design die allgemeine Nutzer:innenerfahrung und Befriedigung, insbesondere in einer Vielzahl von Umständen, über verschiedene Geräte hinweg und für ältere Nutzer:innen. Barrierefreiheit kann Ihre Marke stärken, Innovation fördern und Ihre Marktreichweite erhöhen.
 
 Barrierefreiheit ist in vielen Fällen **gesetzlich verpflichtend**.
 
@@ -138,9 +141,9 @@ Barrierefreiheit ist in vielen Fällen **gesetzlich verpflichtend**.
 
 ## Das Web barrierefrei machen {#making}
 
-Barrierefreiheit im Web hängt vom Zusammenspiel zahlreicher Komponenten ab, unter anderem Webtechnologien, Webbrowser und anderen \"User Agents\", Erstellungswerkzeugen und Webseiten.
+Barrierefreiheit im Web hängt vom Zusammenspiel zahlreicher Komponenten ab, unter anderem Webtechnologien, Webbrowsern und anderen \"User Agents\", Erstellungswerkzeugen und Webseiten.
 
-Die W3C Initiative für barrierefreies Web, Web Accessibility Initiative ([WAI](/about/participating/)) entwickelt technische Spezifikationen, Richtlinien, Techniken sowie unterstützende Ressourcen, die Lösungen für Barrierefreiheit beschreiben. Diese gelten als internationale Standards für barrierefreies Web; die Richtlinien für barrierefreie Webinhalte, <abbr title="Web Content Accessibility Guidelines (WCAG)">WCAG</abbr> 2.0 ist beispielsweise auch ein <abbr title="International Organization for Standardization">ISO</abbr> Standard: ISO/<abbr title="International Electrotechnical Commission">IEC</abbr> 40500.
+Die W3C-Initiative für barrierefreies Web – die Web Accessibility Initiative ([WAI](/about/participating/)) – entwickelt technische Spezifikationen, Richtlinien, Techniken sowie unterstützende Ressourcen, die Lösungen für Barrierefreiheit beschreiben. Diese gelten als internationale Standards für barrierefreies Web. Die Richtlinien für barrierefreie Webinhalte, <abbr title="Web Content Accessibility Guidelines (WCAG)">WCAG</abbr> 2.0, ist beispielsweise auch ein <abbr title="International Organization for Standardization">ISO</abbr> Standard: ISO/<abbr title="International Electrotechnical Commission">IEC</abbr> 40500.
 
 {::nomarkdown}
 {% include box.html type="start" h="3" title="Weitere Infos zum barrierefreien Gestalten des Webs" class="simple aside" %}
@@ -158,15 +161,15 @@ Die W3C Initiative für barrierefreies Web, Web Accessibility Initiative ([WAI](
 
 Viele Aspekte von Barrierefreiheit sind ziemlich einfach zu verstehen und zu implementieren. Manche Lösungen für Barrierefreiheit sind eher komplex und benötigen mehr Kenntnisse für die Umsetzung.
 
-Am effizientesten und effektivsten ist es, Barrierefreiheit von Anfang an in das Projekt einzubeziehen, damit Sie nicht zurückgehen und Arbeit aufs Neue machen müssen.
+Am effizientesten und effektivsten ist es, Barrierefreiheit von Anfang an in einem Projekt zu berücksichtigen, damit Sie nicht zurückgehen und Arbeiten erneut durchführen müssen.
 
 {::nomarkdown}
 {% include box.html type="start" h="3" title="Weitere Infos zum barrierefreien Gestalten Ihrer Webseite" class="simple aside" %}
 {:/}
 
 -   Eine Einführung in die Anforderungen an Barrierefreiheit und internationale Standards finden Sie unter [[Grundlagen der Barrierefreiheit]](/fundamentals/accessibility-principles/).
--   Um einige übliche Barrieren aus Sicht des Testens zu verstehen, schauen Sie sich [[Einfache Checks - Eine erste Beurteilung]](/test-evaluate/preliminary/) an.
--   Für ein paar grundsätzliche Überlegungen im Bezug auf das Gestalten, Schreiben und Entwickeln für Barrierefreiheit, schauen Sie sich die [[Tipps für den Einstieg]](/tips/) an.
+-   Um einige übliche Barrieren aus Sicht des Testens zu verstehen, beachten Sie [[Einfache Checks – Eine erste Beurteilung]](/test-evaluate/preliminary/).
+-   Für ein paar grundsätzliche Überlegungen im Bezug auf das Gestalten, Schreiben und Entwickeln für Barrierefreiheit, beachten Sie [[Tipps für den Einstieg]](/tips/).
 -   Sobald Sie bereit sind, mehr über das Entwickeln und Gestalten zu erfahren, werden Sie wahrscheinlich Ressourcen wie die nachfolgenden nutzen:
     -   [Wie erfülle ich die WCAG (Kurzübersicht)](https://www.w3.org/WAI/WCAG22/quickref/)
     -   [Tutorials für barrierefreies Web](/tutorials/)
@@ -179,16 +182,16 @@ Am effizientesten und effektivsten ist es, Barrierefreiheit von Anfang an in das
 	
 ## Barrierefreiheit beurteilen {#evaluate}
 
-Beim Entwickeln und Neugestalten einer Webseite sollten Sie schon früh und während des gesamten Entwicklungsprozesses die Barrierefreiheit beurteilen, um Probleme früh zu erkennen, wenn sie einfacher zu adressieren sind. Einfache Schritte, wie das Ändern der Browsereinstellungen, können Ihnen helfen, einige Aspekte von Barrierefreiheit zu bewerten. Eine umfangreiche Evaluierung, um zu überprüfen, ob eine Webseite alle Richtlinien für Barrierefreiheit erfüllt, erfordert mehr Aufwand.
+Beim Entwickeln und Neugestalten einer Webseite sollten Sie schon früh und während des gesamten Entwicklungsprozesses die Barrierefreiheit beurteilen, um Probleme dann zu erkennen, wenn sie einfacher zu adressieren sind. Einfache Maßnahmen wie das Ändern von Browsereinstellungen können Ihnen helfen, einige Aspekte von Barrierefreiheit direkt einzuschätzen. Eine umfangreiche Evaluierung, um zu überprüfen, ob eine Webseite alle Richtlinien für Barrierefreiheit erfüllt, erfordert mehr Aufwand.
 
-Es gibt Tools, die bei der Auswertung unterstützen. Es kann jedoch kein Tool alleine feststellen, ob eine Seite die Richtlinien für Barrierefreiheit erfüllt. Die Auswertung durch einen erfahrenen Menschen ist notwendig, um zu bestimmen, ob eine Seite barrierefrei ist.
+Es gibt Tools, die bei der Auswertung unterstützen. Es kann jedoch kein Tool alleine feststellen, ob eine Seite die Richtlinien für Barrierefreiheit erfüllt. Eine Auswertung durch jemand mit der entsprechenden Erfahrung ist notwendig, um zu bestimmen, ob eine Seite tatsächlich barrierefrei ist.
 
 
 {::nomarkdown}
 {% include box.html type="start" h="3" title="Weitere Infos zur Beurteilung von Barrierefreiheit" class="simple aside" %}
 {:/}
 
--   Ressourcen zur Unterstützung bei der Beurteilung von Barrierefreiheit werden beschrieben in [[Barrierefreiheit von Webseiten beurteilen]](/test-evaluate/).
+-   Ressourcen zur Unterstützung bei der Beurteilung von Barrierefreiheit werden in [[Barrierefreiheit von Webseiten beurteilen]](/test-evaluate/) beschrieben.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -204,32 +207,32 @@ Es gibt Tools, die bei der Auswertung unterstützen. Es kann jedoch kein Tool al
 
 ![Bild von einem Logo; HTML Markup img alt='Web Accessibility Initiative logo'](https://www.w3.org/WAI/intro/alt-logo.png){:.right}
 
-Bilder sollten *[äquivalenten alternativen Text](https://www.w3.org/WAI/WCAG22/Understanding/text-alternatives)* (alt Text) im Markup/Code enthalten.
+Bilder sollten *[äquivalenten alternativen Text](https://www.w3.org/WAI/WCAG22/Understanding/text-alternatives)* (sogenannten alt-Text) im Code enthalten.
 
-Wenn kein alternativer Text für Bilder angegeben wird, ist die Information im Bild nicht zugänglich für, beispielsweise, Menschen, die nicht sehen können und einen Screenreader nutzen, der die Informationen auf der Seite, einschließlich der alternativen Texte visueller Bilder, laut vorliest.
+Wenn kein alternativer Text für Bilder angegeben wird, ist die Information im Bild nicht zugänglich für Menschen, die beispielsweise nicht sehen können und die einen Screenreader nutzen, der die Informationen auf der Seite – einschließlich der alternativen Texte visueller Bilder – laut vorliest.
 
-Wenn äquivalente alternative Texte angegeben werden, ist die Information für Menschen, die blind sind ebenso zugänglich wie für Menschen, die Bilder deaktivieren (etwa in Gebieten mit teuerer oder geringer Bandbreite). Zudem ist sie zugänglich für Technologien, die keine Bilder sehen können, so wie Suchmaschinen.
+Wenn äquivalente alternative Texte angegeben werden, sind Informationen für Menschen, die blind sind, ebenso zugänglich wie für Menschen, die Bilder deaktivieren (etwa in Gebieten mit teurer oder geringer Bandbreite). Zudem sind sie zugänglich für Technologien, die keine Bilder wahrnehmen können, wie etwa Suchmaschinen.
 
 ### Tastatureingabe
 
 ![durchgestrichene Maus](https://www.w3.org/WAI/intro/no-mouse.png){:.left width="67" height="45"}
 
-Manche Menschen können keine Maus benutzen, beispielsweise manche ältere Menschen mit eingeschränkter motorischer Kontrolle. Eine barrierefreie Webseite ist nicht auf eine Maus angewiesen; sie stellt [sämtliche Funktionalität über die Tastatur zur Verfügung](https://www.w3.org/WAI/WCAG22/Understanding/keyboard-accessible). Dann können Menschen mit Behinderungen [Hilfstechnologien](/planning/involving-users/#at) nutzen, die die Tastatur imitieren, etwa Spracheingabe.
+Manche Menschen können keine Maus benutzen, wie beispielsweise ältere Menschen mit eingeschränkter motorischer Kontrolle. Eine barrierefreie Webseite ist nicht auf eine Maus angewiesen; sie stellt [sämtliche Funktionalität über die Tastatur zur Verfügung](https://www.w3.org/WAI/WCAG22/Understanding/keyboard-accessible). Dann können Menschen mit Behinderungen [Hilfstechnologien](/planning/involving-users/#at) nutzen, die die Tastatur imitieren, wie etwa per Spracheingabe.
 
 ### Transkription von Audio
 
 [![Beispiel einer Transkription](https://www.w3.org/WAI/intro/transcript.png){:.right width="251" height="254"}](http://www.w3.org/WAI/highlights/200606wcag2interview.html)
 
-So wie Bilder nicht für Menschen zugänglich sind, die nicht sehen können, sind Audiodateien für Menschen, die nicht hören können, nicht verfügbar. Das Bereitstellen einer Transkription macht Audioinformationen verfügbar für Menschen, die taub oder schwerhörig sind, ebenso wie für Suchmaschinen oder andere Technologien, die nicht hören können.
+So wie Bilder nicht für Menschen zugänglich sind, die nicht sehen können, sind auch Audiodateien nicht verfügbar für Menschen, die nicht hören können. Das Bereitstellen einer Transkription macht Audioinformationen für Menschen verfügbar, die taub oder schwerhörig sind, ebenso wie für Suchmaschinen oder andere Technologien, die nicht hören können.
 
-Es ist einfach und relativ günstig für Webseiten Transkriptionen bereitzustellen. Außerdem gibt es [Transkriptionsdienstleistungen](http://www.uiaccess.com/transcripts/transcript_services.html) die Texttranskriptionen im HTML-Format erstellen.
+Es ist einfach und relativ günstig, für Webseiten Transkriptionen bereitzustellen. Außerdem gibt es [Transkriptionsdienstleistungen](http://www.uiaccess.com/transcripts/transcript_services.html), die Texttranskriptionen im HTML-Format erstellen.
 
 {::nomarkdown}
 {% include box.html type="start" h="3" title="Mehr Beispiele" class="simple aside" %}
 {:/} 
 
 -   [[Tipps für den Einstieg]](/tips/)
--   [[Einfache Checks - Eine erste Beurteilung]](/test-evaluate/preliminary/)
+-   [[Einfache Checks – Eine erste Beurteilung]](/test-evaluate/preliminary/)
 -   {% include video-link.html class="small inline" title="Perspektiven auf barrierefreies Web &mdash; Videos und Beschreibungen" href="/perspective-videos/" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %}
 
 {::nomarkdown}
@@ -240,6 +243,6 @@ Es ist einfach und relativ günstig für Webseiten Transkriptionen bereitzustell
 
 ## Für weitere Informationen {#more-info}
 
-W3C WAI bietet eine breite Palette an Ressourcen über verschiedene Aspekte bezüglich [Standards](/standards-guidelines/), [Bildung](/teach-advocate/), [Testing/Auswertung](/test-evaluate/), [Projektmanagement und Richtlinien](/planning/) für barrierefreies Web. Wir empfehlen Ihnen, diese Webseite zu erkunden oder sich die Liste der [WAI Ressourcen](/resources/) anzusehen.
+Die W3C WAI bietet eine breite Palette an Ressourcen rund um [Standards](/standards-guidelines/), [Bildung](/teach-advocate/), [Testing/Auswertung](/test-evaluate/), [Projektmanagement und Richtlinien](/planning/) für ein barrierefreies Web. Wir empfehlen Ihnen, diese Webseite näher zu erkunden und sich mit der Liste von [WAI-Ressourcen](/resources/) vertraut zu machen.
 
-**[[Grundlagen der digitalen Barrierefreiheit - kostenloser Onlinekurs]](/courses/foundations-course/)** bietet Ihnen die nötigen Grundlagen, um Ihre digitale Technologie barrierefrei zu machen.
+**[[Grundlagen der digitalen Barrierefreiheit – kostenloser Onlinekurs]](/courses/foundations-course/)** bietet Ihnen die nötigen Grundlagen, um Ihre digitale Technologie barrierefrei zu machen.
