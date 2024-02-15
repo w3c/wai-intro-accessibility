@@ -245,3 +245,5 @@ W3C 웹 접근성 이니셔티브([WAI](/get-involved/))는 기술 명세, 가�
 ## 추가 정보 {#more-info}
 
 W3C WAI [표준](/standards-guidelines/), [교육](/teach-advocate/), [테스트/평가](/test-evaluate/), [프로젝트 관리, 정책](/planning/)과 같은 웹 접근성의 다른 부분에 대한 많은 자료들을 제공하고 있습니다. 웹 사이트를 탐색하고, [WAI 자료](/Resources/) 목록을 확인해보시길 권장합니다.
+
+**[[디지털 접근성 기초 - 무료 온라인 코스]](/courses/foundations-course/)**는 디지털 기술을 접근 가능하게 만들기 위해 필요한 기초 지식을 제공합니다.
