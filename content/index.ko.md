@@ -2,7 +2,7 @@
 # Translation instructions are after the "#" character in this first section. (They are comments that do not show up in the web page.)
 title: 웹 접근성 소개   # Do not translate "title:". Do translate the text after "title:".
 lang: ko   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2024-02-09   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2024-02-22   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: #Add one -name: line for every translator
 - name: "YongUi Leee"
 contributors: #Add one -name: line for every contributor
@@ -23,7 +23,7 @@ github:
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-  <p><strong>날짜:</strong> 2024년 2월 9일 업데이트됨. 2005년 2월 처음 발행됨. CHANGELOG.</p>
+  <p><strong>날짜:</strong> 2023년 11월 20일 업데이트됨. 2005년 2월 처음 발행됨. CHANGELOG.</p>
   <p><strong>편집자:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>교육과 활동관련 실무 그룹인 (<a href="https://www.w3.org/WAI/EO/">EOWG</a>)에 의해 제작되었습니다.</p>
 # Read Translations Notes at https://github.com/w3c/wai-intro-accessibility/blob/gh-pages/README.md
