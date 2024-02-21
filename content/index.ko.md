@@ -1,33 +1,35 @@
 ---
-# Translation instructions are after the "#" character in this first section. (They are comments that do not show up in the web page.)
-title: 웹 접근성 소개   # Do not translate "title:". Do translate the text after "title:".
-lang: ko   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
+# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
+# In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
+title: 웹 접근성 소개 
+lang: ko   # Change "en" to the translated-language shortcode
 last_updated: 2024-02-22   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: #Add one -name: line for every translator
 - name: "YongUi Leee"
 contributors: #Add one -name: line for every contributor
 - name: "JunHo Lee"
 - name: "hwahyeon"
-permalink: /fundamentals/accessibility-intro/ko   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
-ref: /fundamentals/accessibility-intro/   # Do not change this
-changelog: /fundamentals/accessibility-intro/changelog/
-layout: default
+
 github:
   repository: w3c/wai-intro-accessibility
   branch: gh-pages
   path: content/index.ko.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
-  
+
+permalink: /fundamentals/accessibility-intro/ko   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
+ref: /fundamentals/accessibility-intro/   # Do not change this
+
+changelog: /fundamentals/accessibility-intro/changelog/ # Do not change this
+layout: default
+
 # In the footer below:
-# Do not translate or change CHANGELOG or ACKNOWLEDGEMENTS.
-# Translate the other words below, including "Date:" and "Editor:"
+# Do not change the dates
+# Do not translate CHANGELOG
+# Translate the other words, including "Date:" and "Editor:"
 # Translate the Working Group name. Leave the Working Group acronym in English.
-# Do not change the dates in the footer below.
 footer: >
   <p><strong>날짜:</strong> 2023년 11월 20일 업데이트됨. 2005년 2월 처음 발행됨. CHANGELOG.</p>
   <p><strong>편집자:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>교육과 활동관련 실무 그룹인 (<a href="https://www.w3.org/WAI/EO/">EOWG</a>)에 의해 제작되었습니다.</p>
-# Read Translations Notes at https://github.com/w3c/wai-intro-accessibility/blob/gh-pages/README.md
-# end of translation instructions
 ---
 
 
@@ -53,7 +55,7 @@ footer: >
 {:toc}
 
 <span class="box-h box-h-simple box-h-full">관련 자료</span><br>
-{% include video-link.html title="웹 접근성과 W3C 표준에 대한 소개 비디오 <em>(4분)</em>" href="https://www.w3.org/WAI/videos/standards-and-benefits.html" src="/content-images/wai-intro-accessibility/video-still-accessibility-intro-16-9.jpg" %}
+{% include video-link.html title="웹 접근성과 W3C 표준에 대한 소개 비디오 <em>(4분)</em>" href="https://www.w3.org/WAI/videos/standards-and-benefits/" src="/content-images/wai-intro-accessibility/video-still-accessibility-intro-16-9.jpg" %}
 
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
@@ -108,7 +110,8 @@ footer: >
 {:/}
 
 -   웹을 사용하는 데에 장애들이 어떻게 다른지에 대해 알고 싶고, 장애를 가진 사용자가 웹을 사용하는 시나리오를 읽고 싶다면 [[장애를 가진 사람들은 웹을 어떻게 사용하는가]](/people-use-web/)을 보세요.
--   다른 이점들에 대해 더 알고 싶다면 [[공유된 웹 경험들: 모바일 기기 사용자와 장애를 가진 사람들이 빈번히 경험하는 장벽들]](/standards-guidelines/shared-experiences/)과 [웹 접근성이 장애가 있는 사람과 장애가 없는 사람에게 주는 이점](https://www.w3.org/WAI/business-case/archive/soc#groups)를 보세요.
+-   다른 이점들에 대해 더 알고 싶다면, [[공유된 웹 경험들: 모바일 기기 사용자와 장애를 가진 사람들이 빈번히 경험하는 장벽들]](/standards-guidelines/shared-experiences/)과 멀티미디어인 [장애가 있는 사람과 없는 사람 모두에게 사용됨](/media/av/users-orgs/#situations),
+그리고 아카이브인 [웹 접근성이 장애가 있는 사람과 없는 사람에게 주는 이점](https://www.w3.org/WAI/business-case/archive/soc#groups)를 보세요.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -135,6 +138,7 @@ footer: >
 {:/}
 
 -   비즈니스적 이점에 대한 일반적 정보는 [[디지털 접근성에 대한 비즈니스 사례]](/business-case/)에 있습니다.
+- [오디오 및 비디오 미디어의 접근성 확보](/media/av/)의 이점 예시들은 [조직에 대한 이점](/media/av/users-orgs/#benefits) 섹션에 있습니다.
 -   법적 조건에 대한 안내는 [법과 정책적 요인](https://www.w3.org/WAI/business-case/archive/pol)에 있습니다.
 
 {::nomarkdown}
@@ -145,7 +149,7 @@ footer: >
 
 웹 접근성은 함께 작용하는 웹 기술, 웹 브라우저 및 다른 \"유저 에이전트\", 저작 도구, 웹 사이트와 같은 여러 요소들에 의존합니다. 
 
-W3C 웹 접근성 이니셔티브([WAI](/get-involved/))는 기술 명세, 가이드라인, 기술을 개발하고 접근성 솔루션을 제공하는 자료들을 지원합니다. 이러한 내용들은 웹 접근성의 국제적 표준으로 여겨집니다; 예를 들어, <abbr title="웹 콘텐츠 접근성 지침 (WCAG)">WCAG</abbr> 2.0 또한 <abbr title="표준화을 위한 국제 조직">ISO</abbr> 표준입니다: ISO/<abbr title="국제전기기술위원회">IEC</abbr> 40500.
+W3C 웹 접근성 이니셔티브([WAI](/about/participating/))는 기술 명세, 가이드라인, 기술을 개발하고 접근성 솔루션을 제공하는 자료들을 지원합니다. 이러한 내용들은 웹 접근성의 국제적 표준으로 간주됩니다; 예를 들어, <abbr title="웹 콘텐츠 접근성 지침 (WCAG)">WCAG</abbr> 2.0 또한 <abbr title="표준화을 위한 국제 조직">ISO</abbr> 표준입니다: ISO/<abbr title="국제전기기술위원회">IEC</abbr> 40500.
 
 {::nomarkdown}
 {% include box.html type="start" h="3" title="웹을 접근 가능하게 만들기에 대한 더 많은 정보" class="simple aside" %}
@@ -153,7 +157,7 @@ W3C 웹 접근성 이니셔티브([WAI](/get-involved/))는 기술 명세, 가�
 
 -   접근성과 함께 작용하는 요소들에 대한 정보는 [[웹 접근성의 필수 요소]](/fundamentals/components/)에 있습니다.
 -   웹 콘텐츠 접근성 지침 (WCAG), 웹 저작 도구 접근성 지침 (ATAG), 접근가능한 리치 인터넷 어플리케이션을 위한 ARIA와 다른 중요한 자료들은 [[W3C 접근성 표준 개요]](/standards-guidelines/)에 소개되어 있습니다.
--   여러 이해 당사자들과 국제적 참여를 통해 W3C WAI가 어떻게 자료를 개발하는지와 당신이 참여할 수 있는 방법을 알고자 한다면, [[WAI에 대하여]](/about/) 와 [[WAI에 참여하기]](/get-involved/)를 보세요.
+-   여러 이해 당사자들과 국제적 참여를 통해 W3C WAI가 어떻게 자료를 개발하는지와 당신이 참여할 수 있는 방법을 알고자 한다면, [[WAI에 대하여]](/about/) 와 [[WAI에 참여하기]](/about/participating/)를 보세요.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -173,8 +177,8 @@ W3C 웹 접근성 이니셔티브([WAI](/get-involved/))는 기술 명세, 가�
 -   테스트 부분에서의 일반적인 접근성 장벽에 대해 알고 싶다면 [[쉽게 체크하기 - 첫 리뷰]](/test-evaluate/preliminary/)를 보세요.
 -   접근성 디자인, 작성, 개발 시 기본적으로 고려해야 할 내용에 대한 것은 [[처음 시작을 위한 팁]](/tips/)을 보세요.
 -   개발과 디자인에 대해 알 준비가 되었다면 다음과 같은 자료들을 사용할 수 있을 것입니다:
-    -   [WCAG를 충족하는 방법 (빠르게 참고하기)](http://www.w3.org/WAI/WCAG21/quickref/)
-    -   [웹 접근성 튜토리얼](https://www.w3.org/WAI/tutorials/)
+    -   [WCAG를 충족하는 방법 (빠르게 참고하기)](https://www.w3.org/WAI/WCAG22/quickref/)
+    -   [웹 접근성 튜토리얼](/tutorials/)
 -   프로젝트 관리와 조직적 고려사항에 대한 내용에 대한 것은 [[웹 접근성 계획하고 관리하기]](/planning-and-managing/)를 보세요.<br>
     빠른 수정을 하고 싶다면, [[중간 점검 방법]](/planning/interim-repairs/)을 보세요.
 
@@ -208,7 +212,7 @@ W3C 웹 접근성 이니셔티브([WAI](/get-involved/))는 기술 명세, 가�
 
 ![로고 이미지; HTML 마크업 구조 img alt='Web Accessibility Initiative 로고'](https://www.w3.org/WAI/intro/alt-logo.png){:.right}
 
-이미지는 마크업이나 코드에 *[적절한 대체 텍스트](http://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv.html)* (대체 텍스트)를 포함하고 있어야 합니다.
+이미지는 마크업이나 코드에 *[적절한 대체 텍스트](https://www.w3.org/WAI/WCAG22/Understanding/text-alternatives)* (대체 텍스트)를 포함하고 있어야 합니다.
 
 대체 텍스트가 이미지에 제공되지 않는다면, 이미지 정보는 접근 불가능합니다. 예를 들어, 보지 못하는 사람, 시각적 이미지 및 대체 텍스트를 포함해 페이지의 정보를 읽어주는 스크린 리더를 사용하는 사람들이 있습니다. 
 
@@ -218,7 +222,7 @@ W3C 웹 접근성 이니셔티브([WAI](/get-involved/))는 기술 명세, 가�
 
 ![마우스에 금지 표시](https://www.w3.org/WAI/intro/no-mouse.png){:.left width="67" height="45"}
 
-연로하여 미세조정이 어려운 사용자를 포함한 일부 사람들은 마우스를 사용할 수 없습니다. 접근 가능한 웹 사이트는 마우스에 의존하지 않습니다; 접근가능한 웹 사이트는  [기본적으로 모든 것을 키보드로 이용 가능합니다.](http://www.w3.org/TR/UNDERSTANDING-WCAG20/keyboard-operation.html). 키보드와 유사한 기능을 하는 음성 입력과 같은 [보조기술](/planning/involving-users/#at)을 사용할 수 있습니다.
+연로하여 미세조정이 어려운 사용자를 포함한 일부 사람들은 마우스를 사용할 수 없습니다. 접근 가능한 웹 사이트는 마우스에 의존하지 않습니다; 접근가능한 웹 사이트는  [기본적으로 모든 것을 키보드로 이용 가능합니다.](https://www.w3.org/WAI/WCAG22/Understanding/keyboard-accessible). 키보드와 유사한 기능을 하는 음성 입력과 같은 [보조기술](/planning/involving-users/#at)을 사용할 수 있습니다.
 
 ### 오디오 녹취록
 
@@ -244,6 +248,6 @@ W3C 웹 접근성 이니셔티브([WAI](/get-involved/))는 기술 명세, 가�
 
 ## 추가 정보 {#more-info}
 
-W3C WAI [표준](/standards-guidelines/), [교육](/teach-advocate/), [테스트/평가](/test-evaluate/), [프로젝트 관리, 정책](/planning/)과 같은 웹 접근성의 다른 부분에 대한 많은 자료들을 제공하고 있습니다. 웹 사이트를 탐색하고, [WAI 자료](/Resources/) 목록을 확인해보시길 권장합니다.
+W3C WAI [표준](/standards-guidelines/), [교육](/teach-advocate/), [테스트/평가](/test-evaluate/), [프로젝트 관리, 정책](/planning/)과 같은 웹 접근성의 다른 부분에 대한 많은 자료들을 제공하고 있습니다. 웹 사이트를 탐색하고, [WAI 자료](/resources/) 목록을 확인해보시길 권장합니다.
 
 **[[디지털 접근성 기초 - 무료 온라인 코스]](/courses/foundations-course/)**는 디지털 기술을 접근 가능하게 만들기 위해 필요한 기초 지식을 제공합니다.
