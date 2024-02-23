@@ -66,9 +66,9 @@ Das Web barrierefrei zu machen dient Einzelnen, Unternehmen sowie der Gesellscha
   <footer><cite>Tim Berners-Lee, Leiter des W3C und Erfinder des World Wide Web</cite></footer>
 </blockquote>
 
-Das Web ist grundlegend so gestaltet, dass es für alle Menschen unabhängig von deren Hardware, Software, Sprache, Ort oder Fähigkeiten funktioniert. Wenn das Web dieses Ziel erreicht, ist es für Menschen mit unterschiedlichem Hör-, Bewegungs-, Seh- und Denkvermögen zugänglich.
+Das Web ist grundlegend so gestaltet, dass es für alle Menschen unabhängig von deren Hardware, Software, Sprache, Ort oder Fähigkeiten funktioniert. Wenn das Web dieses Ziel erreicht, ist es für Menschen mit unterschiedlichen Hör-, Bewegungs-, Sehvermögen und kognitiven Fähigkeiten zugänglich.
 
-Der Einfluss von Behinderungen ist im Web anders, weil das Web Barrieren in der Kommunikation und Interaktion beseitigt, denen Menschen in der physischen Welt begegnen. Wenn Webseiten, Anwendungen, Technologien oder Werkzeuge allerdings schlecht gestaltet sind, können sie Barrieren erzeugen, die Menschen an der Nutzung des Webs hindern.
+Der Einfluss von Behinderungen ist im Web anders, weil das Web Barrieren in der Kommunikation und Interaktion beseitigt, denen viele Menschen in der physischen Welt begegnen. Wenn Webseiten, Anwendungen, Technologien oder Werkzeuge allerdings schlecht gestaltet sind, können sie Barrieren erzeugen, die Menschen an der Nutzung des Webs hindern.
 
 **Barrierefreitheit ist essenziell für Entwickler:innen und Organisationen, die hochwertige Webseiten und Webwerkzeuge erstellen und Menschen nicht an der Nutzung ihrer Produkte und Dienstleistungen hindern wollen.**
 
@@ -82,11 +82,11 @@ Barrierefreies Web bedeutet, dass Webseiten, Werkzeuge und Technologien so gesta
 
 Barrierefreies Web schließt alle Behinderungen ein, die den Zugang zum Web beeinträchtigen, einschließlich
 
-- kognitive,
-- geistige,
-- körperliche,
-- Hör-,
-- Sprach- und
+- Hörbehinderungen,
+- kognitive Behinderungen,
+- neurologische Erkrankungen,
+- körperliche Behinderungen,
+- Sprachbehinderungen und
 - Sehbehinderungen.
 
 Ein barrierefreies Web dient auch Menschen *ohne* Behinderungen, beispielsweise:
@@ -133,7 +133,7 @@ Barrierefreiheit ist in vielen Fällen **gesetzlich verpflichtend**.
 
 -   Allgemeine Informationen über die geschäftlichen Vorteile finden Sie unter [[Gründe für digitale Barrierefreiheit aus unternehmerisches Sicht]](/business-case/).
     -   Beispiele für Vorteile von [barrierefreien Audio- und Videomedien](/media/av/) finden Sie unter [Vorteile für Unternehmen](/media/av/users-orgs/#benefits).
--   Anleitungen für die Erfassung von rechtlichen Anforderungen finden Sie im archivierten [Rechtliche Faktoren](https://www.w3.org/WAI/business-case/archive/pol).
+-   Anleitungen für die Erfassung von rechtlichen Anforderungen finden Sie im archivierten [Rechtliche Faktoren und Richtlinien](https://www.w3.org/WAI/business-case/archive/pol).
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -143,7 +143,7 @@ Barrierefreiheit ist in vielen Fällen **gesetzlich verpflichtend**.
 
 Barrierefreiheit im Web hängt vom Zusammenspiel zahlreicher Komponenten ab, unter anderem Webtechnologien, Webbrowsern und anderen \"User Agents\", Erstellungswerkzeugen und Webseiten.
 
-Die W3C-Initiative für barrierefreies Web – die Web Accessibility Initiative ([WAI](/about/participating/)) – entwickelt technische Spezifikationen, Richtlinien, Techniken sowie unterstützende Ressourcen, die Lösungen für Barrierefreiheit beschreiben. Diese gelten als internationale Standards für barrierefreies Web. Die Richtlinien für barrierefreie Webinhalte, <abbr title="Web Content Accessibility Guidelines (WCAG)">WCAG</abbr> 2.0, ist beispielsweise auch ein <abbr title="International Organization for Standardization">ISO</abbr> Standard: ISO/<abbr title="International Electrotechnical Commission">IEC</abbr> 40500.
+Die W3C-Initiative für barrierefreies Web – die Web Accessibility Initiative ([WAI](/about/participating/)) – entwickelt technische Spezifikationen, Richtlinien, Techniken sowie unterstützende Ressourcen, die Lösungen für Barrierefreiheit beschreiben. Diese gelten als internationale Standards für barrierefreies Web. Die Richtlinien für barrierefreie Webinhalte, <abbr title="Web Content Accessibility Guidelines (WCAG)" lang="en">WCAG</abbr> 2.0, ist beispielsweise auch ein <abbr title="International Organization for Standardization" lang="en">ISO</abbr> Standard: ISO/<abbr title="International Electrotechnical Commission" lang="en">IEC</abbr> 40500.
 
 {::nomarkdown}
 {% include box.html type="start" h="3" title="Weitere Infos zum barrierefreien Gestalten des Webs" class="simple aside" %}
@@ -207,7 +207,7 @@ Es gibt Tools, die bei der Auswertung unterstützen. Es kann jedoch kein Tool al
 
 ![Bild von einem Logo; HTML Markup img alt='Web Accessibility Initiative logo'](https://www.w3.org/WAI/intro/alt-logo.png){:.right}
 
-Bilder sollten *[äquivalenten alternativen Text](https://www.w3.org/WAI/WCAG22/Understanding/text-alternatives)* (sogenannten alt-Text) im Code enthalten.
+Bilder sollten *[äquivalenten alternativen Text](https://www.w3.org/WAI/WCAG22/Understanding/text-alternatives)* (sogenannten alt-Text) im Markup/Code enthalten.
 
 Wenn kein alternativer Text für Bilder angegeben wird, ist die Information im Bild nicht zugänglich für Menschen, die beispielsweise nicht sehen können und die einen Screenreader nutzen, der die Informationen auf der Seite – einschließlich der alternativen Texte visueller Bilder – laut vorliest.
 
