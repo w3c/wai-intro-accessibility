@@ -3,7 +3,7 @@
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
 title: Einführung in das barrierefreie Web
 lang: de
-last_updated: 2023-11-26
+last_updated: 2024-02-23
 translators:
 - name: "Alexej Rotar"
 contributors:
