@@ -8,7 +8,7 @@ translators:
 - name: "Alexej Rotar"
 contributors:
   - name: "Jens Oliver Meiert"
-    link: "https://meiert.com/"
+    link: "https://meiert.com/de/biography/"
 github:
     repository: w3c/wai-intro-accessibility
     branch: gh-pages
