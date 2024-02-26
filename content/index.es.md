@@ -11,8 +11,6 @@ contributors:
 - name: "Carlos Muncharaz"
 - name: "Vicent Sanchis"
 
-permalink: /fundamentals/accessibility-intro/es   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
-ref: /fundamentals/accessibility-intro/   # Do not change this
 changelog: /fundamentals/accessibility-intro/changelog/
 layout: default
 github:
