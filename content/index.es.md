@@ -180,7 +180,7 @@ Es más eficiente y efectivo incorporar la accesibilidad desde el principio de l
 -   Para entender algunas de las barreras comunes de accesibilidad desde la perspectiva de la evaluación, acceda a [[Pruebas sencillas - Una Primera Revisión]](/test-evaluate/preliminary/).
 -   Para conocer algunas de las consideraciones básicas de diseño, edición y desarrollo para accesibilidad, acceda a [[Consejos Para Empezar]](/tips/).
 -   Cuando esté preparado para saber más sobre desarrollo y diseño, probablemente le serán útiles recursos como:
-    -   [Cómo cumplir las WCAG (Referencia Rápida)](http://www.w3.org/WAI/WCAG22/quickref/)
+    -   [Cómo cumplir las WCAG (Referencia Rápida)](https://www.w3.org/WAI/WCAG22/quickref/)
     -   [Tutoriales de Accesibilidad Web](/tutorials/)
 -   Para la gestión de proyectos y consideraciones organizativas, acceda a [[Planificación y Gestión de la Accesibilidad Web]](/planning-and-managing/).<br>
     Si necesita hacer correciones rápidas, acceda a [[Estrategias para Reparaciones Provisionales]](/planning/interim-repairs/).
@@ -216,7 +216,7 @@ Existen herramientas que ayudan en la evaluación. Sin embargo, ninguna herramie
 
 ![Imagen de logotipo; Marcado HTML img alt='Web Accessibility Initiative logo'](https://www.w3.org/WAI/intro/alt-logo.png){:.right}
 
-Las imágenes deben incluir una *[alternativa textual equivalente](http://www.w3.org/TR/UNDERSTANDING-WCAG22/text-equiv.html)* (texto alternativo) en el marcado/código.
+Las imágenes deben incluir una *[alternativa textual equivalente](https://www.w3.org/WAI/WCAG22/Understanding/text-alternatives)* (texto alternativo) en el marcado/código.
 
 Si no se facilita texto alternativo para las imágenes, su información es inaccesible, por ejemplo para personas que no pueden ver y utilizan un lector de pantalla que lee la información de la página, incluyendo el texto alternativo de la imagen.
 
