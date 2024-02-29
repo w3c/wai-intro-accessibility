@@ -17,6 +17,10 @@ feedbackmail: wai@w3.org
 
 ---
 
+## 2024-02Feb-29
+
+- In ["What is Web Accessibility" section](https://www.w3.org/WAI/fundamentals/accessibility-intro/#what), replace "see the mobile resource" with "see the archived mobile resource".
+
 ## 2023-11Nov-20
 
 - In ["Examples" section"](https://www.w3.org/WAI/fundamentals/accessibility-intro/#examples), update links to "Understanding WCAG 2" pages, to point to WCAG 2.2. versions.

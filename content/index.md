@@ -3,7 +3,7 @@
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
 title: Introduction to Web Accessibility
 lang: en   # Change "en" to the translated-language shortcode
-last_updated: 2023-11-20   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2024-02-29   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 # translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
 # - name: "Jan Doe"   # Replace Jan Doe with translator name
@@ -29,7 +29,7 @@ layout: default
 # Translate the other words, including "Date:" and "Editor:"
 # Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>Date:</strong> Updated 20 November 2023. First published February 2005. CHANGELOG.</p>
+  <p><strong>Date:</strong> Updated 29 February 2024. First published February 2005. CHANGELOG.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
@@ -109,7 +109,7 @@ For a 7-minute video with examples of how accessibility is essential for people 
 {:/}
 
 -   When you want to learn more about how different disabilities affect Web use, and read about scenarios of people with disabilities using the Web, see [[How People with Disabilities Use the Web]](/people-use-web/).
--   If you want more examples of benefits for others, see the mobile resource [[Shared Web Experiences: Barriers Common to Mobile Device Users and People with Disabilities]](/standards-guidelines/shared-experiences/), multimedia [Used by People With and Without Disabilities](/media/av/users-orgs/#situations), and the archived [Web Accessibility Benefits People With and Without Disabilities](https://www.w3.org/WAI/business-case/archive/soc#groups).
+-   If you want more examples of benefits for others, see the archived mobile resource [[Shared Web Experiences: Barriers Common to Mobile Device Users and People with Disabilities]](/standards-guidelines/shared-experiences/), multimedia [Used by People With and Without Disabilities](/media/av/users-orgs/#situations), and the archived [Web Accessibility Benefits People With and Without Disabilities](https://www.w3.org/WAI/business-case/archive/soc#groups).
 
 {::nomarkdown}
 {% include box.html type="end" %}
