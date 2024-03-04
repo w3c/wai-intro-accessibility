@@ -91,7 +91,7 @@ Aksesibilitas web mencakup semua disabilitas yang memengaruhi akses ke Web, term
 Aksesibilitas Web juga memberikan manfaat bagi orang-orang yang *tidak* menyandang disabilitas, sebagai contoh:
 
 -   orang-orang yang menggunakan ponsel, jam tangan pintar, TV pintar, berbagai perangkat dengan layar kecil, mode input yang berbeda, dsb.
--   orang tua dengan kemampuan yang terbatas karena usia
+-   lansia dengan kemampuan yang terbatas karena usia
 -   orang-orang yang memiliki "disabilitas temporer" seperti tangan yang patah atau kehilangan kacamata
 -   orang-orang yang memiliki "batasan situasi" seperti di bawah terik cahaya matahari atau dalam lingkungan yang tidak memungkinkan mereka untuk mendengarkan suara
 -   orang-orang yang memiliki koneksi Internet yang lambat, atau memiliki bandwidth yang mahal atau terbatas
