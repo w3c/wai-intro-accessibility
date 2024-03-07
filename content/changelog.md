@@ -17,6 +17,27 @@ feedbackmail: wai@w3.org
 
 ---
 
+## 2024-03Mar-07
+
+- In ["What is Web Accessibility" section](https://www.w3.org/WAI/fundamentals/accessibility-intro/#what), in "More Info on What is Accessibility" box:
+  - Replaced "see the mobile resource" with "see the archived mobile resource".
+  - Replaced "multimedia" with "the multimedia resource"
+  - Replaced "the archived" with "the archived resource"
+  - Reordered resources: multimedia resource, then benefits for people with and without disabilities, then mobile resource.
+
+
+{::nomarkdown}
+{% include box.html type="start" h="3" title="Content after update" class="full" %}
+{:/}
+
+```markdown
+-   If you want more examples of benefits for others, see the multimedia resource [Used by People With and Without Disabilities](/media/av/users-orgs/#situations), the archived resource [Web Accessibility Benefits People With and Without Disabilities](https://www.w3.org/WAI/business-case/archive/soc#groups) and the archived mobile resource [[Shared Web Experiences: Barriers Common to Mobile Device Users and People with Disabilities]](/standards-guidelines/shared-experiences/).
+```
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
 ## 2023-11Nov-20
 
 - In ["Examples" section"](https://www.w3.org/WAI/fundamentals/accessibility-intro/#examples), update links to "Understanding WCAG 2" pages, to point to WCAG 2.2. versions.
