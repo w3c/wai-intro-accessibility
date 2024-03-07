@@ -19,6 +19,7 @@ feedbackmail: wai@w3.org
 
 ## 2024-03Mar-07
 
+- Update some links to use HTTPS
 - In ["What is Web Accessibility" section](https://www.w3.org/WAI/fundamentals/accessibility-intro/#what), in "More Info on What is Accessibility" box:
   - Replaced "see the mobile resource" with "see the archived mobile resource".
   - Replaced "multimedia" with "the multimedia resource"
