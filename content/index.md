@@ -30,8 +30,8 @@ layout: default
 # Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
   <p><strong>Date:</strong> Updated 7 March 2024. First published February 2005. CHANGELOG.</p>
-  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
-  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
+  <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
+  <p>Developed by the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
 
 {::nomarkdown}
@@ -225,7 +225,7 @@ Some people cannot use a mouse, including many older users with limited fine mot
 
 ### Transcripts for Audio
 
-[![example transcript](https://www.w3.org/WAI/intro/transcript.png){:.right width="251" height="254"}](http://www.w3.org/WAI/highlights/200606wcag2interview.html)
+[![example transcript](https://www.w3.org/WAI/intro/transcript.png){:.right width="251" height="254"}](https://www.w3.org/WAI/highlights/200606wcag2interview.html)
 
 Just as images aren't available to people who can't see, audio files aren't available to people who can't hear. Providing a text transcript makes the audio information accessible to people who are deaf or hard of hearing, as well as to search engines and other technologies that can't hear.
 

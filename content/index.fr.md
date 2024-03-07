@@ -3,7 +3,7 @@
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
 title: Introduction à l’accessibilité du web
 lang: fr
-last_updated: 2023-11-28    # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2024-03-07    # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 translators:
     - name: "Sylvie Duchateau"
@@ -27,9 +27,9 @@ layout: default
 # Translate the other words, including "Date:" and "Editor:"
 # Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>Date&nbsp;:</strong> mise à jour 20 novembre 2023. Première publication en février 2005. CHANGELOG.</p>
-  <p><strong>Rédaction&nbsp;:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
-  <p>Réalisé par le groupe de travail Éducation et Promotion (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
+  <p><strong>Date&nbsp;:</strong> mise à jour le 7 mars 2024. Première publication en février 2005. CHANGELOG.</p>
+  <p><strong>Rédaction&nbsp;:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
+  <p>Réalisé par le groupe de travail Éducation et Promotion (<a href="https://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
 
 {::nomarkdown}
@@ -227,7 +227,7 @@ Certaines personnes ne peuvent pas utiliser de souris, y compris les personnes �
 
 ### Transcriptions de l’audio
 
-[![exemple de transcript](https://www.w3.org/WAI/intro/transcript.png){:.right width="251" height="254"}](http://www.w3.org/WAI/highlights/200606wcag2interview.html)
+[![exemple de transcript](https://www.w3.org/WAI/intro/transcript.png){:.right width="251" height="254"}](https://www.w3.org/WAI/highlights/200606wcag2interview.html)
 
 Tout comme les images qui ne sont pas disponibles pour les personnes qui ne voient pas, les fichiers audio ne sont pas disponibles pour les personnes qui n’entendent pa. L’ajout d’une transcription textuelle rend l’information audio accessible aux personnes sourdes, mal entendantes, ainsi qu’aux moteurs de recherche et autres technologies qui n’entendent pas.
 
