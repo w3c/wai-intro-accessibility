@@ -2,45 +2,43 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
 title: Introduction to Web Accessibility
-lang: en   # Change "en" to the translated-language shortcode
-last_updated: 2024-03-07   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+lang: ja
+last_updated: 2024-03-07 # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
-# translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
-# - name: "Jan Doe"   # Replace Jan Doe with translator name
-# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple translators
-# contributors:
-# - name: "Jan Doe"   # Replace Jan Doe with contributor name, or delete this line if none
-# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple contributors
+translators:
+  - name: "Hiroya UGA"
+contributors:
+  - name: "Naoki Nakamura"
 
 github:
-    repository: w3c/wai-intro-accessibility
-    branch: gh-pages
-    path: content/index.md   # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
+  repository: w3c/wai-intro-accessibility
+  branch: gh-pages
+  path: content/index.ja.md # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
 
-permalink: /fundamentals/accessibility-intro/   # Add the language shortcode to the end, with no slash at the end. For example /path/to/file/fr
-ref: /fundamentals/accessibility-intro/     # Do not change this
+permalink: /fundamentals/accessibility-intro/ja
+ref: /fundamentals/accessibility-intro/ # Do not change this
 
 changelog: /fundamentals/accessibility-intro/changelog/ # Do not change this
 layout: default
-  
+
 # In the footer below:
 # Do not change the dates
 # Do not translate CHANGELOG
 # Translate the other words, including "Date:" and "Editor:"
 # Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>Date:</strong> Updated 7 March 2024. First published February 2005. CHANGELOG.</p>
-  <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
-  <p>Developed by the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">EOWG</a>).</p>
+  <p><strong>日付：</strong>更新 2024年3月7日 初版 2005年2月 CHANGELOG。</p>
+  <p><strong>編集者：</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
+  <p>教育・啓発ワーキンググループ（<a href="https://www.w3.org/groups/wg/eowg"><abbr title="Education and Outreach Working Group">EOWG</abbr></a>）によって開発されました。</p>
 ---
 
 {::nomarkdown}
-{% include box.html type="start" h="2" title="Summary" class="full" %}
+{% include box.html type="start" h="2" title="概要" class="full" %}
 {:/}
 
-When websites and web tools are properly designed and coded, people with disabilities can use them. However, currently many sites and tools are developed with accessibility barriers that make them difficult or impossible for some people to use.
+ウェブサイトやウェブツールが適切に設計・コーディングされれば、障害のある方も利用できます。しかし、現状では多くのサイトやツールがアクセシビリティの観点で問題を抱えており、利用者にとって困難であったり、不可能であったりします。
 
-Making the web accessible benefits individuals, businesses, and society. International web standards define what is needed for accessibility.
+ウェブアクセシビリティを実現することは、個人、企業、そして社会に利益をもたらします。国際的なウェブ標準は、アクセシビリティに必要なものを定義しています。
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -52,8 +50,8 @@ Making the web accessible benefits individuals, businesses, and society. Interna
 {% include_cached toc.html type="start" title="Page Contents" class="full" %}
 {:/}
 
--   TOC is created automatically.
-{:toc}
+- TOC is created automatically.
+  {:toc}
 
 <span class="box-h box-h-simple box-h-full">Related Resource</span><br>
 {% include video-link.html title="Video Introduction to Web Accessibility and W3C Standards <em>(4 minutes)</em>" href="https://www.w3.org/WAI/videos/standards-and-benefits/" src="/content-images/wai-intro-accessibility/video-still-accessibility-intro-16-9.jpg" %}
@@ -76,30 +74,29 @@ Thus the impact of disability is radically changed on the Web because the Web re
 
 **Accessibility is essential for developers and organizations that want to create high-quality websites and web tools, and not exclude people from using their products and services.**
 
-
 ## What is Web Accessibility {#what}
 
 Web accessibility means that websites, tools, and technologies are designed and developed so that people with disabilities can use them. More specifically, people can:
 
--   perceive, understand, navigate, and interact with the Web
--   contribute to the Web
+- perceive, understand, navigate, and interact with the Web
+- contribute to the Web
 
 Web accessibility encompasses all disabilities that affect access to the Web, including:
 
--   auditory
--   cognitive
--   neurological
--   physical
--   speech
--   visual
+- auditory
+- cognitive
+- neurological
+- physical
+- speech
+- visual
 
-Web accessibility also benefits people *without* disabilities, for example:
+Web accessibility also benefits people _without_ disabilities, for example:
 
--   people using mobile phones, smart watches, smart TVs, and other devices with small screens, different input modes, etc.
--   older people with changing abilities due to ageing
--   people with "temporary disabilities" such as a broken arm or lost glasses
--   people with "situational limitations" such as in bright sunlight or in an environment where they cannot listen to audio
--   people using a slow Internet connection, or who have limited or expensive bandwidth
+- people using mobile phones, smart watches, smart TVs, and other devices with small screens, different input modes, etc.
+- older people with changing abilities due to ageing
+- people with "temporary disabilities" such as a broken arm or lost glasses
+- people with "situational limitations" such as in bright sunlight or in an environment where they cannot listen to audio
+- people using a slow Internet connection, or who have limited or expensive bandwidth
 
 For a 7-minute video with examples of how accessibility is essential for people with disabilities and useful for everyone in a variety of situations, see:<br>
 {% include video-link.html title="Web Accessibility Perspectives Video <em>(YouTube)</em>" href="https://www.youtube.com/watch?v=3f31oufqFSM" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %}
@@ -108,8 +105,8 @@ For a 7-minute video with examples of how accessibility is essential for people 
 {% include box.html type="start" h="3" title="More Info on What is Accessibility" class="simple aside" %}
 {:/}
 
--   When you want to learn more about how different disabilities affect Web use, and read about scenarios of people with disabilities using the Web, see [[How People with Disabilities Use the Web]](/people-use-web/).
--   If you want more examples of benefits for others, see the multimedia resource [Used by People With and Without Disabilities](/media/av/users-orgs/#situations), the archived resource [Web Accessibility Benefits People With and Without Disabilities](https://www.w3.org/WAI/business-case/archive/soc#groups) and the archived mobile resource [[Shared Web Experiences: Barriers Common to Mobile Device Users and People with Disabilities]](/standards-guidelines/shared-experiences/).
+- When you want to learn more about how different disabilities affect Web use, and read about scenarios of people with disabilities using the Web, see [[How People with Disabilities Use the Web]](/people-use-web/).
+- If you want more examples of benefits for others, see the multimedia resource [Used by People With and Without Disabilities](/media/av/users-orgs/#situations), the archived resource [Web Accessibility Benefits People With and Without Disabilities](https://www.w3.org/WAI/business-case/archive/soc#groups) and the archived mobile resource [[Shared Web Experiences: Barriers Common to Mobile Device Users and People with Disabilities]](/standards-guidelines/shared-experiences/).
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -123,9 +120,9 @@ The Web offers the possibility of unprecedented access to information and intera
 
 Accessibility supports social inclusion for people with disabilities as well as others, such as:
 
--   older people
--   people in rural areas
--   people in developing countries
+- older people
+- people in rural areas
+- people in developing countries
 
 **There is also a strong business case for accessibility.** As shown in the previous section, accessible design improves overall user experience and satisfaction, especially in a variety of situations, across different devices, and for older users. Accessibility can enhance your brand, drive innovation, and extend your market reach.
 
@@ -135,9 +132,9 @@ Web accessibility is **required by law** in many situations.
 {% include box.html type="start" h="3" title="More Info on Accessibility is Important" class="simple aside" %}
 {:/}
 
--   General information on business benefits is in [[The Business Case for Digital Accessibility]](/business-case/).
-    -   Examples of the benefits of [making audio and video media accessible](/media/av/) is in the section [Benefits to Organizations](/media/av/users-orgs/#benefits).
--   Guidance on figuring out legal requirements is in the archived [Legal and Policy Factors](https://www.w3.org/WAI/business-case/archive/pol).
+- General information on business benefits is in [[The Business Case for Digital Accessibility]](/business-case/).
+  - Examples of the benefits of [making audio and video media accessible](/media/av/) is in the section [Benefits to Organizations](/media/av/users-orgs/#benefits).
+- Guidance on figuring out legal requirements is in the archived [Legal and Policy Factors](https://www.w3.org/WAI/business-case/archive/pol).
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -153,9 +150,9 @@ The W3C Web Accessibility Initiative ([WAI](/about/participating/)) develops tec
 {% include box.html type="start" h="3" title="More Info on Making the Web Accessible" class="simple aside" %}
 {:/}
 
--   More about these aspects of accessibility working together is in [[Essential Components of Web Accessibility]](/fundamentals/components/).
--   Web Content Accessibility Guidelines (WCAG), Authoring Tool Accessibility Guidelines (ATAG), ARIA for Accessible Rich Internet Applications, and other important resources are introduced in [[W3C Accessibility Standards Overview]](/standards-guidelines/).
--   To learn more about how W3C WAI develops material through multi-stakeholder, international participation and how you can contribute, see [[About WAI]](/about/) and [[Participating in WAI]](/about/participating/).
+- More about these aspects of accessibility working together is in [[Essential Components of Web Accessibility]](/fundamentals/components/).
+- Web Content Accessibility Guidelines (WCAG), Authoring Tool Accessibility Guidelines (ATAG), ARIA for Accessible Rich Internet Applications, and other important resources are introduced in [[W3C Accessibility Standards Overview]](/standards-guidelines/).
+- To learn more about how W3C WAI develops material through multi-stakeholder, international participation and how you can contribute, see [[About WAI]](/about/) and [[Participating in WAI]](/about/participating/).
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -171,31 +168,30 @@ It is most efficient and effective to incorporate accessibility from the very be
 {% include box.html type="start" h="3" title="More Info on Making Your Website Accessible" class="simple aside" %}
 {:/}
 
--   For an introduction to accessibility requirements and international standards, see [[Accessibility Principles]](/fundamentals/accessibility-principles/).
--   To understand some common accessibility barriers from the perspective of testing, see [[Easy Checks - A First Review]](/test-evaluate/preliminary/).
--   For some basic considerations on designing, writing, and developing for accessibility, see [[Tips for Getting Started]](/tips/).
--   When you're ready to know more about developing and designing, you'll probably use resources such as:
-    -   [How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG22/quickref/)
-    -   [Web Accessibility Tutorials](/tutorials/)
--   For project management and organizational considerations, see [[Planning and Managing Web Accessibility]](/planning-and-managing/).<br>
-    If you need to make quick fixes now, see [[Approaches for Interim Repairs]](/planning/interim-repairs/).
+- For an introduction to accessibility requirements and international standards, see [[Accessibility Principles]](/fundamentals/accessibility-principles/).
+- To understand some common accessibility barriers from the perspective of testing, see [[Easy Checks - A First Review]](/test-evaluate/preliminary/).
+- For some basic considerations on designing, writing, and developing for accessibility, see [[Tips for Getting Started]](/tips/).
+- When you're ready to know more about developing and designing, you'll probably use resources such as:
+  - [How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG22/quickref/)
+  - [Web Accessibility Tutorials](/tutorials/)
+- For project management and organizational considerations, see [[Planning and Managing Web Accessibility]](/planning-and-managing/).<br>
+  If you need to make quick fixes now, see [[Approaches for Interim Repairs]](/planning/interim-repairs/).
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
-	
+
 ## Evaluating Accessibility {#evaluate}
 
 When developing or redesigning a website, evaluate accessibility early and throughout the development process to identify accessibility problems early, when it is easier to address them. Simple steps, such as changing settings in a browser, can help you evaluate some aspects of accessibility. Comprehensive evaluation to determine if a website meets all accessibility guidelines takes more effort.
 
 There are evaluation tools that help with evaluation. However, no tool alone can determine if a site meets accessibility guidelines. Knowledgeable human evaluation is required to determine if a site is accessible.
 
-
 {::nomarkdown}
 {% include box.html type="start" h="3" title="More Info on Evaluating Accessibility" class="simple aside" %}
 {:/}
 
--   Resources to help with accessibility evaluation are described in [[Evaluating Websites for Accessibility]](/test-evaluate/).
+- Resources to help with accessibility evaluation are described in [[Evaluating Websites for Accessibility]](/test-evaluate/).
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -211,7 +207,7 @@ There are evaluation tools that help with evaluation. However, no tool alone can
 
 ![image of logo; HTML markup img alt='Web Accessibility Initiative logo'](https://www.w3.org/WAI/intro/alt-logo.png){:.right}
 
-Images should include *[equivalent alternative text](https://www.w3.org/WAI/WCAG22/Understanding/text-alternatives)* (alt text) in the markup/code.
+Images should include _[equivalent alternative text](https://www.w3.org/WAI/WCAG22/Understanding/text-alternatives)_ (alt text) in the markup/code.
 
 If alt text isn't provided for images, the image information is inaccessible, for example, to people who cannot see and use a screen reader that reads aloud the information on a page, including the alt text for the visual image.
 
@@ -233,11 +229,11 @@ It's easy and relatively inexpensive for websites to provide transcripts. There 
 
 {::nomarkdown}
 {% include box.html type="start" h="3" title="More Examples" class="simple aside" %}
-{:/} 
+{:/}
 
--   [[Tips for Getting Started]](/tips/)
--   [[Easy Checks - A First Review]](/test-evaluate/preliminary/)
--   {% include video-link.html class="small inline" title="Web Accessibility Perspectives &mdash; videos and descriptions" href="/perspective-videos/" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %}
+- [[Tips for Getting Started]](/tips/)
+- [[Easy Checks - A First Review]](/test-evaluate/preliminary/)
+- {% include video-link.html class="small inline" title="Web Accessibility Perspectives &mdash; videos and descriptions" href="/perspective-videos/" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %}
 
 {::nomarkdown}
 {% include box.html type="end" %}
