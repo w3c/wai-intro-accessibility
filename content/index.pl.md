@@ -122,8 +122,9 @@ Zobacz 7-minutowy film z przykładami tego, jak dostępność jest niezbędna dl
     zapoznaj się z materiałami multimedialnymi 
     [Używane przez osoby z niepełnosprawnością i bez niej](/media/av/users-orgs/#situations), 
 	zarchiwizowanym materiałem [Dostępność internetowa jest korzystna dla osób z&nbsp;niepełnosprawnością i&nbsp;bez&nbsp;niej](https://www.w3.org/WAI/business-case/archive/soc#groups) 
-	oraz zarchiwizowanym zasobem mobilnym [[Wspólne doświadczenia internetowe: Typowe bariery dla 
-	użytkowników urządzeń mobilnych i&nbsp;osób z&nbsp;niepełnosprawnościami]](/standards-guidelines/shared-experiences/)
+	oraz zarchiwizowanym zasobem mobilnym [Wspólne doświadczenia internetowe: 
+	Typowe bariery dla 	użytkowników urządzeń mobilnych i&nbsp;osób z&nbsp;niepełnosprawnościami](/standards-guidelines/shared-experiences/).
+
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
